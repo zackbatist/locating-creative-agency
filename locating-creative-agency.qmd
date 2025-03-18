@@ -1,0 +1,1439 @@
+---
+title: Locating Creative Agency in Archaeological Data Work
+author:
+  - name: Zachary Batist
+    id: zb
+    url: https://zackbatist.info
+    email: zachary.batist@mcgill.ca
+    corresponding: true
+    affiliations:
+      - name: McGill University
+        department: Epidemiology, Biostatistics and Occupational Health
+        city: Montreal
+        region: Quebec
+    orcid: 0000-0003-0435-508X
+date: today
+abstract: |
+  The workflows that are now commonplace across archaeological projects mask social and epistemic structures and principles.
+  More specifically, they re-distribute creative agency to promote specific kinds of outcomes based on discrete data models.
+  This paper draws attention to the mechanisms through which data are created and curated, focusing on the social and technical apparatus through which archaeologists control the creation and flow of information.
+  Based on observations of and elicitations about archaeological data work in fieldwork settings at two cases, I articulate how the management of data and of labour are inherently intertwined, and how workflows are operationalized by managerial systems to ensure that data are created and curated toward productive ends.
+keywords:
+  - data work
+  - information infrastructures
+  - digital fieldwork practices
+license: CC BY
+citation:
+  title: Locating Creative Agency in Archaeological Data Work
+  url: https://zackbatist.info/locating-creative-agency.html
+bibliography: /Users/zackbatist/Library/CloudStorage/Dropbox/zotero/zack.bib
+csl: chicago-author-date.csl
+toc: true
+toc-depth: 3
+toc-expand: 2
+number-sections: false
+format:
+  html:
+    page-layout: article
+    embed-resources: true
+    grid: 
+      body-width: 1500px
+---
+
+# Introduction
+A general tension exists between the need to operationalize archaeological data as stable and concrete records about the past, and a prevalent intuitive understanding of their constructed and situated nature [@wylie2017: 55-57; @lucas2019: 274-278; @huggett2022a].
+While data serve as the evidential basis upon which analysis and interpretation are based, they are also the products of targeted scientific intervention and are limited by practical and methodological constraints [@dallas2015].
+Archaeologists have developed workflows as ways of limiting archaeologists' behaviours while collecting and working with data in order to emphasize the data's concreteness.
+While these workflows are meant to systematize data work by de-personalizing the archaeological encounter, close analysis of these protocols actually reinforces the notion that data are the products of human decisions and actions, and that data are constructed in relation to human needs, desires and values [@knorrcetina1999; @knorrcetina2001].
+
+This paper responds to recent calls to interrogate the apparatus of archaeological knowledge production by examining the social and technical mechanisms through which archaeologists control the creation and flow of information [@huggett2022a; @dallas2015].
+Through empirical observation and analysis of archaeological work practices and of the media and organizational structures that scaffold them, I articulate how the managerial imperative to model behaviour according to formal processes effectively relocates creative agency away from those who do the work and toward those who direct labour and design information management protocols.
+This prompts further reflection on the roles of information objects, infrastructures and professional relationships in the valuation, validation and legitimization of archaeological knowledge.
+
+# Background
+I consider data as mediating devices that support research by connecting experiences distributed across time, place and community.
+Data work therefore comprises acts of collaboration, or means of communicating varied archaeological encounters among invested stakeholders.
+In other words, I conceive data work, which is omnipresent in all aspects of archaeological research, as the transformation of meanings from one set of activities to another via the materialization of information objects, such as recording sheets, reports, diagrams, finds bags, tags, scrap notes, descriptive monologues, stories, demonstrations, among many other entities exhibiting various degrees of tangibility and stability.
+
+As with all acts of communication, archaeologists who work with data must reconcile the circumstances under which the data were created with the potential outcomes that they desire and deem feasible to achieve through them.
+As such, working with data involves participating as part of a continuum of practice, whereby one's work is impacted by prior actions and has the potential to influence future outcomes [@dallas2015: 190].
+I frame these connections as collaborative commitments, which govern professional relations among members of research communities, and which contribute to systemic norms regarding what data are and how they should be valued.
+This suits my interest in articulating the ways in which expressions of archaeological meaning are valued and how archaeologists actively create information objects that exhibit such value.
+
+This has implications for how we think about archaeological collaboration both within and between project collectives, and helps account for the problematic roll-out of open data infrastructures, particularly their lack of actual meaningful use [@huggett2018].
+Archaeologists' struggle to reconcile prior decisions made in the creation and curation of data with their own secondary use cases is extremely visible in contexts of data reuse at distance from the data's origins, [@faniel2013: 299-301; @atici2013: 676-677; @kansa2013: 90-91; @chapman2016: 213; @austin2024], but similar dissonance also occurs _within_ projects, as archaeologists attempt to impose discrete structure on data emerging from improvised and situated experiences [cf. @khazraee2013; @haciguzeller2021; @batist2021; @huggett2022a: 276-278; @batist2023a].
+My main goal in this section is to draw attention to prior work that addresses how infrastructures and organizational systems inform data collection within projects, especially in fieldwork settings, which are the primary loci of my analysis.
+I highlight prior theoretical work on the nature and value of archaeological data, including commentary on contexts of initial archaeological encounters and how data are then picked up and applied in alternative analytical settings.
+
+## Collection and capture
+In the context of fieldwork,  which is where archaeologists tend to first encounter archaeological objects [@carver2010: 36], data are said to be "collected" [@petrosyan2021: 234; @buccellati2017], which implies that archaeologists are responsible for finding objects that exist in a relatively wild or unobserved state, and retrieving them for further study in more ordered and structured research environments.
+This is concordant with the notion of "raw" data, which refers to observations made at the moment of the archaeological encounter, before being processed or modified in ways that are thought to add interpretive baggage [@huggett2022: 281].
+
+Some critical perspectives more readily acknowledge the roles that archaeologists play in the creation of the archaeological record, rather than as those who merely document materials whose meanings are singular and fixed by the phenomena that generated them.
+@chippindale2000 notably proposed re-framing "data" as "capta" to account for the pragmatic and motivated experience of obtaining information.
+@drucker2011 supported this notion in stating that "data are capta, taken not given, constructed as an interpretation of the phenomenal world, not inherent in it," and @huggett2022 [: 276] summarized that, from a capta perspective, "data are not the start of the process but a consequence of multiple decisions, pre-determinations, and perspectives which precede the moment of capture and impose constraints on the observations recorded as data."
+Similarly, @banning2020 [: 5-6] draws attention to the fact that archaeological data are products of human decisions and biases, and that their qualities, which bear traces of the pragmatic circumstances and potential value imagined by their creators, influence what can be done with them.
+
+Numerous studies of archaeological practice have explored this perspective by explicitly situating archaeological data as aspects of social systems rife with complex power dynamics.
+For instance, Gero [-@gero1985; -@gero1996], @politis2001, @wylie2003 and @mickel2021 examined gendered and neocolonial aspects of recording practices, which affect how records produced by women and racialized individuals are constructed and valued.
+@zorzin2015, @thorpe2012 and @caraher2016 also related recording strategies with the sociopolitical and economic circumstances under which archaeology operates by problematizing the means and pressures for increasing efficiency as driven by capitalist mentalities and profit motives.
+Others including @edgeworth2003, @goodwin2010 and @batist2021 similarly investigated how archaeological meanings are negotiated within situations of unequal understanding and hierarchical rank, and through the implementation of mediating physical and conceptual tools. 
+
+The notion of capta situates archaeological sense-making in relation to goal-oriented apparatus of knowledge production, through which information is assembled and applied to form more coherent knowledge.
+Re-framing data as capta therefore involves highlighting the targeted and reasoned approach at the moment of the archaeological encounter by people wielding physical and conceptual tools that hold their own affordances and limitations, whereas the more prevalent notion of data involves a more passive experience whereby material is swept up in its raw state and granted purpose and meaning during subsequent phases of analysis.^[This may relate to an additional meaning of the similar term "capture," which is primarily associated with generating photographic images [@richards-rissetto2019], but which is also commonly applied to describe other tactical acts of sensing, such as technical drawing [@morgan2018; morgan2021], photogrammetry [@waagen2019; @olson2013], remote sensing [@crutchley2018], and use of digital theodolites [@mcpherron2005; @martinez-del-pozo2013], all of which involve live processing of visual cues to create useful images, thereby situating acts of observation within targeted and systematic analytical protocols and systems set up to support them.]
+This aligns with Wylie's [-@wylie2010: 316] conception of archaeological knowledge construction, which considers how archaeologists recognize particular aspects of an object as meaningful based on the knowledge and understanding that they accumulate during their lived experiences, and design systems for capturing and describing these features in ways that conform to their understanding of their relevance and value.
+In other words, the application of prior observations captured through data amounts to a reconciliation between the circumstances of their creation and the potentials that they afford [@wylie1989; @wylie2017].
+
+This contributes to a view on data as mediating devices that serve to connect chains of pragmatic activities, and therefore operate as discursive media that relate different sociotechnical situations.
+In other words, archaeological data are documentary records that enable research to be extended across time and place, and to be carried out in a collaborative manner.
+The media upon which data are inscribed enable direct experiences with objects of interest to be shared and acted upon in alternative research contexts.
+Moreover, archaeologists rely on physical and informational infrastructures, and establish organizational practices, to normalize the information that they produce and to enable these records to be accessed, understood, and put to practical use.
+Archaeological data can therefore also be understood as discursive devices that enable work which relies upon various methodologies and theoretical outlooks to converge, and which help stabilize and legitimize archaeological knowledge.
+
+This discursive notion of archaeological data is well represented in prior discussions of how archaeologists produce knowledge.
+@hodder2000 experimental techniques of mediating and transmitting information at Çatalhöyük are particularly noteworthy.
+Building on his recognition of the hermeneutic relationship between theory and practice, Hodder developed ways to render them more explicit: finds specialists and analysts were encouraged to participate in site tours to gain a more intimate understanding of the objects they would be working with and to obtain insights from those responsible for recovering the materials in the field [@hamilton2000]; field notes and sketches were posted in common areas, with open invitations to comment and respond with alternative perspectives [@berggren2015: 437]; excavators, who used tablet computers to enter data directly into the database, were able to access analytical findings to inform their work [@taylor2015; @taylor2018; @berggren2015]; and the project's database was designed to encourage recording different outlooks pertaining to objects of mutual interest [@mickel2015b; lukas2018].
+
+However, @chadwick2003 [: 102-103], @lucas2012 [: 72-73] and @sandoval2020 [: 26] questioned this approach by raising concerns about the omnipresence of and confidence in advanced and potentially intrusive recording techniques, such as documenting excavators inner thoughts or formally identifying converging perspectives upon objects of mutual interest, as means of working out this problem.
+@sandoval2020 [: 36-37] doubted whether the adoption of these new media was valuable in the absence of an informed method for producing them, while @chadwick2003 [: 103] pointed out that the technological systems used to capture all of these novel insights did not adequately foster a will to participate in the kinds of work it was demanding of people, while also perpetuating the traditional and hierarchical social order pertaining to acknowledging and crediting labour in archaeological projects.^[See also @beck2000 and @thorpe2012 for related insights on the impact of sociopolitical context and informed implementation of advanced excavation recording strategies, though not as explicitly related to notions of reflexivity.]
+These critiques characterize the problem that reflexive strategies attempt to resolve, i.e. the entanglement of practice and theory, as impossible to mitigate, and identify the inherent situatedness of archaeological records as something that should be accepted as a fundamental aspect of archaeological epistemology rather than something that needs to be reduced or eliminated.
+
+Lucas [-@lucas2001a; -@lucas2012; -@lucas2019] took this to heart by characterizing archaeology as a materializing process, whereby objects of interest are transcribed as information objects with the aim of constructing comprehensive archives, which are accessed by stakeholders with varied interests and who seek different kinds of value from them.
+Dallas [-@dallas2015; @dallas2016a], drawing from contemporary discourse in archival science and digital curation, similarly asserted that all aspects of archaeological work necessarily constitute discursive acts of semantic negotiation, whereby actors working in different contexts reconcile their own practical needs and expectations with the motives, methods, norms, procedures, and tools that inform prior work in alternative situations or that they presume will be present in future applications.
+This is informed by participation in shared experience, whereby actors obtain intuitive knowledge of the kinds of factors that might have influenced the constitution of data and a general understanding of what information will be valuable for future applications.
+Although digital tools and infrastructures may support efforts to bridge discursive gaps across the continuum of practice, they are not in themselves panaceas for resolving a lack of mutual understanding across research contexts.
+This has not stopped considerable efforts to develop technological solutions to what largely constitutes a social problem.
+
+## Workflows
+Workflows, particularly but not exclusively those that rely on digital mechanisms, establish disciplined ways of working and channel information along pre-formulated pathways in service of certain kinds of targeted outcomes, such as reports based on statistical and spatial distribution of archaeological finds [@batist2021: 1737-1740; @caraher2022].
+To achieve these outcomes, workflows attempt to control how information is collected, organized and processed.
+
+This involves modelling archaeological practices in abstract ways and implementing control mechanisms to ensure that the information collected in roughly textured epistemic environments (such as archaeological fieldwork) is rendered as smooth and discrete entities, as necessitated by the protocols used in digital analytical research environments.
+All archaeological activities are therefore presented as generic information processes and made to operate in service of the imperatives of data management and analysis domains.
+While workflows may help to produce valued outcomes, they accomplish this by restricting alternative ways of expressing archaeological knowledge that do not directly contribute to formulaic processes [@batist2024a].
+
+Workflows are designed to simplify or standardize work processes so that they imbue a sense of scientific control over nature, whereby scientists are able to capture stable and objective statements about reality [@caraher2019].
+They effectively attempt to dissolve role of the subjective observer --- who comes with her own experiences, motivations and desires --- as generic and interchangeable, thereby reducing the potential for in-depth semantic negotiation between scholar and nature.
+
+This is valuable in the context of open science, which is driven by a desire to render research practices more transparent.
+Presenting work as following standardized procedures makes it easier to document work processes as conforming to modelled behaviour and in relation to targeted outcomes [@huvila2022].
+On paper, this helps data re-users make sense of data and apply them in new contexts, but in practice scientists intuitively understand that work is never actually standardized despite efforts to present them as such [@huvila2023a; @batist2024a].
+This is why those who re-use data seek out additional contextual information other than what is included in formal documentation in efforts to ascertain the specific situations and circumstances that contributed to a dataset's qualities [@faniel2013: 299-301; @atici2013: 676-677; @kansa2013: 90-91; @chapman2016: 213].
+
+Although workflows are commonly associated with digital tools, they in fact constitute a managerial modality for structuring activities and relationships and can be manifested through either digital or non-digital media, especially when paired with social and professional pressures.
+For instance, when working as part of a rigid hierarchy, it can be very difficult to negotiate with one's boss, especially when under pressure to operate with great efficiency and under extreme time constraints.
+In other words, when work is limited to action and reaction without potential for discursive feedback, people are made to effectively operate as machines.
+
+This being said, digital tools do provide some affordances that make it easier to control workers' actions and limit discursive feedback.
+Specifically, digital systems are useful for ensuring that data are managed according to well-defined parameters, especially in ways that are conducive to formal data integration, which enables analytical processes situated down the line to more easily ingest and use data.
+Digital processes place an emphasis on rigid structures that emulate modelled behaviour, and they have enhanced ability to enforce adherence to these models through user interfaces that limit alternative behaviour out of the models' scope [@huggett2022a: 276-278].
+In other words, digital media enable managers to restrict the potential for discursive interaction and limit workers' capacity to contribute their situated knowledge.
+Even in cases where digital systems have been implemented with an intent of enhancing reflexivity and multivocality, these tools do not negate the impact of centralized and hierarchical power dynamics, which are the root of the problem [cf. @chadwick2003: 102-103; @lucas2012: 72-73; @sandoval2020: 26; @beck2000; @thorpe2012].
+
+Overall, the constitution of archaeological data is clearly informed by professional norms, expectations and value regimes, which are embedded in the social and technical apparatus that scaffold archaeological knowledge production.
+This paper further explores the social, practical and epistemic tensions that arise from these mechanisms, including acts of resistance against the power relations that emerge from them.
+
+# Methods and Materials
+This study documents the social and collaborative experiences involved in archaeological fieldwork practices, specifically focusing on the technologies and media that enable meaning to be translated across contexts.
+Here I describe the methodological approach, the sources of data and the methods I applied to analyze them.
+
+## Approach
+This work is motivated by my desire to articulate the frameworks, mindsets and sets of values that archaeologists adopt to carry out their research.
+I draw from Knorr Cetina's [-@knorrcetina1999] and Suchman's [-@suchman2007] work on situated practice to help me consider how actors obtain their objectives through effective action, how they select and use tools, and how environments condition, frame or influence their implementation of activities.
+I also focus on activity systems to consider how particular tasks fit into broader, segmented continua of practice, and how labour is distributed and synthesized among various individuals [cf. @leontev1974; @engestrom2000; @hutchins1995].
+Moreover, I emphasize the social worlds [cf. @strauss1978; @clarke2008; @huysman2006] in which distributed actions occur to help me understand how professional norms and expectations are established, how intuitions develop concerning what kinds of outputs might derive from particular kinds of activities, how professional styles, genres or props mediate identity within a research community, and the formation of value regimes based around situated work experiences.
+In other words, my approach renders knowledge production as a dynamic, constructive and situated process that involves the use of already established knowledge in the validation of newly formed ideas.
+By highlighting how pragmatic actions are conducted in relation to broader discursive frameworks, I consider scholarly practices in terms of potential, certainty and desire from the perspectives of practitioners themselves.
+This is made possible by considering data as discursive media that connects distributed actions experienced by people operating in disparate work environments, as I discussed in the prior section.
+
+To accomplish this, I draw from activity theory, distributed cognition and situated cognition frameworks to disentangle the social and practical experiences of archaeologists at work.
+Acvtivity theory frames activities as the relations between human subjects and the physical or conceptual tools or environments with or within which they act, and the motives or objectives that drive the system forward in a particular direction [@leontev1974].
+It was useful as a means of breaking down the activities I observed into systemic components, by articulating activities' overall objectives, distributions of labour, physical and conceptual tools, and specific tasks required to fulfill the objective.
+Activity theory frames human actions as series of practical tasks, motivated by specific outcomes.
+However, the outcomes that drive activities forward may be established by actors other than the practitioners themselves, and it is therefore necessary to situate specific activities as parts of broader systems.
+For this, I relied on the distributed cognition framework, which explores how a system's components converge through networks of relationships, dependencies or functional subsystems that enable collective work to succeed in unison [@hutchins1995].
+Distributed cognition enables me to identify how activities slot into broader systems of information control; that is, how archaeologists are rendered as components within a broader apparatus that structures their work.
+At the same time, I draw from the situated cognition framework, which highlights subjects' situated outlooks and examines how their prior experiences and participation in a community of practice informs their behaviour [@suchman2007].
+This enables me to determine how archaeologists identify their roles in the system of knowledge production and the sense of value they ascribe to their constributions to the overall knowledge base produced through collective efforts.
+
+Altogether, these frameworks enable me to examine how archaeologists participate as members of sociotechnical systems that direct collective action in ways that conform to the epistemic mandates of the scientific enterprise.
+
+## Cases
+I observed and interviewed archaeologists at work at two projects in southern Europe.
+Each case provided me with opportunities to explore distinct and overlapping aspects of archaeological practice.
+In case-study research, cases represent discrete instances of a phenomenon that inform the researcher about it, and their selection is based on their relevance to a central topic and their ability to contribute novel insights about it [@ragin1992].
+Cases usually share common reference to the overall research themes, but exhibit variations that enable a researcher to capture different outlooks or perspectives on the matter of communal interest.
+Drawing from multiple cases thus enables comprehensive coverage of a broad topic that no single case may cover on its own.
+
+However, I must emphasize that the cases are not the subjects of inquiry.
+Instead, they represent unique sets of circumstances that frame or contextualize sets of activities, which are actually my primary focus.
+This follows the approach advocated for by @maryl2020 [: 30], who suggest "zooming in to a granular study of particular research activities and operations and zooming out to considering broader socio-technical and cultural factors".
+This involves "magnifying or blowing up the details of practice, switching theoretical lenses, and selective re-positioning so that certain aspects are fore-grounded and others are temporarily sent to the background" [@nicolini2009: 1412].
+I was therefore able to tactfully switch between those lenses to understand the interplay between circumstances and practical implementations.
+
+Moreover, I recognize that decisions, actions and attitudes may vary according to different traditions of practice, and that archaeological projects have their own histories, memberships, sets of tools, methods, and social or political circumstances, which ascribe particular local flavours to the activities I trace.
+My goal is not to survey the whole archaeological discipline, but rather to make certain underappreciated social and collaborative commitments that underlie common tools and practices more visible, and to draw greater attention to certain sensibilities, attitudes and apprehensions that are relevant to contemporary discourse on the nature of archaeological data and ongoing development of information infrastructures.
+I am therefore not as concerned with generalizing my findings across the whole field as much as I am with articulating some significant factors that contribute to decisions and behaviours that archaeologists commonly make and enact.
+I was able to capture a variety of embodied experiences and outlooks corresponding with many roles and positions at both cases, which allowed me to ascertain how data management infrastructures are valued and used in a variety of contexts and by people working throughout the continuum of archaeological practice.
+As such, my conclusions are informed by the community whose views I sought to articulate, and by my own standpoint as a scholar of the culture and practice of science and of the media and infrastructures that support it.
+
+Both cases are research projects directed by professors affiliated with North American universities.
+Commercial archaeology is absent from this study's scope, despite the fact that this accounts for the vast majority of archaeological work conducted throughout North America and Europe.
+My own lack of experience with and knowledge about commercial archaeology contributed to my decision to exclude it from this study.
+However, see @zorzin2015 and @thorpe2012 for similar work pertaining to commercial archaeology, and @perry2018 and @gupta2023 for work that grapples with similar concerns in community-led and Indigenous-led initiatives.
+These studies identify similar tensions with regards to the control of information flows in those alternative modes of archaeology that were excluded from the scope of this project.
+
+My work at Case A constituted a longer-term and in-depth investigation of archaeological practice, which allowed me to develop an understanding of the intricate social relations that developed over time and enabled me to examine certain methods that are drawn out over the course of several field seasons.
+I actively contributed to Case A for several years, largely performing data management and maintenance work, which afforded me with a privileged outlook on how team members structure information, how they typically use data, and what circumstantial events or motivating factors frame such concerns.
+I documented how participants engage with this project's information system over the course of three years (from 2017 to 2019) which included visiting the project during its summer field seasons to observe archaeological practices and to interview selected participants, as well as holding interviews throughout the "off season" both remotely and in person.
+The project's director also made all of the project's documentation and records available to me for the purpose of this research.
+The data I collected largely pertains to fieldwork recording practices, processing and analysis of finds, records management, interdisciplinary collaboration, decisions regarding writing and publication of findings, and discussions of how data and findings are presented, evaluated and revised among broader research communities.
+
+My familiarity with the project that constitutes Case A and the ease of access that this afforded me in the initial stages of work certainly factored into my selection of this project as a viable case.
+As I refined my focus throughout my three years with Case A, I decided to introduce a second case to obtain overlapping and comparative observations.
+My work at Case B was more intensive, comprising a week of interviewing and observation while archaeologists were engaging in fieldwork.
+The project on which Case B is based has a reputation as an early adopter of digital technologies in fieldwork settings, and this presented me with a fresh alternative to what I observed in Case A, which follows more traditional procedures.
+More specifically, Case B innovates in the use of photogrammetry and advanced spatial recording systems and is firmly committed to publishing its data openly.
+My visit, which spanned ten days during its 2019 summer fieldwork season, largely focused on how participants interact with information systems, their perspectives on the challenges and opportunities that these tools afford, and how their work practices are influenced by digital media and protocols.
+
+My familiarity with background knowledge pertaining to the distinct regional, temporal and topical foci of each project, based on my prior work as an archaeologist, was an important factor in selecting cases.
+This familiarity enabled me to recognize which casual references to commonly held notions or to work done by others in the research community warranted further explanation.
+This helped save time during interviews to focus on what I needed to cover, and contributed to the degree of patience that participants exhibited when explaining their work to me as they worked.
+
+See Supplement A for further background information about the cases and the informants mentioned throughout the text.
+
+## Data Collection
+I collected various kinds of data using various methods, while maintaining a focus on accounting for how archaeologists' activities fit into broader sociotechnical systems of knowledge production.
+
+Observational data comprise records of participants' behaviours as they performed various archaeological activities, and take the form of video, audio and textual records.
+They allow me to document what participants actually do as opposed to what they think or say they do.
+Observational data also enable me to document _how_ practices are performed, in addition to the fact _that_ they are performed.
+For instance, participants sometimes recall order of operations out of sequence, or do not identify all the tools and processes that I recognize as relevant.
+Through observation, I am also able to situate activities in relation to broader systems even when participants are unaware that they were contributing to these systems.
+I can replay observational records out of chronological sequence, which enables me to consider how activities occurring at various times or in various contexts indirectly relate to, compare with or inform each other.
+Some of the primary foci of my observations were the processes that result in archaeological records; people's use of information objects or interfaces, which sometimes differ from expected behaviour established through their design; how subjects implemented unconventional solutions or "hacks" to work around problems; how the context of an activity affects its implementation; and how local or idiosyncratic terms, concepts and gestures become established in a research community.
+I observed 90 hours of work and recorded 154 hours of video^[Hours of recorded footage include redundant coverage of co-occurring phenomena recorded by multiple cameras.] across both cases, not including passive or background observations made while living at or working on these projects.
+
+Embedded interviews comprise conversational inquiries with participants in the context of their work.
+These data are meant to account for participants' perspectives regarding how and why they act as they do, given the immediate constraints of the situation at hand.
+Unlike observational records, embedded interviews provide insight into the practicalities of work in the moment, from the perspective of practitioners themselves [@flick1997; @flick2000; @witzel2000].
+However, they are also useful for comparing participants' responses with observational records to interrogate how and why participants' observed actions may differ from the rationales elucidated from embedded interviews.
+Some of the primary foci of my embedded interviews are to account for how participants identify problems or challenges in their work, and to determine ways to resolve them; how certain people gain recognition as domain experts or authorities with specialized knowledge; how specialists relate their contributions to the contributions of others; and how specialists relate their situated perspectives to centralized knowledge repositories.
+Embedded interviews were sometimes captured on video, but also comprised casual conversations which I then wrote down in extreme detail.
+
+Retrospective interviews comprise longer interviews outside of work settings with select participants to contextualize data collected by other means and to determine participants' views on more general or relatively unobservable aspects of archaeological research (such as planning, publishing, collaboration, etc).
+Retrospective interviews also helped me gain insight into how participants situate themselves as members of and in relation to research communities, which may be characterized by different regimes of value and by different methodological protocols or argumentation strategies.
+Some of the primary foci of my retrospective interviews are to highlight participants' perspectives on the value of various kinds of research outputs, what they value in their work and the work of others, the major constraints and challenges that they and their communities face, and how they might resolve them.
+I held 19 retrospective interviews spanning half an hour to three hours with 13 participants across both cases.
+Some interviews included more than one participant, and some participants sat for more than one interview.
+
+I examined documents and media (such as forms, photographs, labels, databases, datasets and reports) to gain insight into institutional norms or expectations.
+My analysis emphasized how people interacted with these objects, so that I could assess how they valued them and the conditions under which they deemed them useful or meaningful.
+I also examined documents and media as means for encapsulating and communicating meanings among users across space and over time.
+This helped me to understand the vectors through which participants either tacitly form collective experiences or directly collaborate among themselves [@huvila2011; @huvila2016; @yarrow2008].
+Some of my primary foci are understanding how document design and media capture protocols anticipate certain methods; how various activities refer to recorded information, especially archived information; the reasons why team members ignore certain equipment and forms of documentation despite their availability; how record-keeping is controlled through explicit or implicit imposition of limitations or constraints; why certain records play more a more central role than others; and how different archaeologists record the same objects in different ways.
+
+My field notes comprise reflexive journal entries that I wrote between observational sessions or interviews.
+They also include moments from observational sessions or interviews that I deemed particularly important.
+Some entries also include descriptive accounts of unrecorded activities or conversations that I have since deemed useful data in their own right.
+
+## Data Analysis
+I draw from what @charmaz2014 [: 14-15] calls the "constellation of methods" associated with grounded theory that are helpful for making sense of qualitative data, namely coding and memoing, to articulate theories based on empirical evidence.
+These enabled me to interrogate the roles and affordances of various tools and documentation procedures and to highlight how they enable cooperative behaviour.
+
+Coding involves defining what data are about in terms (or codes) that are relevant to the theoretical frameworks that inform my research, and identifying instances of these concepts (codings) as they appear throughout the text [@charmaz2014: 43].
+Codes can exist at various levels of abstraction.
+For instance, I applied descriptive codes to characterize literal facets of an entity of interest within a text, such as specific tools, objectives, challenges or activities elicited by interviewees or present in observed behaviours.
+I also applied theoretical codes to represent more interpretive concepts corresponding with aspects of particular theoretical frameworks, such as delineations of different kinds of agency or roles within a sociotechnical system.
+I usually created codes on the fly as "open codes" when prompted by encounters with demonstrative instances in the text.
+This involved synthesizing concepts that speak to my understanding of the phenomena of interest, while remaining receptive to limits imposed by what is actually contained in the text.
+I then re-arranged and queried codes to formulate themes and theories following a grounded theory approach.
+In practical terms, I applied a precise language to segments of video, audio and text to bridge the gap between the archaeological practices I observed and the theoretical frameworks I applied to explore them as epistemic activities and interfaces (see @charmaz2014 and @saldana2011 [: 95-98]).
+
+Memoing entails more open-ended exploration and reflection upon latent ideas in order to crystallize them into new avenues to pursue [@charmaz2014: 72].
+Constructing memos is a relatively flexible way of engaging with data and serves as fertile ground for honing new ideas.
+Memoing is especially crucial while articulating sensitizing concepts, or the "points of departure from which to study the data" that inform the development of my code structure [@charmaz2003: 259].
+Memoing allowed me to take initial notions that lack specification of well-defined attributes, and gradually refine them into more cohesive, definitive concepts [@blumer1954: 7; @bowen2006].
+Memoing encouraged me to explore the main features, relationships or arrangements that underlie a superficial view of a sensitizing concept, and helped me to identify what kinds of things I needed to locate in the data in order to gain a full understanding of the phenomena of interest.
+Memoing is also very important in the process of drawing out more coherent meaning from coded data [cf. @charmaz2014: 181, 290-293].
+By creating memos pertaining to the intersections of various codes and drawing comparisons across similarly coded instances, I was able to form more robust and generalizable arguments about the phenomena of interest and relate them to alternative perspectives expressed by others.
+
+I refer to specific elicitations throughout the rest of the text using references that resemble sequential endnotes, grouped according to the cases that they pertain to. For example: The quick brown fox jumped over the lazy dog.<sup>A1 B2</sup> All elicitations referenced in this paper are indexed in Supplement B.
+
+I obtained informed consent from all individuals included in this study in compliance with the University of Toronto's Social Sciences, Humanities, and Education Research Ethics Board, Protocol 34526.
+In order to ensure that participants could speak freely about their personal and professional relationships while minimizing risk to their personal and professional reputations, I committed to refrain from publishing any personally identifying information.
+I refer to all participants, affiliated organizations, and mentioned individuals or organizations using pseudonyms.
+I also edited visual media to obscure participants' faces and other information that might reveal their identities, and took care to edit or avoid using direct quotations that were cited in other published work that follows a more permissive protocol regarding the dissemination of participants' identifying information.
+
+# Observations
+Here I examine how archaeologists rely on various tools, experiences and social relations when constructing knowledge in fieldwork settings.
+I observed various instances of archaeologists conducting fieldwork and framed their actions as a series of cultural and epistemic experiences, whereby archaeologists contributed to the production of a communal data stream and acted in ways that corresponded with professional norms and expectations.
+I focused my attention on how the community of practice was supported and upheld by combined organizational and technical infrastructures, which effectively governed how knowledge was produced, evaluated and legitimized.
+
+## Fieldwork as Practical, Independent and Improvised Experience
+In the cases I observed, fieldwork was considered the primary domain under which archaeological evidence is constituted, and was generally considered as a root from which subsequent work depends and originates.<sup>[A1](#sec-A1), [A2](#sec-A2), [A3](#sec-A3)</sup>
+Moreover, the field sites were settings where a methodologically diverse group of people came together with some sense of common purpose, where experimental methods were attempted, and where unprintable stories and gossip originated and were retold.
+The richly textured social experiences and the cooperative spirit that emerged from performing collective labour in relatively rough environments, and which  called for a practical, hands-on work ethic, directly informed the constitution of archaeological knowledge at and beyond the site.
+
+The sites where my observations were based were located in outdoor and remote settings,^[While urban fieldwork is common, it was not practiced in any of the cases I examined.] and archaeologists had to modify these rough physical environments so that they could more easily support scientific intervention.
+For instance, archaeologists cleared weeds and broke boulders that inhibited excavation.<sup>[A3](#sec-A3), [A4](#sec-A4), [A5](#sec-A5), [A6](#sec-A6)</sup>
+
+Although fieldwork could be slow and meticulous compared to the range of possible ways forward (i.e. removing sediment by hand with a trowel or mattock, rather than using heavy equipment), there was also a strong impetus to work quickly.<sup>[A7](#sec-A7)</sup>
+Experienced excavators were able to recognize when it was necessary to change gears, and were able to balance care with speed.
+Fieldworkers typically focused on getting the job done cheaply by working with the tools and resources that are on hand and within budget.<sup>[A4](#sec-A4), [A5](#sec-A8), [A6](#sec-A9), [B1](#sec-B1)</sup>
+In this vein, the practices I observed tended to rely on flexible tools that participants could wield in various ways or could modify for use in various circumstances.<sup>[B1](#sec-B1)</sup>
+These tools typically derived from non-archaeological occupations, such as the construction or forestry industries, and were easy and inexpensive to purchase (and replace) from hardware stores.<sup>[A10](#sec-A10)</sup>
+For instance, at Case A, where the soil is quite rocky and dry, fieldworkers preferred to use a hand tool designed for stripping wallpaper instead of the more typical mason's trowel.<sup>[A11](#sec-A11)</sup>
+They generally preferred to use tools that were relatively easy to repair or modify for optimal use; trowels could be sharpened, the worn-out grip on a sledgehammer could be replaced with scrap rubber, and buckets could be patched with duct tape [@batist2021: 1742].<sup>[A12](#sec-A12)</sup>
+Simple tools and materials were often recombined on the fly to serve practical and often one-off functions [cf. @delaet2000].
+
+A great example of the practical, independent and improvised nature of fieldwork is how Theo, a very experienced trench supervisor who would also eventually become Case A's field director, found a way to extend a rod so that he could take accurate measurements.
+This is elicited in @fig-nail:
+
+::: {#fig-nail layout-ncol="1"}
+**From my field notes:**
+
+After hammering in the rebar and vertically aligning the string, it is only level at a point that is higher than the rebar.
+He told me to go grab the other rebar in the corner, though it is massive.
+Tried hammering it in, but it was clear that it would get blown over by the wind.
+I offered to hold it steady but instead he told me to rummage in his bag and find a nail and masking tape.
+He attached the long nail to the rebar, adding 4-5 inches to its length. He then proceeded, with my assistance, to tie the string around the nail, clip it on securely, and secure the line down with a rock. Regarding securing the line down with a rock, this was a challenge for me yesterday, as well as when I did this for the earlier section this morning.
+I needed to find the right kind of rock, which was not too big, but still dense.
+It needed to be not too rough, but with sharp angular corners.
+This was never made explicit; after two failed attempts, first with a large rugged rock, and then with a smaller, less rugged rock, he picked up one and gave it to me, saying  "something like this".
+I wound the string around it, leaving some slack, and then positioned the rock in a way that would render the line taut, by rotating it or securing it around others.<sup>[A12](#sec-A12)</sup>
+
+A transcript of the author's field notes recalling how Theo, a very experienced trench supervisor at Case A, improvised a solution to a practical problem using tools and resources on hand and through an indirect style of communication.
+:::
+
+This anecdote illustrates the improvised and iterative process of assembling a practical workaround for a minor problem.
+We tried working with various combinations of materials, from Theo's own toolkit and from the natural environment, to extend the length of the rod and ensure that it can stand steady in the wind.
+This work was driven by a desired outcome, and was both constrained and made feasible by the materials that were available at hand.
+Based on his experience, Theo assessed the situation and extended the rod in a way that enabled him to achieve his objective without introducing confounding factors that would prompt others down the line to question the record he produced.
+In other words, he established a controlled environment that suited his specific and ephemeral circumstances and in a manner that could not necessarily be transposed to alternative settings.
+
+Archaeological fieldwork would not be possible without this kind of improvised problem-solving behaviour, initiated and operationalized by fieldworkers themselves.
+In situations like that which I articulated in @fig-nail, the fieldworker constitutes a creative agent who assembles an apparatus through which they may collect meaningful information.
+He operates within a space that he is intimately familiar with, and which constitues a domain under his control, using materials available at arms reach and whose properties and affordances he is intuitively aware of.
+However, he does not work in isolation, and is in fact driven by an impetus to record specific bits of information to feed into a database, so as to enable further analysis that he plays no part in.
+In what follows, I draw more focused attention toward the emerging sociotechnical tensions between these localized systems of data capture and their integration within broader sociotechnical systems that direct the flow of information.
+
+## Capturing visual media
+Visual media have long been an integral component of archaeological practice.
+Their main purpose is to create a representation of an object in a way that portrays its physical proportions and spatial configuration.
+Archaeologists accomplish this using systems that transpose spatial configurations onto mutable and mobile media.
+With photography, this involves sensing and storing the patterned reflections of photons, whereas illustration involves creating parallel environments on paper or digital planes and establishing means of translating observed spatial relationships onto them.
+As we shall see, these means for capturing an image of an archaeological object of interest contain different underlying mentalities, value regimes and affordances for future use of the outcomes they produce.
+These distinctions, and the ways that they have been incorporated into archaeological information management systems, reflect broader tensions regarding pressures to digitize and automate fairly common archaeological practices.
+
+In my work at Case A I observed how archaeologists illustrate trench sections in fieldwork settings.
+Archaeological illustration operated by establishing a set of parallel environments and a means of translating spatial configurations between them.
+This was accomplished by imagining the object of interest as if it was overlaid upon a two-dimensional grid, with a parallel grid represented on a sheet of graph paper.
+While largely abstract, the grid imposed on the trench section contained certain physical components.
+Specifically, archaeologists established physical reference points using taut, level strings laid out horizontally across the trench, secured with nails or rebar.
+Tape measures were aligned along the string and the vertical span of the trench.
+A nail placed in the corner of the trench was also established as a known spatial point, whose precise location was determined by spatial data specialists using theodolites, GPS, total stations or other means at their disposal.
+The height of the string and the positions of the trench corners were determined in relation to this fixed point.
+A similar grid was established on a page of graph paper, and congruent reference lines were drawn in relation to a fixed point marked on the page.<sup>[A13](#sec-A13), [A14](#sec-A14), [A15](#sec-A15), [A16](#sec-A16)</sup>
+
+After establishing a congruent grid on the page, the illustrator identified significant spatial points along the baulk and determined their parallel positions on the page in relation to the reference lines.
+For example, the illustrator identified the position of a boulder's corner by counting the number of centimetres below the reference string and the number of centimetres from the edge of the trench, and marked a dot on the page at congruent distances from the reference points that demarcate the edges of the grid.
+After plotting a series of points in this manner, the illustrator connected them with curves or line segments, attempting to match their perception of the boundaries between materials.<sup>[A13](#sec-A13), [A14](#sec-A14), [A15](#sec-A15), [B2](#sec-B2)</sup>
+She then erased any arbitrary control lines and reference points, traced the pencil-drawn lines with ink to enhance visual contrast and clarity, and applied patterned in-filling to the shapes between the plotted lines to represent different kinds of objects.
+The illustrator also demarcated the precise location where a sample specimen was taken by plotting icons at the appropriate grid coordinate, and annotated the image with the elevations of significant points.<sup>[A13](#sec-A13), [A14](#sec-A14)</sup>
+
+---
+
+The illustrator then identifies significant spatial points that correspond with meaningful material intersections, for instance the corners of large boulders or points along a stratigraphic interface, and expresses the points' positions in terms that specify the number of centimetres distance between a point and the string and between a point and the position of the intersecting baulk, with reference to the measuring tapes.
+The illustrator then places a dot on the page at a position that represents an equivalent intersection, but at a smaller scale.
+Plotting more points makes it easier to draw a more precise line, but experienced illustrators are relatively adept at matching the observed interfaces on the page.\textsuperscript{\ref{A147} \ref{B37}}
+
+After all the significant lines are drawn, the illustrator erases any arbitrary control lines and reference points, and traces the pencil-drawn lines with ink to enhance visual contrast and clarity.
+They then apply patterned in-filling to the shapes between the plotted lines to represent different kinds of objects.
+For instance, the illustrator may represent clay soils with diagonal lines, and fill the outlines of boulders with fine, speckled dots.
+The illustrator may also demarcate the precise location where a sample specimen was taken by plotting an icon at the appropriate grid coordinate, or may annotate the image with the elevations of significant points as determined with reference to fixed spatial points that the spatial data specialist recorded.\textsuperscript{\ref{A147}}
+
+Although I have not observed artefact illustration for the purposes of this study, it involves a very similar process (see @adkins1989 and @griffiths2007 for more detailed overviews of artefact illustration procedures).
+However there is greater emphasis on applying visual cues through use of common conventions, which convey specific information about the objects they represent [@banning2020: 351-361].
+For instance, the top and bottom points are more explicitly articulated to facilitate comparing drawings of the same artefact from different spatial perspectives (i.e. dorsal, ventral and edge perspectives), and line widths and dotting convey specific meanings regarding the artefact's physical properties, such as to account for weathering processes or whether a broken edge is ancient or a product of modern intervention.
+
+---
+
+Illustration in fieldwork settings was sometimes performed independently but it is very common for two people to collaborate on this task.
+In such cases, they communicated using language that reflects the mindset that this process calls for.
+For example, I observed Jane --- a promising student and trench assistant --- standing at the edge of the trench saying something like "at x on the horizon, it's y down", and Theo who was holding the drawing pad would reply either with an acknowledgement that he understood the coordinate and had finished plotting the point, or by asking her to repeat it in case he did not hear her properly.<sup>[A14](#sec-A14), [A15](#sec-15), [A16](#sec-A16)</sup>
+They established a comfortable rhythm, and adjusted the volume and tone of their voices to account for any initial miscommunication or difficulty hearing the sound of the others' voice over loud gusts of wind.
+The terms they used were ones they adopted on the fly, and they needed only a basic understanding of the principles behind the technique to formulate a script that included the identification of vertical and horizontal variables, their mutable values, a connective term to draw an association between them, and an exclamation to indicate that a coordinate had been successfully recorded and that they should continue on to the next point.<sup>[A14](#sec-A14)</sup>
+This is the framework for language that allows mutual comprehension and translation of physical spatial configurations onto the page.
+Their speech was flexible and adaptable to local conditions and circumstances, while also being driven by a need to produce a stable information output.
+Attempts are made to strip the information object of the processes through which it was produced and to make it seem more definitive, but it is clearly a hand-drawn document.
+
+It is also notable that archaeological illustrators found it necessary to work with material with which they were familiar, or alongside people who already had such familiarity.<sup>[A14](#sec-A14), [A16](#sec-A16)</sup>
+For instance, a trench supervisor had to be present to help identify where a stratigraphic interface should be delineated, or to identify which boulders or other materials jutting out from the baulk were worth recording.
+This supports the notion that section drawings serve as schematic documents that convey archaeological encounters, rather than as a literal representations of objects of interest.
+
+Contrast this with archaeological photography, another means of imaging that archaeologists commonly employ in their fieldwork.
+Photography differs from illustration in that it captures an object's likeness as a whole, and does not account for the storied process through which the object obtains archaeological meaning.
+Photography does involve active decision-making, like deciding what is worth recording, or deciding how to adjust the environment and how to configure the camera to account for the photographer's understanding of how their camera will respond in a specific set of conditions.
+But, by-and-large, archaeological photography is more concerned with obtaining a record of an object rather than a representation of objects in relation to other forms of archaeological information.
+This is evident through the fact that, in the cases I investigated, much of a photograph's significance stemmed from its associations with records made about it.
+In the excerpt presented in @fig-photolog-convo from an interview with Chris (one of Case B's co-directors and the person in charge of photography on site), he explains how each photo was recorded in a ``photo log'' or a spreadsheet that identifies the objects photographed and documents the circumstances under which the photos were taken.
+
+::: {#fig-photolog-convo layout-ncol=1}
+**Zack:** Can I get a brief shot of the page, what you're writing there?\
+**Chris:** Sure.\
+**Zack:** Yeah, it's just basically a photo log.\
+**Chris:** Yeah, just a photo log, just making little notes, and then I transfer it to a, like a spreadsheet.\
+**Zack:** You keep track of the photo number? Like the file name?\
+**Chris:** Yeah, so everything, so what I do is I copy like a reference to the image file name in that spreadsheet, and every photo, and each photo is labelled like [redacted identifier] _P1, _P2, like for each, each, each umm stratigraphic unit.<sup>[B3](#sec-B3)</sup>
+
+Conversation with the person in charge of photography on site at Case B, who explains the process of recording a photo log.
+:::
+
+Some information about the photo was also hard-coded into photos themselves.
+This involved placing a scale, a Northing and colour grid, as well as a slate that identifies the trench, the date and personnel responsible for the work within the frame as the photo was taken (see @fig-photography).
+However, the information that these devices were meant to convey was quite imprecise and served more as "hints" on how to proceed with an investigation rather than as truly reliable foundations for knowledge construction.
+
+![Archaeological photography in the field involves relating the photograph to other records about the object being photographed.](figures/photography.png){#fig-photography}
+
+Moreover, photographers were required to capture "complete sets" of photos, i.e. photos of a trench opening and closing, with and without a photo board for each instance.
+In this sense, archaeological photography became just one aspect of formulaic data-collection procedures, and was regarded with a checklist mentality.
+It was common for trench supervisors to become impatient and eager to move on to other work, while neglecting to set up their frame in a manner that would have ensured higher visual quality.
+They also often took more photos than were necessary and opted to sort through them later to find the best ones, but this did not ensure that any of the photos were of good quality; the photographer instead had to choose the best of a set of poor options, which is hardly optimal [similar observations were also made by @knoll2019].
+
+Despite difficulties working in such relatively inconsistent and uncontrollable environments, the strong association between photos and _records of_ photos contributed to a treatment of archaeological photography as a form of data collection.
+This was apparent in my observations that data management specialists, frustrated with inconsistent or missing data in the sets of photos that they were responsible with curating and the logs that they were responsible for normalizing, directed fieldworkers to do photography in ways that conformed with data management protocols.
+
+This was especially evident when photography was performed by trench supervisors instead of a dedicated field photographer, as was the case in Case A.
+Trench supervisors were instructed to capture a specific set of images when triggered by certain events, e.g., when opening and closing a trench or after identifying a significant archaeological feature, and these instructions also told them how to optimize the outputs of their efforts, e.g. managing lighting and eliminating problematic shadows.
+However, the significance and value of this work was rarely communicated to the fieldworkers who actually took the photographs.
+Instead, the creative acts of designing a photography protocol, selecting and configuring equipment, and establishing how to process relevant information about a photograph were delegated to those who served a managerial role.
+Archaeological photography was thereby directed by workflows, which are disciplined ways of working and that involve a shift in the relative power held by human and non-human agents involved in an activity.
+
+More generally, the adoption of workflows in archaeological photography may be partially attributable to technological change.
+When photography relied on film as a medium for capturing images of archaeological entities, which was relatively scarce and took lots of time to develop into finished photographs, photography was a specialist activity.
+A sole photographer who carried specialized instruments (digital single-lens reflex [DSLR] camera, scales, and light meter) would be called upon to take all official photos of noteworthy finds and features [cf. @dorrell1994; @shanks2013].
+But technological advances in digital photography that have become widely available over the past two to three decades, including instant image rendering, cheap and plentiful digital storage, fast electronic file transfer, and reduced or eliminated cost of equipment (e.g., dark rooms, developing fluid, flash bulbs), made it possible to reduce, and even eliminate, the need for a specialist photographer in most archaeological projects.
+Now fieldworkers may be quickly trained on the job or be made to follow standard photography protocols using widely available and relatively high-quality cameras, or even using cameras integrated into their own smartphones.
+
+Archaeological fieldworkers can thus be made to capture objects visually according to predefined protocols, stimulated by certain triggering conditions, and using the cheapest approach available.
+It is not necessary to waste time training photographers to understand how a camera works and how to set up their equipment in a manner that yields good results, when it is more efficient to delegate these creative acts to experts who design systems and document the operational specifications in excavation manuals that fieldworkers are expected to follow blindly.
+Fieldworkers are rarely taught how a piece of equipment works; instead, they are taught how to operate it.
+
+---
+
+That being said, @morgan2018 also drew attention to the ways in which archaeological photography, including acts of image manipulation, can enhance archaeological understanding if performed in ways that are reminiscent of the intimate engagements necessary to generate informative illustrations of entities encountered during fieldwork, such as archaeological illustration, which remains a relatively specialized activity.
+As a document about the archaeological encounter, a photo must be created by someone who knows what they have recovered and why it is significant.
+For this reason, archaeological illustration also remains a constituent of archaeological fieldwork, and has not become simply an extension of the data-management domain.
+However, there have been attempts to do precisely this, particularly through digital annotation of archaeological photographs and certain applications of photogrammetry [@morgan2018].
+But these attempts have met resistance through the same mechanism that makes archaeological illustration unique, namely an effort to situate these practices as activities that primarily deal with archaeological encounters rather than as creating simulacra of archaeological objects.
+
+---
+
+The case of photogrammetry, also known as structure-from-motion imaging, warrants further consideration.
+Photogrammetry operates by inferring three-dimensional geometry from a series of two-dimensional images of an object taken from multiple overlapping perspectives.
+The points of overlap serve as common reference points for construction of a unified three-dimensional model.
+I observed this process at Case B, as performed by Rufus, who, aside from being one of the project's co-directors, is a pioneering figure in the use of photogrammetry in archaeological fieldwork settings.
+
+Before photogrammetric imaging could begin, it was necessary to identify an object of interest, and for fieldworkers to expend a great deal of effort to clear light debris and particulate matter from all around the target object.
+The area was then cleared of all equipment and personnel, save for spatial targets placed around the object whose precise locations were later recorded with the differential GPS (DGPS).
+Wielding a high-resolution digital camera, Rufus framed in his mind the area around the object as if it were at the centre of a conical grid.
+Starting in one position, he proceeded to take a series of photos of the object, shifting his position by moving one step laterally around the object before each shot.
+Once he completed the circuit around the object, he took a step back and repeated the process, effectively walking a series of concentric circles around the object.
+Afterward, he went right up to the object and took a few more detailed photos up close and from perspectives whose angles intersect at more acute angles.
+As he moved, Rufus was wary to not cast shadows on the object of interest.
+Once he captures all the photos, Chris came in with the DGPS rover and recorded the locations of the spatial targets.
+These were subsequently used to calibrate the spatial measurements and rectify the model against local and global geographic coordinate systems.<sup>[B4](#sec-B4)</sup>
+
+After returning to the dig house, Rufus transferred the photos to his computer and sorted through them.
+He imported them into Agisoft PhotoScan, a software suite that facilitates "stitching together" a 3D model from multiple constituent photographs.
+He visually examined each image and discarded those that he believed would disrupt the model based on his prior experience, which enabled him to anticipate which input images would produce poor-quality 3D renders.
+The software then identified points that various photos have in common and inferred three-dimensional geometry based on the shifting perspectives among them.
+Rufus then inspected the 3D model to determine whether there were any smudged or imprecise areas and re-calibrated the software parameters to account for any imperfections.
+He drew from his years of practical experience, as well as deliberate and controlled tests that applied different parameters on relatively simple toy datasets, to guide his decisions in calibrating the software.<sup>[B4](#sec-B4)</sup>
+
+In other words, photogrammetry involved a very precise and intentional set of actions that Rufus coordinated in a manner which foresaw potential issues in subsequent stages of work.
+He performed his work with particular outcomes in mind, specifically the ability to obtain a precise and georeferenced model against which object distributions can be mapped.
+For Rufus, his knowledge of how the mechanism works and his ability to assemble his own creation from basic components and principles are what sets his work apart as a specialist in this matter.<sup>[B5](#sec-B5)</sup>
+There exist more general-purpose tools (i.e. smartphone apps like 123D Catch) that enable creation of similar-looking outputs by following a simplified set of instructions in the app (presumably written by the app's developers), but Rufus did not consider the people who use those tools to be photogrammetry experts due to their lack of creative agency in the overall process.
+
+Interestingly, in an unrecorded conversation Rufus expressed his belief that photogrammetry is a fieldwork practice, rather than something that "digital archaeologists" with little fieldwork experience should perform.
+It is a drawn-out activity that necessitates direct engagement and familiarity with the object of interest.
+In thinking about how each stage of the photogrammetry workflow will affect the next and eventually culminate in a compiled image, Rufus and Liz (a very experienced trench supervisor at Case B) recognized the impacts that their decisions made at various stages in the process had on the final product, for example, when clearing debris or when discarding blurry photographs.<sup>[B6](#sec-B6), [B7](#sec-B7)</sup>
+Rufus values awareness of the context of creation and holding an involved connection with the process through which the dataset is developed.
+
+In all of this, a clear tension is evident with regards to the treatment of visual media either as products that stand in as relatively stable representations of objects of interest, or as manifestations of cumulative archaeological engagements.
+Attempts to systematize creation of visual media largely focused on the outcomes of work, and seek ways to de-emphasize the subjective nature of archaeological documentation so as to instill confidence in the outcomes' immutability.
+This is accomplished by elevating tools as actors that dominate human action, or by reducing people's actions as being akin to the use of tools.
+<!-- Resistances to these efforts tended to be most prominent in cases where the agency of the people who capture visual media was deemed more valuable than the information objects that derive from work processes. -->
+
+## Collecting and managing spatial data
+Archaeologists are very concerned with accounting for spatial distributions of the objects they recover.
+Every artefact, feature or interface an archaeologist encounters can be characterized in spatial terms.
+Here I will describe various techniques that archaeologists have developed to help systematize the collection and integration of spatial information, and relate these practices to emerging tensions pertaining to the coordination of labour and data.
+
+A common fieldwork practice in archaeology is the use of site grids [@roskams2001: 95-101], which were also employed in the cases I observed.
+The purpose of site grids is to place highly localized observations within broader integrated systems, namely the project's geographical information system (GIS).
+Site grids are created by marking a series of points in the physical landscape with project-specific geospatial coordinates.
+These points may also correspond with internationally-recognized global coordinate systems, but projects tend to conduct day-to-day operations based on their own grid systems.
+Each trench is therefore located near a point with fixed spatial coordinates, and the trench's spatial dimensions can be inferred by measuring distances from that fixed point.
+These derived locations, whose positions are now known, can then be used to infer an extended network of known points by measuring and calculating the differences between the distances from target points to known points.
+In other words, fieldworkers leverage the web of inferred points to determine and record the positions of their interventions and of the things that they recover.
+
+In the cases I observed, fieldworkers initially recorded the positions of their finds in relational terms, i.e. as distances in relation to the fixed points from which they measure (see @fig-spatial-relational and @fig-spatial-recording).\textsuperscript{\ref{A12} \ref{B8}}
+When finalizing their paperwork, they sometimes took on the task of calculating fixed positions from the relational distances they initially measured and recorded, but this was not really deemed as an essential task within their purview.\textsuperscript{\ref{A15}}
+Instead, this work of converting measured distances into coordinates on the site grid themselves was often delegated to specialists who work with geospatial data.\textsuperscript{\ref{B8}}
+This contributed to a general distinction between the domain of fieldwork, which was responsible for initial data-recording procedures, and the domain of data management, which was responsible for conversioning, formatting and cleaning data for analytical and interpretive purposes.
+
+![Recording spatial information in relational terms.](figures/spatial-relational.png){#fig-spatial-relational}
+
+![Recording spatial information in the field. \textbf{[A]} depicts a system that measures distance in relation to trench entities. \textbf{[B]} depicts a geospatial specialist and a fieldworker determining an object's position using a digital theodolite.](figures/spatial-recording.png){#fig-spatial-recording}
+
+However this enactment of institutional boundaries did not necessarily reflect fieldworkers' lack of interest in relating their efforts as part of broader geospatial networks.\textsuperscript{\ref{A17} \ref{A18}}
+Rather, it conveyed fieldworkers' extreme sense of focus on the trenches or grids under their direct purview.
+The grids established by geospatial specialists effectively enabled field supervisors to relate their own engagements within their respective trenches and transects to the broader grid, in a way that required less mental overhead on their part.
+
+Moreover, the indirect relationships that fieldworkers had with the formal site grid served as a way of maintaining fieldworkers' unique perspectives on the things they encountered.
+A trench was somewhat detached from the rest of the world in the sense that a supervisor and her assistants developed their own understanding of it and its features.
+They referred to specific boulders by given names, attributed personalities to certain corners, and were able to communicate about specific entities even while using the vaguest of terms (i.e., "that rock," "over there," "behind you").\textsuperscript{\ref{A14} \ref{A16} \ref{A19}}
+Fieldworkers felt _obliged_ to record formal distances between entities and were bemused by the stock that data managers and analysts put into these formal values.\textsuperscript{\ref{A20}}
+They dealt with the fuzzy boundaries between strata and the loose distinctions between natural and cultural material on a day-to-day basis, and recognized that relational associations, rather than formal recording techniques, were better suited for capturing these aspects of the archaeological record.
+
+Working with string, measuring tapes and plumbobs allowed fieldworkers to operate in this relational manner and communicate using the local lexicon of their trench.
+At the same time, this also provided outputs that were deemed necessary to conduct a thorough integrated analysis and to relate the self-contained sub-system of the trench to a global spatial infrastructure.
+
+However, the gradual uptick in the use of precise DGPS systems may be altering this balance.
+DGPS systems, such as the one used in Case B, enable fieldworkers to determine an object's fixed position without having to convert between as many relational measurements.
+While it is true that DGPS positions are inferred, using a rover in relation to a more sensitive GPS unit situated in a fixed location, the people who use this system need only to measure a single point to determine the object's position. Software handles the conversions for them.
+Moreover, these off-the-shelf tools express each position according to global coordinate systems, rather than the project-specific grid system.
+Chris, who operated the DGPS for Case B, really valued this, since it enabled him to instantly visualize the points on maps downloaded from the web, which feature additional data and aspects of the surrounded built landscape that he did not have to add in himself.<sup>[B9](#sec-B9)</sup>
+The reduced mental overhead and the enhanced ease of use encouraged the team to record immense amounts of spatial data, and essentially all their photographs and photogrammetric models are georeferenced as a result.
+
+Fieldworkers were therefore made to think of the data they collect strictly in terms of contributing to a dataset and as feeding into a subsequent stage of work.<sup>[B8](#sec-B8), [B9](#sec-B9), [B10](#sec-B10)</sup>
+As such, fieldworkers' labour was framed as part of a larger workflow, which prioritizes an output in which they have no direct stake.
+Fieldworkers were brought into, and fieldwork was performed in service of, the domain of data management, rather than performing work that granted them more creative agency.
+
+# Discussion and Conclusion
+This paper articulates the sociotechnical systems that archaeologists develop and rely on to organize themselves and the information they produce.
+My aim has been to demonstrate the situated aspects of archaeological data management, and, in particular, to highlight the distribution of creative agency across the continuum of archaeological practice.
+I advance a pragmatic vision of archaeology, which emphasizes local circumstances, experiences, and motivations as key factors that drive scholarly communication and participation within information commons.
+
+Overall, I found that the management of archaeological data and of archaeological labour are deeply intertwined; the systems that archaeologists have set up to help collect, organize, combine, store, share, and reuse data all operate by controlling how people work.
+Moreover, I found that the technical infrastructures that archaeologists rely on are far from being asocial entities, and in fact mask collaborative commitments, or norms and expectations that govern professional relations among participating agents.
+Additionally, the organizational structures that delineate roles and their corresponding rights and responsibilities significantly influence how data are structured and made valuable.
+By rendering labour as a series of programmatic operations conducted by interchangeable components, database managers and project managers work together to impose control over relatively wild archaeological experiences, making their outcomes conform to standard models.
+
+More specifically, in the workflows I observed, managers operating from a centralized position of authority decided what data to collect, how they should be collected, and how they should be processed, integrated and stored --- all in advance of and separated from the work itself.
+For instance, I observed that in archaeological photography, fieldwork was brought under the domain of the database apparatus, which curtailed fieldworkers' abilities to make independent creative  decisions.
+Data management systems and the formal data structures that they enforce therefore served as vehicles through which project directors centralized their control over work being done throughout the project, and allowed them to take ownership over, exploit, and redistribute the products of collective effort.
+Archaeological data management should therefore be understood as management in a more general sense due to its reliance on managerial principles that enable strategic re-arrangement of agency from a distance.
+These observations corroborate reflections by other researchers, including @caraher2019 and @thorpe2012, who argued that workflows transfer interpretive agency away from fieldworkers --- who must decide what to record and how to record it --- to the system's designers --- who implement the rulesets in consultation with project management.
+They also support observations by @haciguzeller2021, who noted that structured data such as those that emerge from workflows constitute non-neutral and power-laden representations --- and as such, are the outcomes of decisions to satisfy particular sets of warrants, needs and desires.
+
+At the same time, roughly textured fieldwork environments, which are where most archaeological data first emerge, are where virtually all archaeologists learn about the norms and expectations that govern how to work and how to capture data.
+More specifically, experiencing fieldwork imbues an understanding that the information that archaeologists work with is generally rough, tentative, fluid, and flexible.
+The common cause and culture that archaeology has maintained, which is predominantly instilled through formative fieldwork experiences, is held as a shared intuitive understanding of the bounds of epistemic behaviour [as per @knorrcetina1999].
+This encourages a well-rounded and critical assessment of how individual tasks fit within broader systems of knowledge creation and drives resistance against attempts to atomize and workflow the archaeological process.
+As such, while it may seem, in an abstract sense, that projects impose order on all the work that falls under their purview, archaeologists with plenty of fieldwork experience know intrinsically that, in practice, this should be more accurately described as an _attempt_ at order which is never fully achieved.
+Similar undocumented acts and attitudes of resistance are prevalent throughout the discipline, and are more acutely visible once the myth of a frictionless and technologically-mediated archaeology is understood to be a _proposition_ for one possible future, rather than an inevitable next stage in the evolution of our discipline [cf. @huggett2018a; @batist2021; @opitz2021; @caraher2022; @huggett2023a].
+
+So, despite attempts to bring extreme order to archaeological projects as concrete systems, the actual fuzzy nature of archaeological projects shines through, and often in ways that completely disrupt the carefully orchestrated workflows.
+This represents an extension to Bowker's [-@bowker1994] notion of "infrastructural breakdown" --- the phenomenon whereby infrastructure becomes acutely visible during moments of disruption --- wherein I posit that when infrastructure breaks down, the social structures and cultural experiences that hold the technical apparatus together shine especially brightly.
+In my case studies, the failures to control archaeological knowledge production through the imposition of concrete structures reveal the discipline's fundamental epistemic values, and demonstrate that the more things change, the more they stay the same.
+
+# Supplement A
+## Description of Cases
+Case A, which largely comprises the excavation of a prehistoric site in Southern Europe, followed archaeologists' evolving engagement with the information system over the course of several years.
+Like many other archaeological projects, Case A's research team composition and governance structure follows a common model, with a director who coordinates the project, various specialists whom the director recruited for their expertise in the interpretation of finds, a number of trench supervisors who lead excavation and coordinate data collection, and excavators who are usually less experienced students who operate under the guidance of their assigned trench supervisors.
+It also relies extensively on archaeological surface surveys and assessments of the landscape to inform excavation strategies and guide interpretations of finds.
+Case A addresses common underlying research questions, and its participants compare its findings with similar work in the vicinity.
+Moreover, it relies on and engages with local communities who support the research by agreeing to excavation on their lands, while also providing housing, food and other support to the mostly foreign research team.
+
+This project serves as a useful case study that illustrates of the pragmatic and multifaceted ways in which participants reason and work their way through the rather mundane activities that archaeologists commonly undertake in similar research contexts.
+I have actively contributed to Case A for several years, largely performing data management and maintenance work.
+This has provided me with a privileged outlook on how team members structure information, how they typically use data, and what circumstantial events or motivating factors frame such concerns.
+I have documented how participants engage with this project's information system over the course of three years, from 2017 to 2019.
+This involved visiting the project during its summer field seasons to observe archaeological practices and to interview selected participants.
+I also held interviews throughout the "off season," both remotely and in person.
+The project's director has also made all of the project's documentation and records available to me for the purpose of this research.
+The data I collected largely pertains to fieldwork recording practices, processing and analysis of finds, records management, interdisciplinary collaboration, decisions regarding writing and publication of findings, and discussions of how data and findings are presented, evaluated and revised among broader research communities.
+
+My work at Case A constituted a longer-term and in-depth investigation of archaeological practice.
+My continual participation at this project allowed me to develop an understanding of the intricate social relations as they developed over time, and enabled me to examine certain methods that are drawn out over the course of several field seasons.
+This helped me account for how knowledge emerged from activities distributed across time, place and circumstance.
+
+Case B centres on fieldwork conducted at at excavation in the eastern Mediterranean region.
+This project is generally regarded as being technologically innovative for the ways that it has integrated novel digital tools and technologies into daily fieldwork routines.
+More specifically, Case B makes use of photogrammetry and advanced spatial recording systems in ways that provide practical value, rather than as superfluous or experimental use cases, which is how most other implementations of these tools and technologies have been commonly characterized.
+Case B is also firmly committed to publishing its data openly, having done so for several years.
+It is sometimes showcased as an example of how to implement `open' principles in archaeology more generally.
+While Case B has an organizational structure similar to that of Case A, it is worth noting that it is the second iteration of a project that began during the mid-1990s.
+One of the two current co-directors is a former mentee of the former co-directors.
+I visited this project for ten days during its 2019 summer fieldwork season.
+My visit largely focused on how participants interact with information systems, how the tools that they use pose challenges, and how participants find solutions to those problems.
+
+My work at Case B was more intensive, comprising a week of interviewing and observation while archaeologists were engaging in fieldwork.
+The project on which the case is based has a reputation as an early adopter of digital technologies in fieldwork settings.
+This presented me with a fresh alternative to what I observed in Case A, which follows more traditional data management procedures.
+This case therefore prompted me to focus on information management practices.
+
+In each case, I documented how archaeologists perform various activities, specifically accounting for how these actions fit into broader systems of knowledge production.
+Throughout all cases I was able to capture a variety of embodied experiences and outlooks corresponding with many roles and positions.
+This provides me with insight regarding how data management infrastructures are valued and used in a variety of contexts and by people working throughout the continuum of archaeological practice.
+My conclusions are informed by the community whose views I sought to articulate, and by my own standpoint as a scholar of the culture and practice of science and of the media and infrastructures that support it.
+
+I obtained informed consent from all individuals included in this study in compliance with the University of Toronto's Social Sciences, Humanities, and Education Research Ethics Board, Protocol 34526.
+In order to ensure that participants could speak freely about their personal and professional relationships while minimizing risk to their personal and professional reputations, I committed to refrain from publishing any personally identifying information.
+I refer to all participants, affiliated organizations, and mentioned individuals or organizations using pseudonyms.
+I also edited visual media to obscure participants' faces and other information that might reveal their identities.
+I also took care to edit or avoid using direct quotations that were cited in other published work that follows a more permissive protocol regarding the dissemination of participants' identifying information.
+
+## Research Participants
+Here is a list and brief description of individuals mentioned throughout the paper:
+
+**(A) Theo:** Commercial archaeologist, recommended to Basil by a mutual friend. An excavator by profession, his competence often serves as an example for the rest of the crew. He became field director after a few years working as a trench supervisor. He is very laid back and has a casual attitude.
+
+**(A) Jane:** One of Basil's top students, who joined the project for one season. As a very independent and competent worker, she took on supervisory responsibilities and stood out as an exemplary fieldworker.
+
+**(B) Chris:** Project co-director. He is a specialist in the archaeology of the region and a very experienced fieldworker. He uses the project as a base for a field school, where undergraduate students from his university learn basic fieldwork practices.
+
+**(B) Rufus:** Project co-director. As a former student of one of the previous co-directors and a leading participant in prior research at the site, Rufus was well suited to take the reigns when the former directors transitioned to other research interests. Rufus is an expert in the archaeology of the region, and an innovator in the application of digital recording practices in archaeological fieldwork.
+
+**(B) Liz:** Graduate student and trench supervisor who worked with the project the previous year. Her dissertation is in part based on data derived from this project.
+
+Here is a list and brief description of individuals mentioned throughout Supplement B but who do not appear in the main section of the paper:
+
+<!-- % \item[(A) Gabe] Geoarchaeologist attached to the project. He initially served as field director, but his presence on this project became sparse after he took on additional work with other research projects elsewhere. He remained on board as a significant collaborator, but no longer as field director. He is known for his aptitude with statistical analysis and for being level-headed.
+% \item[(A) Alfred] Senior graduate student working at the project for his geoarchaeology dissertation at a North American university. He took on the role of field director while Gabe peeled back his commitments. He is confident, with a hands-on, get-things-done attitude.
+% \item[(A) Dorothy] Senior graduate student who oversees palaeobotanical analysis, including sample collection and processing protocols.
+% \item[(A) Jolene] Senior graduate student who oversees the analysis of chipped stone for the project. She met Basil while working at another project.
+% \item[(A) Agatha] Graduate student who serves as Jolene's assistant. Her specialty is ground-stone artefacts but in this project she largely performs logistical duties.
+% \item[(A) Talia] Junior faculty member who became involved with the project as a trench supervisor after a colleague recommended her to Basil.
+% \item[(A) Lauren] Graduate student who became involved with the project as a trench supervisor after a colleague recommended her to Basil.
+% \item[(A) Lester] Commercial archaeologist who became involved with the project as a trench supervisor after Theo recommended him to Basil.
+% \item[(A) Olivia] Commercial archaeologist who became involved with the project as a trench supervisor after Alfred recommended her to Basil.
+% \item[(A) Ben] One of Basil's top students, who joined as a trench assistant. He came back the following year as a trench supervisor.
+% \item[(A) Isabelle] Undergraduate student who joined as a trench assistant. She works as Basil's lab assistant during the off-season as well.
+% \item[(B) Bernard] Former co-director who has moved on to working at other projects elsewhere in the region. He still consults with the team currently working at Case B.
+% \item[(B) Greg] Rufus's old friend who serves as the project's database technician. He works as a database operator at a large commercial firm and is offering his expertise to rebuild the project's database to more technically and professionally sound standards. -->
+
+# Supplement B
+This supplement contains sections of transcribed interviews referenced throughout the paper.
+References are ordered by case and by the order in which they appear. Each reference has a prefix corresponding with the case to which it pertains.
+
+## Case A
+###### A1 {#sec-A1}
+**Zack:** What do you consider the most valuable skill, that an archaeologist can have?\
+**Theo:** I don't know, how to wield a shovel and a mattock. That's always a valuable skill.
+Like be able to identify something.
+Figure out what's going on, dig it, and then accurately record it.\
+**Zack:** Alright.\
+**Theo:** That's the...\
+**Zack:** That's a series of skills.\
+**Theo:** That's the essential... like the essence of archaeology.
+It's just like, you don't just sit behind a desk and write little reports and stuff.
+It's like, without, you can't, you can't do that without actually having dug before.
+It's im-- It's important to know what the process of excavation is, in order to understand how, like, what's going on.
+
+###### A2 {#sec-A2}
+**Zack:** So uhm, can you please describe your specialization or expertise, if you consider yourself to have any?\
+**Lester:** Uhm, well I've been working professionally in excavation,
+excavations for about three years now so my expertise comes in in actual fieldwork rather than a specific discipline
+
+###### A3 {#sec-A3}
+**Lester:** Well, I think it's important that people come away from this not having been trained in the trench, given a pickaxe and told to dig and get on with it, you know.
+
+###### A4 {#sec-A4}
+Had a brief convo with Olivia as she was cleaning up, when the corner cam died.
+I really [...] by the mic.
+It was about focus, [awareness?] of one's surroundings, being in the moment and focusing on the task at hand.
+Focusing on the little things helps her keep her organized.
+It is an active strategy in use. She hates that although excavation is manual labour, it really requires you to actively think.
+You can't just phase out --- illegible sentence.
+I mentioned my tendency to compare excavation with tunnel vision, and noted how I think it is somewhat flawed.
+She asked me if I played a musical instrument, and I said no, and then asked if I could relate to that.
+She compared these activities in order to convey the sense of being in the moment, facing a task at hand, dealing with what is immediately in front of you, literally and figuratively, and the satisfaction of achieving one's goals and ticking off all the boxes.
+She likes to set goals, for herself and for others.
+
+###### A5 {#sec-A5}
+**Lester:** So, our first week was tough.
+Very, very tough.
+We had a very uhh difficult trench to excavate, very hard layers that were very difficult to physically excavate.
+Uhm and I can dig for a certain extent, for a period of time in quite hot weather, I'm used to this, for this is not a problem.
+But I see people that have never approached this, attack it physically, really really attack it physically, and not bear in mind that this is actually really difficult.
+And it's not a physicality thing, it's a, it's a thought process.
+So it's uhh, yes you're physically able to excavate twenty centimeters in a day, but how are you going to feel at the end of the day?
+Are you going to be able to identify the context while you're doing it?
+It's better to excavate ten thoroughly than twenty in a hurry, you know?
+And, but the speed will come with time.
+And so I've noticed this with Morris particularly, he was quite, he's a very able archaeologist, a very good digger, uhm but physically he's changed the way he approaches things, so he won't go full-on that unclear now, and then expect to be able to do it again the following morning.
+And then equally, the understanding is growing, so like contextual change, uhm, I've really struggled to try and integrate teaching into my methodologies on site, because that's not my skillset, and not what I'm used to.
+But now I think we've finally figured it, I'm involving him in the paperwork a lot more, making that a part of the teaching process, a bit more.
+I think it's beneficial.
+
+###### A6 {#sec-A6}
+The other cam is on Morris' head as he clears and gardens to set up a new 5x1 trench.
+Comment: "it is a weird trench" (Morris).
+Slightly rhomboid, not as square-angled as intended.
+Morris "catching on" according to Lester after he asserted / referred to the controlled environment that we constructed.
+One wall is extended 10cm out in one corner, a mistake attributed to marking the rectangle on the steep slope, lengthwise downhill.
+Morris also joked that the error might be corrected by sloping the section by 10cm.
+This also contributed to Lester's comment on Morris' "catching on".
+He is confident enough to joke, and for the joke to be a good one, no less.
+Also interesting how the work space shapes the trench.
+Supplies used to delimit the trench are put on / near a rock in the corner.
+A clear space devoid of rocks is needed.
+Supplies placed in the corner, on the rock, mark a boundary.
+They also necessitate some clearance, 0.5-1m between them and the delimited trench.
+Spoil head location is in the bushiest part, where the cleared grass was placed.
+More room on small side for sieve, but more land can be cleared too.
+Lester is thinking about where to put the spoil heap.
+My earlier notes were of passive and seemingly assumed locations.
+It turns out I was correct in my assumptions pertaining to where the spoil heap would be located, and the reasoning behind its situation there.
+
+###### A7 {#sec-A7}
+**Zack:** Have you questioned any of the methods you're using? Like internally but you've been afraid to ask.\
+**Jane:** I think the biggest thing that surprised me, and like now it kinda makes more sense, but I was like, I wasn't the first person to start digging, obviously Basil did first and then I kinda just like watched what he did and then I started digging, and he was so rough with like the context, like he just went at it with a triangle and then like with a pickaxe, and I was like, like I pictured archaeology like, so meticulous and slow with like a little brush, like I don't know, like I guess maybe with like bones and shit you would do that because they're more delicate, but I was like oh my god, like he's just breaking it up, what if there's something delicate underneath? Like, that really took me back.\
+**Zack:** But now I see you just going through it.\
+**Jane:** Yeah, yeah, now it's like, I guess cause they are\
+**Zack:** What changed your mind?\
+**Jane:** Cause I just realized there's like tools that have survived thousands of hundreds of years.
+So it's like if they can survive that
+then they can survive like triangles going through it, you know?
+So might as well go quickly.
+But I think that was the kind of thing at first that was like, what? This is kind of weird but okay.
+
+###### A8 {#sec-A8}
+**Ben:** But I don't, like the paperwork and all that, like I'm not like, I'm not, I'm not one to like be sitting at a desk just writing all day.
+Like, I like to be in the trench, I like to be doing something physical and like engaging, right?
+And I don't, like reading and like articles and like scientific research and stuff, just like, it doesn't interest me, like that much.
+Even like, I have to be engaged in the topic, you know?\
+**Zack:** Yeah, yeah.
+I feel like you and Theo have a lot in common.\
+**Ben:** I think so, yeah.
+Like Theo describes himself as like I dig holes, and I'm like yeah, I can relate to that, man.
+Like I dig holes too.
+
+###### A9 {#sec-A9}
+**Zack:** So umm, I guess I've already got your bio and all that.
+But I'm wondering if you could reiterate your overall objective of your work.
+I mean how your work contributes to this project.\
+**Theo:** Umm, the objective of my work\
+**Zack:** Or of your contri-- or of what you're doing here.\
+**Theo:** It's to dig holes. Dig holes.\
+**Zack:** So maybe a way to get a better answer, can you tell me about the current season and what your current plans are, or have been?\
+**Theo:** For this season I've been digging a big hole.
+Yeah, we aim to finish it, but I doubt we will.
+
+###### A10 {#sec-A10}
+Liane got in to plan the micromorph sampling.
+She and Lauren looked at the section, pointed at levels, indicating which should pertain to each context.
+Repositioned myself to better observe Liane. She is actually 'carving' (my own term, not hers) a block using a flat metal instrument, I believe the metal inside of a trench handle, which is embedded within the head, that was broken or taken off illegible.
+Liane returned back with mallet and chisel.
+Others had to get out of the way so she could proceed.
+Liane also applied gypsum plaster to the micromorph sample.
+Apparently this one took longer to define than the others.
+She will return tomorrow to chisel out the sample and apply gypsum plaster to the internal face, and label it all up for further analysis by Alfred.
+It needs time to dry, for now.
+
+###### A11 {#sec-A11}
+Small discussion with Lauren and Ben about the tools that archaeologists use, after I picked up the triangle and repeated a tidbit I heard from Basil that it is supposed to be used for wallpaper stripping.
+Ben noted that they were extremely useful, and was surprised that it was not used primarily for archaeological purposes.
+Also that they are exclusively used in the region due to the rocky and baked soil.\
+She then demonstrated how difficult it is to use a trowel in thus environment by showing how it would be typically used on a particularly flat surface.
+
+###### A12 {#sec-A12}
+Theo changed sections, and I found the illegible word that followed very interesting.
+After hammering in the rebar and vertically aligning the string, it is only level at a point that is higher than the rebar.
+He told me to go grab the other rebar in the corner, though it is massive.
+Tried hammering it in, but it was clear that it would get blown over by the wind.
+I offered to hold it steady but instead he told me to rummage in his bag and find a nail and masking tape.
+He attached the long nail to the rebar, adding 4-5 inches to its length.
+He then proceeded, with my assistance, to tie the string around the nail, clip it on securely, and secure the line down with a rock.
+Regarding securing the line down with a rock, this was a challenge for me yesterday, as well as when I did this for the earlier section this morning.
+I needed to find the right kind of rock, which was not too big, but still dense.
+It needed to be not too rough, but with sharp angular corners.
+This was never made explicit; after two failed attempts, first with a large rugged rock, and then with a smaller, less rugged rock, he picked up one and gave it to me, saying "something like this".
+I wound the string around it, leaving some slack, and then positioned the rock in a way that would render the line taut, by rotating it or securing it around others.
+
+###### A13 {#sec-A13}
+Came over with Theo, Maddie and Gwen present.
+Maddie set up level strings around the trench \
+Theo asks Maddie to unfold long tape measure (referred to as tape).
+Then asks to get in, hops in.
+Unfurls rolled out tape measure, aligns it along north edge, top. They have selected the north section to draw.\
+One square on graph paper is 10cm in real life.
+I offer my clipboard.\
+"How deep is your trench?", illegible it to the string.\
+"What corner is that?" "Southeast corner."\
+"So that is your eastern section?" "Yep."\
+Refers to line on paper: "So this is your stable line."\
+"I always start from the top"\
+Every 10cm, the distance from the ground to the line level is measured.\
+Now they alternate.
+He holds the tape 10cm lower than before, dictates the distances to the line.\
+Actually, he holds it to the edge of the unit, not the next 10cm (my mistake).\
+Then Maddie connects the dots on her page, as per Nat's instructions.
+She does a repeat line, like you would in a sketch, and he says "no, you want a solid line".\
+Does this again for the next unit.
+Gets his scale ruler out to draw the boulder, which interrupts the section in the corner.
+I did not see how he used it, exactly.
+It looks like an unfilled portion, no texture at all.
+It has been labelled as "boulder", written inside.\
+Dot-dash line drawn to indicate "extrapolated" drawings, used to draw parts of the section where bedrock has been hit.\
+Then they do the base.\
+"It this bedrock?" "Yes."\
+"Then you can do as I did here"\
+Dot-dash line drew up to the boulder, as on the base at its edge.\
+Dot-dash line then drawn on the corner, to complete the "frame".\
+Asked her what she thought.
+To her, it is exactly what is there.
+She owes this to her being a visual person, is sure she can easily repeat by herself.\
+Theo then teaches the symbols, patterns used to represent materials, soils, sediment types.\
+He notes his own conventions as opposed to general convention, to draw pottery and other finds that stick out of the sides.\
+Also must draw in only the big rocks.
+After some discussion concerning what counts as such, Theo demonstrates which ones fit with his description or conventional ways to define such rocks, by pointing out which ones fit those criteria.\
+Another layer, just then drawn.
+It is "wedged" past the dot.
+Dangles under the boulder, since it is somewhat extrapolated.
+This is not a complete line, only sticks out of that vertical dot-dash under the boulder.\
+Then Theo offers the tape to Gwen, who tells the measurements at the line.
+Theo places his hand at the base to support the tape, since she is slightly unsteady, and she can not bend over to look at how the bottom aligns with the layer's edge.
+Theo also uses this to control where the edge is defined.\
+Now they're drawing the rocks.
+First is actually a negative impression, where a rock presumably fell out.
+Theo says to typically draw three points.
+However in this case he suggests four to be sure.
+He then says to just 'eye in' the shape of the lines that connect them.\
+She does so, then indicates that her lines are less well-defined than before, in a hesitant tone.\
+Theo procures a pencil sharpener, and sharpens it himself.
+He is very careful, after some big twists, does a few smaller twists, pulling it out and inspecting the tip each time.\
+Jess now measuring points on rocks on her own.\
+Theo says that you can use any number of points, depends on how comfortable you are, and depends on the rock, but he prefers to use less points and then "draw it all in" by eye.\
+After he packs his bag to go back, she traces over her solid lines, defines them more strongly using her sharpened pencil.
+Theo offered to come back in an hour, but Maddie insists it will take less than that.
+Theo agrees.
+
+###### A14 {#sec-A14}
+Typical script:\
+"At x on the horizon, it's y down"\
+Followed by an acknowledgement.\
+Sometimes a novice asks "from what?", or "from the east end?", or "from the line?", but once it is clarified that the reference point remains fixed, then they instantly understand how the whole system works.
+It is all about two people, working in tandem, with a commonly understood system of communication that goes along a shared reference point.
+I noticed such an "ah-ha!" Moment when Theo was teaching Morris how to do this.\
+We then went to redacted trench ID, where I went down to bring some equipment down the hill, while Theo and Jane started in redacted trench ID.
+Jane is doing measurements, while Theo plots the points.\
+Jane seems very comfortable in her trench, much more than Alice yesterday.\
+Theo is able to communicate with her, ask her questions.
+She also refers to her sediment description on her contexts sheets so that Theo can articulate ? them more appropriately.
+He asked whether what they just did was the hearth and she said "no, it's the black-brown stuff above the hearth".
+He then wrote something like that down on his drawing.
+He also showed her the connected dots and asked her "does it look something like that?"
+And she answered that it does.\
+Some other common lines:\
+"Does it go up/down left of that rock?"\
+Basically a series of relations among entities, which are described in terms of actions that they take.\
+They "hit the section", "rise/fall", "plateau", "flatten out", etc.
+In any case, the activity of the delineations is energized.
+Really, the focus is on the line, or the interface.
+The interface moves in relation to the reference points, that is.
+Moreover, it is accepted that such activity is unclear or blurry, and that extreme precision is pointless.
+
+###### A15 {#sec-A15}
+I asked Lauren about the placement of her line and tape measure, and she told me that it is not due to the present circumstances - she picked that up from her first excavation, and has been doing drawing in such a way ever since.
+There are several practicalities involved.
+First, she finds it beneficial to measure both upward and downward relative to the line.
+This is particularly useful in deep trenches.
+The line is placed in an arbitrary position, where there are few rocks at the corner, so that nails can be hammered in easily.
+After one section is drawn, she can then remove one of the nails, pivot the string around so it is on the other face of the pivot corner, and secure it easily there.
+Then she must check the level on the line, before proceeding with her measurements.
+She notes that setting up the string is definitely the most time consuming, or effortful, part of drawing.\
+This seems to have several advantages over Theo's way of doing things, in terms of relative ease.
+There was definitely a lot of effort put into securing the line, making sure it is taught, etc, since he relies on shaky rebars, strings tied down with rocks, and an above-surface line that blows in the wind or is at risk of being tripped over.
+However, he uses the local datum as the reference point, and does not have to measure the depth of the line.
+This additional set of numbers and calculations might be an impetus for his aversion to Lauren's method, but I have not asked him about it yet.
+
+###### A16 {#sec-A16}
+I will now observe Theo and Alice draw the sections for trench redacted trench ID.
+No one else is here, and Theo expressed some confusion regarding what is going on in this trench.
+Moreover, Basil can not find the paperwork for redacted trench ID, he is on top of the hill at either redacted trench ID or redacted trench ID, and Jane is resting back at the dig house.
+So it should be interesting to see how Theo's drawing pans out with Basil's expectations.\
+He is currently setting up the illegible word, string and line levels. It is extremely windy, so it is a bit of a challenge.
+As before, the string and tape measure are clipped to the rebar that are staked into the ground at the corners.
+The line is on the south section.
+Because of the slope, much of the line is higher than the ground and this causes the wind to shake it all over the place.\
+Alice on the big boulder in the southeast corner.
+Theo on the north side, with graph paper, taped down to his clipboard with bandaids.
+Alice calls out numbers to him as he asks them down.
+They called for my help for a moment because it was too deep for Alice.
+Upon hearing the elevation of the base at 1.5m along the edge, Theo illegible word and said it is illegible word too deep, and that he would need another sheet of paper.
+This wind is going to make that horrendously difficult.
+So they re-prioritized, and limited their scope to the upper part that would fit on the page.\
+I was interrupted, since my assistance was needed.
+I had to hold the tape illegible words numbers to Theo.
+It was also challenging since no one who actually knows the material was actually present to interpret the stratigraphy.
+Basil then came by, acknowledged that this would not be very effective due to the wind and unfamiliarity with the trench, and instead Theo, Alice and I spent the rest of the day lugging equipment down the hill.
+
+## Case B
+###### B1 {#sec-B1}
+**Zack:** Or are there certain competencies or skills, or like, just mindsets needed?\
+**Chris:** I think, yeah, I mean I always feel like the mindset has to be like, I will go and try to make this, make this work as best as possible.
+Like kind of come up with those convenient sort of work around, like I found a way.
+Here's like, here's a unclear, like something from the national geo like geological survey, where I can just plug in, it will plug in some coordinates that will spit uhh spit out the correct UTM coordinates.
+Had to do it one by one, I think there's a way of doing it on a mass level but I just haven't been bothering to do that yet because I only need to do really one at a time, that's-- and then, you know that I can plug it all into GIS anyway and then Rufus can just flip the switch and just turn it to UTM, so it's fine.
+Umm. That, I think you're just sort of like work with what you're, or kind of work with what you've got.
+I mean like sort of our sieves are sort of an example of that.
+The original sieves were sort of like here's what we got, we have no money, let's just get some like little/electrical ties and piece of janky sieve we found and just make it work with some dowel.
+Like you know, it's super cheap.
+It's sort of like a unclear sort of like on the fly, and you just kind of have, gonna have to do that to be super flexible.
+And it's sort of like, that's my view of technology.
+
+###### B2 {#sec-B2}
+**Zack:** Can you just take a minute to explain it to me?
+The document that you made there?\
+**Oliver:** So, started by drawing just the outside of the square, these lines here.
+Then inside, with these walls, you know, focusing on getting the articulation on this centre wall where the pit is.
+Umm, so kind of getting the bigger stones, umm just indicating that we think there is a wall there, and then capturing the general outline of the pit, umm, they excavated, and getting a little bit of definition as far as how steep it is.
+
+###### B3 {#sec-B3}
+**Zack:** Can I get a brief shot of the page, what you're writing there?\
+**Chris:** Sure.\
+**Zack:** Yeah, it's just basically a photo log.\
+**Chris:** Yeah, just a photo log, just making little notes, and then I transfer it to a, like a spreadsheet.\
+**Zack:** You keep track of the photo number? Like the file name?\
+**Chris:** Yeah, so everything, so what I do is I copy like a reference to the image file name in that spreadsheet, and every photo, and each photo is labelled like redacted context ID\_P1, \_P2, like for each, each, each umm stratigraphic unit.
+
+###### B4 {#sec-B4}
+**Rufus:** Okay, so if we can have just nobody standing on this line, just cause of the shadows kicking over So can you come on this side?\
+**Zack:** Sure, sounds good.\
+**Zack:** So the shadow was to, the shadows--\
+**Rufus:** So the basic thing with the shadows is that, if my shadow is right here, and I take a picture, and then I take a picture over here and my shadow has moved, the photogrammetry can't find similar points of interest.
+Because it's looking for that shadow but then suddenly that shadow's in a different position in another picture and as far as the alignment goes it's a big mess.\
+**Zack:** Ok.\
+**Rufus:** So I always have to keep an eye on my shadow.
+Obviously grasses and things like that create a problem because they're really long and skinny and they can move one way or the other.
+And again, it's for points of emphasis, for similar features on multiple pictures.\
+**Zack:** Ok.\
+**Rufus:** So when you take your pictures you have to make sure you uhh, have enough, you do it systematically and you do it so you have enough overlap, so you know like like 30% per picture.
+I'm just gonna move things out of the way a bit.\
+(moves some buckets)\
+**Rufus:** So the idea is you start farther out, you take pictures around. And then you go in, take pictures in a circle, and then you go over the object and take pictures that way.\
+**Zack:** Alright.\
+**Rufus:** So that's the, that's the goal here.\
+**Rufus:** Then after you do the big circle, the inner circle, you just kind of go over the top and take some like random pictures to make sure you have some extra coverage on the unit you wanna-- to make sure you have coverage\
+**Zack:** So, when you process these, do you systematically organize them?\
+**Rufus:** Uhh, it brings them it and it automatically aligns them.\
+**Zack:** Oh.\
+**Rufus:** But the thing, the time consuming part uhh they call masking, basically you're cropping out things that you don't want in there.\
+**Zack:** Yeah.\
+**Rufus:** That takes some time. But if you do that right and run it it'll do a good run.
+
+###### B5 {#sec-B5}
+**Rufus:** Umm, but there are online places where you can go to upload these things, and uhh my work with Mark, quote a bit at uhh at a co-worker's project in another site, umm looking at his information and data, he's put a lot up on file sharing sites, like uhh, I'm trying to think of the name of some of them, I can't, but there are places where you can upload 3D models and type a couple of key words into it, go to this place, google it, google Pompeii and you can see these models unclear.\
+**Zack:** Uhh one comes to mind, it's called SketchFab.\
+**Rufus:** SketchFab, that's it.\
+**Zack:** Is that it\
+**Rufus:** Exactly.\
+**Zack:** Okay.\
+**Rufus:** Yeah, SketchFab.\
+**Zack:** Uhh and, do you find that's being used extensively by archaeologists?
+Or just uhh, or is, do you get a good DOI out of it?
+Or is it sort of that, would it support this, what you want out of it?\
+**Rufus:** Uhh I think it's more of a, kind of just a, I mean it's almost like an Instagram of, of 3D models.
+You can, you have your profile set up, you can type key words into it, and just throw it up there.\
+**Zack:** Mhm.\
+**Rufus:** Umm the, uhh, the, the ability to manipulate, measure, umm isn't as great as you would want to see unclear or whatever, but it's there, it's useable, it's umm, it's more of a, it's more of an aesthetic thing like hey, check this out,\
+**Zack:** Yeah.\
+**Rufus:** this is what we're doing.
+
+###### B6 {#sec-B6}
+**Liz:** We took out, we uhh, moved all the vessels off of a floor in one room.
+And what we saw were these clusters of certain types of artefacts on one side of the room.
+And then we saw a totally different, not totally different, but a unique set of artefacts on the other side.
+So this shows us that in the southern end, my theory, right, is that there's umm a shelf on a wall that falls, right.
+And so that part of the room was used for that, for storing of those types of vessels.
+The other side, totally different.
+So, and thinking about how you want to assess the stratigraphic unit in of itself, as, as, sort of, a component, or umm a sort of final component of a bunch of smaller groups, and sort of informs that.\
+**Zack:** So how did you control for that?\
+**Liz:** So we took GPS points by cluster of artefacts, which were defined based on their spatial relationships to features around them.
+So we didn't grid it.
+I think gridding is sort of, creates arbitrary boundaries.
+So we wanted to create boundaries that could reflect whatever use the room had in antiquity.
+So we did that.
+And then collected artefacts, umm, and plotted them by cluster.
+
+###### B7 {#sec-B7}
+**Rufus:** Anyway, uhh you go individually photo by photo, and then you just crop out the stuff that you don't want to be included in the processing.
+If you don't do that then the model can take eight to twelve hours and then crash and it's a, it's a big mess, just cause it's looking for all those points across that space.
+So then I had to, kind of, refining your environment will allow you to, to process something and get pretty, pretty clear.
+So then what we do, obviously this is not a uhh, so in previous seasons you uhh, eighteen for example, taken that model, this is just a report from last year.
+We take that model and then export it to geo-referenced ortho-TIFF, we then take that and create top plans based on that.
+
+###### B8 {#sec-B8}
+**Liz:** Okay.
+So umm, when we talk of the form we think primarily about soil and relationships, so everything on the top is filled out, umm dealing with what types of soil are we dealing with, and how does it compare with what's going on around it.
+And of course the Harris matrix.
+All of the elevations and coordinates are locked in a computer system so umm all those go in later, with the end of the unit, umm once we get all that data, which is all used in the GPS.\
+**Zack:** Mhm.\
+**Liz:** Umm, uhh.
+I like to include as much detail as possible on procedure, so right here and a bit on the back.
+Umm so describing the type of sieve, umm we have 5mm sieves here, umm and then of course water sieving and then finds recording as we go, so make sure that nothing--\
+**Zack:** So you have a water sieve, but not here?\
+**Liz:** Uhh we don't actually have an operational one right now but we do umm, we collected about 10 bags of soil last year that we need to water sieve that are just waiting\
+**Zack:** But you also redundantly do it in the database, I presume?\
+**Liz:** Yeah.\
+**Zack:** So you have both parallel records then?\
+**Liz:** Exactly. Yeah.
+The goal is to have them match 100%, so the scans of these will be matching.\
+(flips sheet over to back side)\
+**Liz:** Umm, and then our description is for discussing in more detail the relationship between the soil and the inclusions in the matrix that we didn't see before, umm what's different about it, how is it umm, what is its relationship with what came before, what's its relationship with what we're umm finding and revealing as we go.
+Umm, also sort of exploring, umm, the relationship to the different features, so walls, things like that, umm installations.\
+**Liz:** And then procedures.
+So like discussing types of tools used, umm order, or sort of method and direction of excavation, umm those kinds of things, all go on the back.\
+(flips sheet over to front side)\
+**Liz:** Umm, where a lot of the sort of interpretive and those kinds of things.
+So like for like the labelling of units, I give them something that's very very vague, that purely describes what we're seeing, rather than interpreting what it means, so just soft fill on that side of the trench, for example.
+And then in the actual, in my trench notebook, that's where I put all of those thoughts, umm, in more detail.\
+**Zack:** Can you show me your trench notebook, briefly?
+You don't have to go into great detail into what's in the notes, but an overview, I guess.\
+**Liz:** Yeah, so, we're excavation unit 20.\
+**Zack:** This is the front page?\
+**Liz:** This is the front page.
+Umm so here are umm the coordinates of the uhh, the northing, easting and elevation of the corners.
+So those obviously aren't gonna move so those are permanent.
+All recorded in UTMs in 36 south.
+Umm, the opening elevation at the centre.
+So really umm, the foundation for how we started.
+And then sort of a brief sketchy Harris matrix that keeps evolving over time.\
+(turns page)\
+**Liz:** This is just a sketch plan of features in the trench, so that I can keep the numbers straight, and keep referring back to it.
+Umm and then just day by day notes, including things such as who's actually working in the trench today, uhh what's the weather like, those kinds of things.
+If someone comes to visit, I write that down, umm it's just a way to sprint of jog your memory to sort of remember which day you're talking about.\
+**Zack:** Do you write in prose form?\
+**Liz:** I write it in prose form, mhm.
+With some bullets, there are bullet points and things like that, especially for things like points taken, things like that, umm sketchy little things like that about what the trench looks like at different points throughout the day, just to keep reminding myself about what's going on.
+Umm and then interpretation, so what can it possibly be, what's its possible relationship.
+Even if we don't know it yet, I'll let those come out here.\
+**Zack:** So really, so that summary, at the top of the sheet?\
+**Liz:** Yeah, in more detail, and sort of describing-- so this for example, umm I'm not going to call it a floor on this sheet, I'll call it a floor here.\
+**Zack:** It's more open-ended I guess?\
+**Liz:** Because it's more, yeah, it's more sort of postulating what could be true and what could not be true. Umm, yeah.\
+**Zack:** And do you start, let's say you're starting a new trench, do you start a new notebook?\
+**Liz:** Yeah. So each trench gets its own.\
+**Zack:** Do you, are these integrated into the database?
+Are they scanned or integrated into the database at some point? Or cross-referenced at all?\
+**Liz:** They're scanned.
+Umm, as far as I know they're not cross-referenced with any particular points in the database.
+Umm, our database isn't operating yet.
+
+###### B9 {#sec-B9}
+**Zack:** How, it's great umm.
+Have there been any specific or significant events or, events or people or uhh uhh significant significant events or people that serves uhh umm uhh changes that that have guided you in this direction?
+Uhh towards, in towards archaeology or that have sort of pushed you into archaeology or into the application of digital methods in archaeology?\
+**Chris:** The application of digital methods?
+I mean there's no, no one or no one thing in particular.
+It's sort of just my own umm thinking about the you're kinda thinking about like what would be most effective and most most sort of streamlined umm in in in terms of in terms of recording, tools used, things like that.
+Umm and sort of like I asked around, I talked unclear, again, it's mostly under my own sort of initiative umm.
+
+###### B10 {#sec-B10}
+**Zack:** does the, does the use of such technologies effect the ways that archaeologists work?\
+**Liz:** I mean I think so.
+I think it allows you to either rely on it, and so you say well ArcGIS will tell us so we'll just leave that, we'll plat that in, it'll be fine.
+Umm but also, in a, in a good way and in a bad way, right?
+In a, like, let's speed up this process.
+And also in a like, so maybe I can be a little bit, you know, less meticulous in the field or something.
+Umm because of, this is what ArcGIS can register.
+Umm it can't register finer than that, maybe, or something like that.
+Umm so I think if it's the only tool that you're using, it certainly would change uhh, yeah it would change the sort of decisions that you make, yeah.
+
+# Peer-Reviews
+Here I present the commments I received from the peer-reviewers and the editor of Cambridge Archaeological Journal, as well as my responses to many of the points raised during review.
+
+For context, I asked that the editor account for my responses to the initial round of reviews despite his decision to consider the second submission completely independent from the first.
+I felt that a new, independent submission was unwarranted, given the lack of severity implied by the comments, and the absence of any recommendation to reject the paper outright.
+I can not say for certain whether my responses were accounted for at all during the second review process, but I suspect they were not.
+
+The second evaluation took six months due to reviewers having agreed to review and then not submitting their feedback.
+My decision to not proceed with a third submission is in direct response to the limited pool of potential reviewers that this signifies.
+
+## First Submission
+**Submitted:** 2024-02-26\
+**Decision:** 2024-05-23
+
+### Editorial Comments
+Dear Dr. Batist:
+
+I'm writing in regards to manuscript # CAJ-2024-0019 entitled "Digital workflows and the alienation of archaeological labour" which you submitted to the Cambridge Archaeological Journal.
+
+I'm afraid that your manuscript is not suitable for publication in the Cambridge Archaeological Journal.
+
+The article has some important strengths.
+It deals with important and interesting issues, it is carefully written, and a lot of the empirical description is meticulous.
+But it also needs a lot of improvement.
+You can get a sense of critique from the two detailed and thoughtful reviews we have (below), which are very consonant with my own reading as a general reader.
+
+Probably the single biggest critique is that the writing is vague (a term both reviewers use) and needs focusing.
+There is a coherent argument at the core of the article (that archaeological work is sometimes structured in formalistic workflows, but that when people actually do it, it involves all sorts of non-linear process, workarounds, judgement calls, integration of different kinds of information, etc.).
+But it takes a bit of work to puzzle this out amidst other material, and when one does, its elaboration and implications are not clear.
+
+> I refined the introduction to more clearly articulate the aim of the paper, which is now more narrowly defined, and amended the discussion and conclusion to reflect these changes.
+
+For instance, it is implied that the development of formalistic workflows is a phenomenon associated with archaeological work becoming digital, but this argument isn't really spelled out (and indeed, one could imagine it otherwise; archaeologists have been filling out rigidly structured, formalistic field forms for at least 50 years, and in some ways digital methods might actually free people, for instance by allowing on the spot video recording, hybrid drawing/ photo/ notes methods, etc.).
+
+> I never actually stated an opposition between digital and analog methods, nor did I actually ascribe presumptive value judgements upon them. Throughout all the examples (whether they constitute activities that rely on analog or digital tools, and often both in tandem), the emphasis is on mechanisms of control and the tension between orienting work around future outcomes on one hand, and on the value of situated perspectives on the other. The argument that digital is inherently bad is never spelled out explicitly because it was never my intention to make that argument at all. However, I do concede that this could and should be made more clear from the outset, and I amended the background section to include a more explicit statement indicating this position.
+
+Similarly, it is implied both that this interplay of formal rules and informal process is unique to digitised work process rather than (say) inherent and normal to all workflow involving structured procedures, and that this is a bad thing which reduces the experiential quality of work for the workers (this is implied by terms such as "alienation"), but neither argument is really spelled out explicitly.
+
+This general looseness of linkage between text and claimed arguments underlies both reviewers asking for more focus on specific research questions.
+
+> I re-worked the background and discussion sections to ensure that they are more explicitly oriented around a targeted goal, which is now more clearly stated in the introduction.
+
+It would also be useful to go more into the research context;
+as reviewers note, the landscape of archaeological knowledge formation is quite differentiated, there has been a lot of work on archaeological reflexivity and how these impact methods, and it is really too simple to characterise the whole field as displaying an opposition between objective knowledge/ digital workflows and subjective knowledge/ personal knowledge.
+
+> I revised the text introducing the cases to reflect upon their selection. I made it more clear that I am not seeking to make generalizations about archaeology as a whole, but rather to articulate some significant factors that contribute to decisions and behaviours that archaeologists commonly make and enact. I explicitly acknowledge areas of archaeology that this study does not cover, and refer the reader to additional work that grapples with similar topics in those contexts.
+
+It should also specify more clearly what the specific contribution of this work to the state of knowledge it, and what are its implications for the field.
+For instance, what are the implications for the status of archaeological knowledge, or for the on-the-ground politics of fieldwork, or whatever?
+
+> I revised the discussion and conclusion to account for the potential implications of my findings and to recommend a course of action.
+
+If you are reworking the article, it might be useful to try focusing it very tightly around a single main point and saving other elements for other works.
+It has something of the feeling of being condensed from a larger work while trying to retain all the arguments and complexities, with the result that it reads in parts as free-floating arguments, insights and claims whose relationship is implied or unclear rather than explicit.
+
+> I put in considerable effort to re-work the paper to be more tightly focused around a specific objective, now more clearly stated in the introduction.
+
+Thank you for considering the Cambridge Archaeological Journal for the publication of your research.
+I hope this critical feedback is useful in developing your work and the outcome of this specific submission will not discourage you from the submission of future manuscripts.
+
+Sincerely,
+
+Dr. John Robb\
+Editor, Cambridge Archaeological Journal
+
+### Reviewer 1
+This is well-written and interesting manuscript describing a part of an immensely rich field study of archaeological practices at two sites in Southern Europe.
+
+While the study is clearly positioned in relation to the literature and the description of the empirical work is clearly articulated, the paper suffers of its vague aim.
+The authors states that it "it examines the social and technical apparatus through which archaeologists control the creation and flow of information, and interrogates how digital workflows are operationalized by managerial systems to ensure that data are created and curated toward productive ends."
+I don't exactly disagree with the author but reading the text as a devil's advocate, it would not be entirely untrue to say that this has already been said in the earlier research, perhaps most explicitly by Dallas (2015) but also for example by Khazraee and colleagues and some others.
+At the same time, I see that the paper does provide a lot of new insights but they should be articulated clearer as the novelties this specific paper can offer.
+
+> This work explicitly builds upon Dallas' 2015 paper, which qas largely theoretical, and which called for more empirical research exploring the social and technological structures that scaffold archaeological data work.
+> As Dallas' doctoral student for seven years, I was directly involved in operationalizing his theoretical work through empirical observation and analysis, and this paper is one product of those efforts.
+> Moreover, Khazraee's emphasis was largely on information outcomes rather than issues concerning the practice itself (which I have written about elsewhere, in review and in press).
+> I amended the Background section to more clearly relate my work to these prior efforts.
+
+As three more specific comments:
+
+First, I suggest that the authors develops a more specific aim and perhaps even research questions for this study.
+
+> I updated the introduction to more clearly state a research objective.
+> I amended the rest of the paper to reflect this changes.
+
+Second I suggest that even if I very much like the richness of the empirical analysis, it would help if it would be focused more specifically to the issues that are the main points of this paper.
+Readers need help in understanding what are the key points of the analysis.
+
+> I added more conclusive remarks at the end of each subsection within the observations section to relate them to the overall objective.
+
+Third, it would help in the discussion if the references to the analysis would be more specific.
+Now the references back to how things were shown in the analysis remain difficult to understand as it is not clear how the author thinks they were shown.
+
+> I refined the discussion and conclusion to refer more explicitly to the conclusive statements now included in the observations (see the response directly above).
+
+Finally, the text contains traces of an activity theoretical framing of the study.
+If Activity Theory is used in this particular analysis, it would be reasonable to be explciit about it.
+If this paper uses another theoretical framing, it could also be spelled out more clearly and/or at least the activity theory should be cleaned off the text.
+
+> I did indeed rely on activity theory as part of a broader methodological framework, which draws together several other approaches, too.
+> I amended the methods section to better account for how I use activity theory, in combination with other methodological frameworks, in this project.
+
+### Reviewer 2
+#### General
+The subject of this study is interesting and relevant.
+We are far from fully understanding how digital methods are impacting archaeological knowledge creation processes.
+So this is a welcome study.
+
+> Reviewer 2 expressed dissatisfaction concerning the way I addressed different conceptions of data.
+> Specifically, they indicated (1) that I identify, without adequate citation, a perspective on data that conceives of them as raw, discrete and objective entities, (2) that I under-represent an alternative position that recognizes data's situated and subjective nature, and (3) that I present a power imbalance between these attitudes.
+> In fact, the subsections titled Collection and Capture and Data as Discursive Media already provide numerous sources that identify a position of data as objective and raw.
+> Moreover, these subsections are explicitly concerned with highlighting the alternative view that considers the situated and subjective nature of data which the reviewer suggests I add.
+> It is unclear to me how the reviewer could claim that I under-represented these perspectives, when they are clearly present throughout the background section.
+> Moreover, I never articulated that any dominant/submissive relationship exists between these stances, and in claiming that this was present in my work, the reviewer further misrepresented what I actually wrote.
+> However, I did modify the language slightly to more explicitly present these perspectives as alternatives on equal footing.
+
+However, there are some fundamental issues that need to be addressed before this study has reached its full potential.
+
+Some simplifications regarding the premises of the study could be more nuanced, the aim stated more clearly, the methods of the study more clearly operationalized in the analysis and the conclusions made clear whether they apply to archaeology in general or not.
+
+#### Aim
+What is the aim of this study?
+I think it should be spelled out why it is important to show "how the management of data and of labour are inherently intertwined, and how digital workflows are operationalized by managerial systems to ensure that data are created and curated toward productive ends." or how the study "examines the social and technical apparatus through which archaeologists control the creation and flow of information, and interrogates how digital workflows are operationalized by managerial systems to ensure that data are created and curated toward productive ends".
+
+I think it will be clearer to the reader if a one sentence aim is spelled out, especially as the title of the article points to some social implications.
+Also, the title gives the impression that digital workflows are the object of study here.
+But case 1 do include many manual and analogue methods.
+
+Moreover, do I understand it correctly that the author aims at making general conclusions "relevant to contemporary discourse on the nature of archaeological data and ongoing development of information infrastructures."
+So the aim is to contribute to the general discussion on archaeological knowledge production?
+
+#### Introduction/Background
+The introduction and Background give an overview of the subject and previous research.
+
+However, I get the impression the author believes that the dominant attitude towards archaeological "data" is that it is raw and objective.
+Is this really the case?
+Not everywhere. Not anymore.
+Please refer to some examples to back up your view, as this seems to be one of the premises of the study.
+
+And do all workflows "flatten the subjective experience of data capture"?
+Can't a workflow be built to enhance the subjective?
+I think it is not workflows per se that are the problem, but how they sometimes are organized and how the results are used.
+This is also one of the premises of the study and could be more nuanced.
+
+> I added additional sources to back up the claim about workflows being inherently concerned with flattening social and situated experiences of data capture.
+> Although Reviewer 2 suggested that perhaps workflows can be used to support the expression of situated experiences, this claim does not align with what I have experienced, observed and read in prior work relating to this subject.
+> If the reviewer could provide more concrete feedback or sources, I'd be happy to incorporate this perspective into my work.
+
+#### Material/Method
+The reasoning behind the choice of material needs to be clearer.
+Why are the two specific projects chosen?
+Are they particularly relevant for the research questions of this study?
+As they are of different character, they would form an interesting comparison between manual and digital recording methods.
+But this is perhaps not within the scope of the study.
+
+This is relevant pertaining to the aim of the study.
+Is the aim to draw general conclusions relevant for archaeology as a whole?
+As the author mentions, there are different traditions of archaeological practice.
+I believe this is crucial to a study like this.
+
+It is very important to be clear what traditions, or communities of practice, are studied.
+
+There are vast differences of practice between different types of archaeological excavations, e.g. projects within commercial archaeology, research projects and training projects. It should be clear what type of excavations are studied. (The projects should still be able to be anonymous.) Because results/conclusions from e.g. a research/training excavation will not automatically be valid for excavations taking place in the commercial sector, and vise versa.
+
+Moreover, there are substantial differences in traditions between North American and European traditions, as well as between North and South European traditions. In what traditions can the two case studies be placed? I get the impression they are research/training excavations. Correct or not?
+
+This is important as the observed and interviewed excavators and other field staff will work under different conditions and circumstances.
+
+> I made it more clear that I am not seeking to make generalizations about archaeology as a whole, but rather to articulate some significant factors that contribute to decisions and behaviours that archaeologists commonly make and enact.
+> I also state more explicitly my reasoning behind the selection of cases.
+> My revisions now more explicitly acknowledge areas of archaeology that this study does not cover, and refer the reader to additional work that grapples with similar topics in those contexts.
+
+And I would also say it is important to know their level of experience.
+Reading the transcriptions some of them seem inexperienced.
+Are some of them students?
+How do you value experience vs inexperience in the analysis?
+I believe it to be crucial to include the level of experience as well as the role of the persons in the analysis, as it impacts the results and make the conditions of the analysis clear to the reader.
+
+> I agree that more biographical information is warranted, though I'm limited by my commitment to protect participants' personal identities.
+> I provide a more detailed breakdown of the people mentioned throughout the study in the supplement, including references to their degree of experience.
+> I decided not to include this in the main text because the information that the reviewer deemed important to disclose (degree of experience, educational background) may potentially veer the paper away from its primary focus, into matters of pedagogy, for instance.
+> I've actually submitted a paper to a different journal specifically focusing on students' introduction to a community of practice, which is a topic that warrants its own focused analysis.
+
+Also include a description and reflection about the hierarchy of the projects.
+At least case A seem very hierarchic which would have impacted the agency of various staff which is relevant to the conclusions of the study. E.g. in example 2, case A, where it seems even easy tasks are performed by specialists, leaving the excavators without agency and overview of what they are doing.
+Without being a digital workflow.
+
+> The reviewer is making unwarranted assumptions about the projects that constitutes the cases.
+> Moreover, they are unclear about what they mean by hierarchy and how I should go about identifying a project as more or less hierarchical.
+> It would also be presumptuous to assume that degree of hierarchy is an independent and pre-existing factor, rather than being, at least in part, derived from the systems that enable the strict delegation of work directed toward productive ends, i.e. workflows.
+> The whole purpose of this paper is to interrogate this relationship between delegation of labour and information systems, rather than to presume that one takes precedence over the other.
+> Nevertheless, I amended the supplement to include additional information about the cases' organizational structures.
+
+#### Observations/Analysis
+I understand the Observations section as the analysis.
+But I miss an operationalization of the methods, at least in example 1 which is more descriptive.
+However, example 2 is more analytical.
+
+> Although both examples do actually involve analysis, I amended the language in the first example to make this more explicit.
+
+There are many interesting points made in example 2.
+One important is the contrast between the "fuzzy boundaries" and the preciseness of the record.
+This is what Gero (2007) discussed as the ambiguity of the archaeological record, that gets washed out by our recording.
+How do we keep the ambiguity in our record?
+Not an easy question to answer, but important.
+
+> I agree that these observations are very rich and afford many of lines of inquiry, and I actually have another paper in review at different journal dealing with the exact themes that the reviewer recognizes.
+> While these matters are certainly very interesting, they lie outside the scope of this paper.
+
+#### Structure
+There is an imbalance in the text.
+The parts seem a bit detached.
+
+The introduction and background give the impression the analysis will encompass more that it does, especially in example 1.
+
+The actual analysis is not clear.
+Instead, results are stated in a more general manner in the discussion, where they lose the connection to the actual examples in the studied material.
+So the conclusions become detached as well.
+Is this a result of how the text is written?
+
+I assume the PhD thesis has been divided into smaller articles, each bringing up a certain problem, pertaining to a part of the analysis.
+Or perhaps I am wrong.
+However, the intro and the conclusions seem "too large" for the analysis in this text.
+I believe this can be adjusted by stitching the parts together.
+
+> I revised the discussion to connect the broader concerns that this section is meant to identify with specific instances that occur throughout the observations.
+> This helps bridge the gap between observation and interpretation that the reviewer helpfully pointed out.
+
+#### Conclusions
+Some very broad statements about "many archaeologists" in the end of the discussion could be rephrased.
+I don't know of many archaeologists like this.
+If you are talking about many archaeologists in your two cases, this should be clear.
+If not, state your source.
+
+> I changed this to "many of my informants" to suit the original intended scope.
+
+The same is relevant in the Internalizing.. section.
+In the end acts of resistance throughout the discipline are mentioned. State the source.
+
+> Amended with several references to back this claim.
+
+Your last paragraph is interesting, pointing back to the issues of ambiguity of the archaeological material and how this can be acknowledged in our recording systems.
+It is interesting how you have seen the "infrastructural inversions" in your cases.
+How can we use this to make the documentation systems better?
+
+> I expanded on this in the conclusion.
+
+## Second Submission
+**Submitted:** 2024-08-22\
+**Decision:** 2025-02-25
+
+### Editorial Comments
+Dear Dr. Batist:
+
+I'm writing in regards to manuscript # CAJ-2024-0075 entitled "Locating creative agency in archaeological data work" which you submitted to the Cambridge Archaeological Journal.
+Apologies for the length of time it has taken to process it, we had non-delivering reviewers.
+
+I'm afraid that your manuscript is not suitable for publication in the Cambridge Archaeological Journal.
+As you will see, reviews are mixed, though they converge more than it may seem.
+One reviewer finds the ethnographic description well done, but seems uncertain what the overall significance is and notes that the conclusions could be taken further.
+The other reviewer, more critically, raises a number of points (for instance, about the selection of the case studies and the particular nature of workflow within them), but the core of their comments is pointing out that there has been significant research on how knowledge is made within fieldwork and while the manuscript provides clear ethnographic examples of such production, it is not clear how the manuscript takes this body of work further conceptually --- which echoes Reviewer 1's comments.
+As I read it, the main central argument is that workflows and formal structures for carrying out tasks such as recording are a managerial attempt to channel people's energy into obtaining a desired, standardised result; and when people actually carry them out, it involves a fair bit of departing from the script, improvisation, etc.
+On one hand, this seems straightforward and highly likely.
+On the other hand, it needs to specify how this is an advance on what has already been written, and what it adds to overall arguments about archaeological fieldwork as praxis.
+For example, how does it further arguments about semantic negotiation by Dallas and Lucas?
+It is hinted in several places that power dynamics enter into it (especially with common baggage of terms such as "managerial", "restricting agency" and so on); how, and what is the nature of the creative agency that is curtailed, and what are the effects in structuring power relations within the field situation?
+Similarly, there are remarks at the end about how this can all be best observed in cases of technological failure which disrupts the workflow.
+If so, why not give the reader some examples of this, rather than routine business as usual examples?
+Likewise, as Reviewer 2 notes, there is some discussion of how digital technologies and digitisation of the workflow changes the nature of archaeological knowledge formation (and power relations?) and this could provide a focus for discussing the significance of the work, but this is currently not followed through systematically.
+
+Thank you for considering the Cambridge Archaeological Journal for the publication of your research.
+I hope this critical feedback is useful in developing your work and the outcome of this specific submission will not discourage you from the submission of future manuscripts.
+
+Sincerely,
+
+Dr. John Robb\
+Editor, Cambridge Archaeological Journal
+
+### Author's Response
+Dear Dr. Robb,
+
+I appreciate your work managing this peer-review process, in spite of the months-long delay.
+Although I disagree with some aspects of the way the manuscript was read and its value represented (it extends upon Dallas' and Lucas' work, and on the work of other scholars of archaeological practice, by effectively "ground-truthing" their theories; I limited my explanations to those which could be justifiably associated with what I was able to actually observe, rather than freely speculate or stretch the observations to satisfy non-relevant theory; reviewer two misrepresented of my goals with regards to generalization of findings, despite me being quite explicit about this; reviewer two misread and misrepresented the number of cases I report on in this study), I accept the reviewers' decisions.
+Since this is my second failed attempt at publishing this paper and the pool of potential reviewers is likely quite limited at this point, I will not pursue it any further.
+
+I will consider submitting future work in the Cambridge Archaeological Journal in the future.
+
+With best regards,\
+Zack
+
+### Reviewer 1
+The description of observations sometimes loses a little touch with the outspoken aims and framing of the study.
+For example, while I like the wonderful description of the use of ordinary tools and how they are mended in field (and I think it for sure deserves to be published) its direct relevance and specific implications to workflows, managerial control and data generation is not entirely apparent in the current text.
+This is clearer with drawing and especially with photographs but even here a little more explicit signposting would not hurt.
+
+> I re-framed the first few paragraphs of the observations as a distinct section, and added a signpost that also orients the rest of the paper in relations to the observations made in that section.
+
+I am also wondering if the author could say something more specific about the mechanisms of the managerial control to bring more detailed understanding of them.
+Now the conclusions remain on the level that it matters providing empirical backing to earlier observations but I suspect there could be more to say --- understanding that this might be also a topic of future inquiry.
+
+Describing in a few additional sentences the theories that have informed the study to help readers not that well-versed in Activity Theory and Distributed Cognition to understand the premises and implications (and limitations) of the approaches.
+The significance of the theories for the analysis and discussion remains also rather unclear in the text.
+
+> I significantly re-worked this section to draw attention to the value that these frameworks bring to bear on my research, and how they complement each other and collectively constribute to the study's overall objective.
+> I also brought more information about the methodological approach up from the supplement, and editied this text for enhanced clarity.
+
+The term elicitation used in relation to (apparently) what study participants' said and/or did could be opened briefly for increased clarity.
+
+The reading of the notion of "infrastructural inversion" seems slightly mistaken.
+The original reference refers to it as a turn taken rather than a phenomenon.
+Somehow it looks like the author might be referring here to infrastructural breakdown instead.
+
+> I verified and corrected this error.
+
+### Reviewer 2
+The article aims to situate the identification, collection and interpretation of archaeological data within the workflow of archaeological practitioners, specifically fieldwork, with a view that creative agency is effectively dissipated or even silenced under top-down management design.
+
+The paper is clearly articulated and presented. The two photographs add little to the text.
+The supporting supplementary data is relevant to the text.
+
+The author draws from constructivist perspectives of social studies of science, specifically to 'demonstrate the social and situated aspects of archaeological data management' (p.16).
+There is certainly an emphasis on the situated component of this, but less so concerning the 'social'.
+
+> I removed this reference to the social aspects of archaeological data management.
+
+The author's focus on workflows as a means ("attempt") to "control" the collection and organization of data is problematic.
+Largely missing here is the vitality (and agency) at work within the power dynamic across knowledge production in archaeology, and the necessary focus in archaeology upon 'context' which in many ways sets it apart from other scientific discourses (this is touched upon on p.4, but is limited thereafter).
+
+> In drawing out a new section at the beginning of the Observations section, this tension becomes more apparent as a focus of this study
+> To be clear, the purpose of this paper is to demonstrate, through empirical observations, that workflows do indeed dictate archaeological practice, and to a greater degree that has been recognized until now.
+> I welcome additional evidence to the contrary, but this was not apparent in my analysis of the cases presented here.
+
+There are now many publications that consider knowledge production in archaeology.
+A number of these consider 'knowledge production' as situated, and look to the power dynamics by which data is recognised and through which 'knowledge' is legitimised.
+This article would ideally link with publications that consider the material/technological apparatuses integral to specific forms of data and knowledge production in archaeology.
+Management systems feature in a number of these.
+Some of this literature is reflected in the discussion and the bibliography; some important texts are not.
+
+For example, Michael Shanks (2007, and elsewhere) has discussed different views of design in archaeology, from expert-based to 'agile' design systems, and explores different ways by which these may be engaged in knowledge production workflows.
+Olsen et al. (2016, Chapter 4) also discuss 'Fieldwork as Collective Action', and 'Archaeological Management and Cultural Production', and offer themes on lines of alternative management models, which may be compared with experimental reflexive methodologies, a feature of discussion in particular during the 1990s and earlier 2000s (e.g. Ian Hodder, or John Barrett).
+
+In several of these published texts there is an understanding that data feeds back into (i.e. impacts) the archaeological workflow.
+Data is dynamic, and might be considered wth relation to 'creative agency'.
+Whereas the author here refers to archaeological data as 'documentary records' (page 3), Olsen et al, and others, consider data as 'memory devices' (pace Bowker) that captures the dynamic essence that these embody.
+
+The author recognises that there are 'different traditions of practice' within archaeology, with their 'own histories, memberships, sets of tools, methods, and social or political circumstances.'
+The author's study is therefore intended to be targeted within a specific 'experience' of archaeological fieldwork – an anonymous North American research project – that by which tools and practices common to archaeological work may be made more visible.
+This cross between a generalised view of archaeological practice in the introductory sections and a localised but apparently representative series of case studies is not really successful, and this may be owed in part to the nature of the case studies.
+As the author notes (page 6), commercial archaeology 'accounts for the vast majority of archaeological work conducted throughout North America and Europe' (and arguably also in Japan).
+Whilst the author acknowledges their lack of experience/knowledge of this sector, and also notes that these feature within other, similar studies, some comparative exploration with this sector (or others) would have greatly enhanced the value of the study by covering different scales of operation, a variety of priorities, stakes and data management streams.
+The case study actually comes across as somewhat restrictive, and seemingly drawn from a super-processual 'workflow' that might not actually be the experience of many practitioners outside of this particular project.
+What room is there for experimentation? (apparently not much, according to the author, but this is certainly not the experience of this reviewer).
+How does data feed back into the workflow? How might 'professional norms and expectations' (p.8) differ across sectors? Is research design integral to each of these , and how does this relate to creative agency?
+
+There is an emphasis within the case studies and in much of the preliminary sections, upon digital media/data.
+Perhaps a more in-depth consideration of the differences that mark design and management of digital data workflows compared with analogue media still employed within the fieldwork case studies would have strengthened the analysis.
+How do these operate together, and what discursive possibilities or limitations are an outcome of their intermeshed usage?
+Is this a juxtaposition, and are there spaces for greater or enhanced 'creative agency' within this nexus?
+
+Some forward looking may also have been a welcome addition; for example, with a view to alternative management structures, the impact of AI collaborations, the legacy and future of traditional media in data work (e.g. remediation).
+
+References:\
+Olsen, Bjørnar, Michael Shanks, Timothy Webmoor, and Christopher Witmore. 2012. Archaeology: The Discipline of Things. University of California Press.
+
+Shanks, Michael. 2007. "Digital Media, Agile Design, and the Politics of Archaeological Authorship." In Archaeology and the Media, edited by Timothy Clack and Marcus Brittain, 273–89. Routledge.
+
+# Acknowledgments {.appendix}
+I extend warm thanks to Costis Dallas, Matt Ratto, Ted Banning, Jeremy Huggett and Ed Swenson for supervising my work and providing critical feedback as I conducted my doctoral research, which this paper is based upon.
+I am also very grateful to the anonymous reviewers for their constructive evaluation.
+Of course, this work would not have been possible without the anonymous research participants who allowed me to observe and interview them as they worked, and to articulate their actions and outlooks.
+
+# Funding {.appendix}
+This work is derived from the author's doctoral dissertation, _Archaeological data work as continuous and collaborative practice_ [@batist2023a], which was supported by the Canadian Social Sciences and Humanities Research Council Doctoral Fellowship (Award ID: 752-2019-2233).
+
+# Competing Interests {.appendix}
+The author states no conflicts of interest.
+
+# Author Contribution {.appendix}
+Zachary Batist is the sole author of this work.
+He defined the scope of the study and identified suitable cases for inclusion, collected and processed all data, performed analysis, interpreted the findings, created all the figures, and wrote the paper.
+
+# Informed Consent {.appendix}
+Informed consent has been obtained from all individuals included in this study, in compliance with the University of Toronto's Social Sciences, Humanities, and Education Research Ethics Board, Protocol 34526.
+
+# Data Availability Statement {.appendix}
+The data generated and analyzed during the current study are included in this published article's supplementary files.
+
+# Author Bio {.appendix}
+Zachary Batist obtained his PhD from the University of Toronto's Faculty of Information.
+His research explores the collaborative commitments inherent throughout archaeological practice, especially relating to data management and the constitution of information commons.
+He currently works as a Postdoctoral Researcher at the Department of Epidemiology, Biostatistics and Occupational Health in the School of Public and Global Health at McGill University, where he investigates the collaborative, technical and administrative structures that scaffold data harmonization in epidemiological research.
