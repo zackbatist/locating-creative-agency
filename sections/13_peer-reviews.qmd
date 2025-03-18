@@ -343,21 +343,41 @@ In several of these published texts there is an understanding that data feeds ba
 Data is dynamic, and might be considered wth relation to 'creative agency'.
 Whereas the author here refers to archaeological data as 'documentary records' (page 3), Olsen et al, and others, consider data as 'memory devices' (pace Bowker) that captures the dynamic essence that these embody.
 
+> These comments seem like the root of an interesting discussion, however it is unclear what the reviewer is asking me to do here.
+> I would be happy to make revisions in response to more specific suggestions.
+
 The author recognises that there are 'different traditions of practice' within archaeology, with their 'own histories, memberships, sets of tools, methods, and social or political circumstances.'
 The author's study is therefore intended to be targeted within a specific 'experience' of archaeological fieldwork – an anonymous North American research project – that by which tools and practices common to archaeological work may be made more visible.
 This cross between a generalised view of archaeological practice in the introductory sections and a localised but apparently representative series of case studies is not really successful, and this may be owed in part to the nature of the case studies.
 As the author notes (page 6), commercial archaeology 'accounts for the vast majority of archaeological work conducted throughout North America and Europe' (and arguably also in Japan).
 Whilst the author acknowledges their lack of experience/knowledge of this sector, and also notes that these feature within other, similar studies, some comparative exploration with this sector (or others) would have greatly enhanced the value of the study by covering different scales of operation, a variety of priorities, stakes and data management streams.
+
+> The projects that constitute the cases (there were two, not only one --- which implies that the reviewer misread the work) actually comprised archaeologists with varying degrees of experiences and with different experiential backgrounds.
+> Neither were field schools, but both did rely on undergraduate and graduate students' participation, and as such involved some degree of training.
+> Moreover, some of the participants did have extensive experience in commercial archaeology, and were working on these projects on the side.
+> This being said, the projects were driven by their academic character, and I was limited to what I was able to observe.
+> However, I did refer to other studies that do examine similar phenomena in alternative research contexts, and I revised the section presenting those prior works to more explicitly relate them to this paper.
+
 The case study actually comes across as somewhat restrictive, and seemingly drawn from a super-processual 'workflow' that might not actually be the experience of many practitioners outside of this particular project.
 What room is there for experimentation? (apparently not much, according to the author, but this is certainly not the experience of this reviewer).
 How does data feed back into the workflow? How might 'professional norms and expectations' (p.8) differ across sectors? Is research design integral to each of these , and how does this relate to creative agency?
+
+> The study was limited to the observations I was able to make, based on the cases I was able to engage with.
+> I did not observe much variation or experimentation, and therefore was unable to report on such behaviour.
 
 There is an emphasis within the case studies and in much of the preliminary sections, upon digital media/data.
 Perhaps a more in-depth consideration of the differences that mark design and management of digital data workflows compared with analogue media still employed within the fieldwork case studies would have strengthened the analysis.
 How do these operate together, and what discursive possibilities or limitations are an outcome of their intermeshed usage?
 Is this a juxtaposition, and are there spaces for greater or enhanced 'creative agency' within this nexus?
 
+> This juxtaposition is contrived by the reviewer.
+> I never articulated it because it was not my intent to draw it forward.
+> It is a false and superficial dichotomy, and misses the overall target of observation: the systems of control that individual actions are made to fit in to, which involve both digital and non-digital technological mechanisms, as well as organizational structures.
+
 Some forward looking may also have been a welcome addition; for example, with a view to alternative management structures, the impact of AI collaborations, the legacy and future of traditional media in data work (e.g. remediation).
+
+> These topics are out of the paper's scope and would require more in-depth observations specifically targeting those aspects of archaeological practice, which was never my intent.
+> Since these topics were not covered in the paper, I do not feel comfortable making any concrete assertions about them.
 
 References:\
 Olsen, Bjørnar, Michael Shanks, Timothy Webmoor, and Christopher Witmore. 2012. Archaeology: The Discipline of Things. University of California Press.
