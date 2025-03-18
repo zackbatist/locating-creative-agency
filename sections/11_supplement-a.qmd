@@ -1,0 +1,75 @@
+# Supplement A
+## Description of Cases
+Case A, which largely comprises the excavation of a prehistoric site in Southern Europe, followed archaeologists' evolving engagement with the information system over the course of several years.
+Like many other archaeological projects, Case A's research team composition and governance structure follows a common model, with a director who coordinates the project, various specialists whom the director recruited for their expertise in the interpretation of finds, a number of trench supervisors who lead excavation and coordinate data collection, and excavators who are usually less experienced students who operate under the guidance of their assigned trench supervisors.
+It also relies extensively on archaeological surface surveys and assessments of the landscape to inform excavation strategies and guide interpretations of finds.
+Case A addresses common underlying research questions, and its participants compare its findings with similar work in the vicinity.
+Moreover, it relies on and engages with local communities who support the research by agreeing to excavation on their lands, while also providing housing, food and other support to the mostly foreign research team.
+
+This project serves as a useful case study that illustrates of the pragmatic and multifaceted ways in which participants reason and work their way through the rather mundane activities that archaeologists commonly undertake in similar research contexts.
+I have actively contributed to Case A for several years, largely performing data management and maintenance work.
+This has provided me with a privileged outlook on how team members structure information, how they typically use data, and what circumstantial events or motivating factors frame such concerns.
+I have documented how participants engage with this project's information system over the course of three years, from 2017 to 2019.
+This involved visiting the project during its summer field seasons to observe archaeological practices and to interview selected participants.
+I also held interviews throughout the "off season," both remotely and in person.
+The project's director has also made all of the project's documentation and records available to me for the purpose of this research.
+The data I collected largely pertains to fieldwork recording practices, processing and analysis of finds, records management, interdisciplinary collaboration, decisions regarding writing and publication of findings, and discussions of how data and findings are presented, evaluated and revised among broader research communities.
+
+My work at Case A constituted a longer-term and in-depth investigation of archaeological practice.
+My continual participation at this project allowed me to develop an understanding of the intricate social relations as they developed over time, and enabled me to examine certain methods that are drawn out over the course of several field seasons.
+This helped me account for how knowledge emerged from activities distributed across time, place and circumstance.
+
+Case B centres on fieldwork conducted at at excavation in the eastern Mediterranean region.
+This project is generally regarded as being technologically innovative for the ways that it has integrated novel digital tools and technologies into daily fieldwork routines.
+More specifically, Case B makes use of photogrammetry and advanced spatial recording systems in ways that provide practical value, rather than as superfluous or experimental use cases, which is how most other implementations of these tools and technologies have been commonly characterized.
+Case B is also firmly committed to publishing its data openly, having done so for several years.
+It is sometimes showcased as an example of how to implement `open' principles in archaeology more generally.
+While Case B has an organizational structure similar to that of Case A, it is worth noting that it is the second iteration of a project that began during the mid-1990s.
+One of the two current co-directors is a former mentee of the former co-directors.
+I visited this project for ten days during its 2019 summer fieldwork season.
+My visit largely focused on how participants interact with information systems, how the tools that they use pose challenges, and how participants find solutions to those problems.
+
+My work at Case B was more intensive, comprising a week of interviewing and observation while archaeologists were engaging in fieldwork.
+The project on which the case is based has a reputation as an early adopter of digital technologies in fieldwork settings.
+This presented me with a fresh alternative to what I observed in Case A, which follows more traditional data management procedures.
+This case therefore prompted me to focus on information management practices.
+
+In each case, I documented how archaeologists perform various activities, specifically accounting for how these actions fit into broader systems of knowledge production.
+Throughout all cases I was able to capture a variety of embodied experiences and outlooks corresponding with many roles and positions.
+This provides me with insight regarding how data management infrastructures are valued and used in a variety of contexts and by people working throughout the continuum of archaeological practice.
+My conclusions are informed by the community whose views I sought to articulate, and by my own standpoint as a scholar of the culture and practice of science and of the media and infrastructures that support it.
+
+I obtained informed consent from all individuals included in this study in compliance with the University of Toronto's Social Sciences, Humanities, and Education Research Ethics Board, Protocol 34526.
+In order to ensure that participants could speak freely about their personal and professional relationships while minimizing risk to their personal and professional reputations, I committed to refrain from publishing any personally identifying information.
+I refer to all participants, affiliated organizations, and mentioned individuals or organizations using pseudonyms.
+I also edited visual media to obscure participants' faces and other information that might reveal their identities.
+I also took care to edit or avoid using direct quotations that were cited in other published work that follows a more permissive protocol regarding the dissemination of participants' identifying information.
+
+## Research Participants
+Here is a list and brief description of individuals mentioned throughout the paper:
+
+**(A) Theo:** Commercial archaeologist, recommended to Basil by a mutual friend. An excavator by profession, his competence often serves as an example for the rest of the crew. He became field director after a few years working as a trench supervisor. He is very laid back and has a casual attitude.
+
+**(A) Jane:** One of Basil's top students, who joined the project for one season. As a very independent and competent worker, she took on supervisory responsibilities and stood out as an exemplary fieldworker.
+
+**(B) Chris:** Project co-director. He is a specialist in the archaeology of the region and a very experienced fieldworker. He uses the project as a base for a field school, where undergraduate students from his university learn basic fieldwork practices.
+
+**(B) Rufus:** Project co-director. As a former student of one of the previous co-directors and a leading participant in prior research at the site, Rufus was well suited to take the reigns when the former directors transitioned to other research interests. Rufus is an expert in the archaeology of the region, and an innovator in the application of digital recording practices in archaeological fieldwork.
+
+**(B) Liz:** Graduate student and trench supervisor who worked with the project the previous year. Her dissertation is in part based on data derived from this project.
+
+Here is a list and brief description of individuals mentioned throughout Supplement B but who do not appear in the main section of the paper:
+
+<!-- % \item[(A) Gabe] Geoarchaeologist attached to the project. He initially served as field director, but his presence on this project became sparse after he took on additional work with other research projects elsewhere. He remained on board as a significant collaborator, but no longer as field director. He is known for his aptitude with statistical analysis and for being level-headed.
+% \item[(A) Alfred] Senior graduate student working at the project for his geoarchaeology dissertation at a North American university. He took on the role of field director while Gabe peeled back his commitments. He is confident, with a hands-on, get-things-done attitude.
+% \item[(A) Dorothy] Senior graduate student who oversees palaeobotanical analysis, including sample collection and processing protocols.
+% \item[(A) Jolene] Senior graduate student who oversees the analysis of chipped stone for the project. She met Basil while working at another project.
+% \item[(A) Agatha] Graduate student who serves as Jolene's assistant. Her specialty is ground-stone artefacts but in this project she largely performs logistical duties.
+% \item[(A) Talia] Junior faculty member who became involved with the project as a trench supervisor after a colleague recommended her to Basil.
+% \item[(A) Lauren] Graduate student who became involved with the project as a trench supervisor after a colleague recommended her to Basil.
+% \item[(A) Lester] Commercial archaeologist who became involved with the project as a trench supervisor after Theo recommended him to Basil.
+% \item[(A) Olivia] Commercial archaeologist who became involved with the project as a trench supervisor after Alfred recommended her to Basil.
+% \item[(A) Ben] One of Basil's top students, who joined as a trench assistant. He came back the following year as a trench supervisor.
+% \item[(A) Isabelle] Undergraduate student who joined as a trench assistant. She works as Basil's lab assistant during the off-season as well.
+% \item[(B) Bernard] Former co-director who has moved on to working at other projects elsewhere in the region. He still consults with the team currently working at Case B.
+% \item[(B) Greg] Rufus's old friend who serves as the project's database technician. He works as a database operator at a large commercial firm and is offering his expertise to rebuild the project's database to more technically and professionally sound standards. -->

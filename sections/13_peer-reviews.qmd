@@ -1,0 +1,365 @@
+# Peer-Reviews
+Here I present the commments I received from the peer-reviewers and the editor of Cambridge Archaeological Journal, as well as my responses to many of the points raised during review.
+
+For context, I asked that the editor account for my responses to the initial round of reviews despite his decision to consider the second submission completely independent from the first.
+I felt that a new, independent submission was unwarranted, given the lack of severity implied by the comments, and the absence of any recommendation to reject the paper outright.
+I can not say for certain whether my responses were accounted for at all during the second review process, but I suspect they were not.
+
+The second evaluation took six months due to reviewers having agreed to review and then not submitting their feedback.
+My decision to not proceed with a third submission is in direct response to the limited pool of potential reviewers that this signifies.
+
+## First Submission
+**Submitted:** 2024-02-26\
+**Decision:** 2024-05-23
+
+### Editorial Comments
+Dear Dr. Batist:
+
+I'm writing in regards to manuscript # CAJ-2024-0019 entitled "Digital workflows and the alienation of archaeological labour" which you submitted to the Cambridge Archaeological Journal.
+
+I'm afraid that your manuscript is not suitable for publication in the Cambridge Archaeological Journal.
+
+The article has some important strengths.
+It deals with important and interesting issues, it is carefully written, and a lot of the empirical description is meticulous.
+But it also needs a lot of improvement.
+You can get a sense of critique from the two detailed and thoughtful reviews we have (below), which are very consonant with my own reading as a general reader.
+
+Probably the single biggest critique is that the writing is vague (a term both reviewers use) and needs focusing.
+There is a coherent argument at the core of the article (that archaeological work is sometimes structured in formalistic workflows, but that when people actually do it, it involves all sorts of non-linear process, workarounds, judgement calls, integration of different kinds of information, etc.).
+But it takes a bit of work to puzzle this out amidst other material, and when one does, its elaboration and implications are not clear.
+
+> I refined the introduction to more clearly articulate the aim of the paper, which is now more narrowly defined, and amended the discussion and conclusion to reflect these changes.
+
+For instance, it is implied that the development of formalistic workflows is a phenomenon associated with archaeological work becoming digital, but this argument isn't really spelled out (and indeed, one could imagine it otherwise; archaeologists have been filling out rigidly structured, formalistic field forms for at least 50 years, and in some ways digital methods might actually free people, for instance by allowing on the spot video recording, hybrid drawing/ photo/ notes methods, etc.).
+
+> I never actually stated an opposition between digital and analog methods, nor did I actually ascribe presumptive value judgements upon them. Throughout all the examples (whether they constitute activities that rely on analog or digital tools, and often both in tandem), the emphasis is on mechanisms of control and the tension between orienting work around future outcomes on one hand, and on the value of situated perspectives on the other. The argument that digital is inherently bad is never spelled out explicitly because it was never my intention to make that argument at all. However, I do concede that this could and should be made more clear from the outset, and I amended the background section to include a more explicit statement indicating this position.
+
+Similarly, it is implied both that this interplay of formal rules and informal process is unique to digitised work process rather than (say) inherent and normal to all workflow involving structured procedures, and that this is a bad thing which reduces the experiential quality of work for the workers (this is implied by terms such as "alienation"), but neither argument is really spelled out explicitly.
+
+This general looseness of linkage between text and claimed arguments underlies both reviewers asking for more focus on specific research questions.
+
+> I re-worked the background and discussion sections to ensure that they are more explicitly oriented around a targeted goal, which is now more clearly stated in the introduction.
+
+It would also be useful to go more into the research context;
+as reviewers note, the landscape of archaeological knowledge formation is quite differentiated, there has been a lot of work on archaeological reflexivity and how these impact methods, and it is really too simple to characterise the whole field as displaying an opposition between objective knowledge/ digital workflows and subjective knowledge/ personal knowledge.
+
+> I revised the text introducing the cases to reflect upon their selection. I made it more clear that I am not seeking to make generalizations about archaeology as a whole, but rather to articulate some significant factors that contribute to decisions and behaviours that archaeologists commonly make and enact. I explicitly acknowledge areas of archaeology that this study does not cover, and refer the reader to additional work that grapples with similar topics in those contexts.
+
+It should also specify more clearly what the specific contribution of this work to the state of knowledge it, and what are its implications for the field.
+For instance, what are the implications for the status of archaeological knowledge, or for the on-the-ground politics of fieldwork, or whatever?
+
+> I revised the discussion and conclusion to account for the potential implications of my findings and to recommend a course of action.
+
+If you are reworking the article, it might be useful to try focusing it very tightly around a single main point and saving other elements for other works.
+It has something of the feeling of being condensed from a larger work while trying to retain all the arguments and complexities, with the result that it reads in parts as free-floating arguments, insights and claims whose relationship is implied or unclear rather than explicit.
+
+> I put in considerable effort to re-work the paper to be more tightly focused around a specific objective, now more clearly stated in the introduction.
+
+Thank you for considering the Cambridge Archaeological Journal for the publication of your research.
+I hope this critical feedback is useful in developing your work and the outcome of this specific submission will not discourage you from the submission of future manuscripts.
+
+Sincerely,
+
+Dr. John Robb\
+Editor, Cambridge Archaeological Journal
+
+### Reviewer 1
+This is well-written and interesting manuscript describing a part of an immensely rich field study of archaeological practices at two sites in Southern Europe.
+
+While the study is clearly positioned in relation to the literature and the description of the empirical work is clearly articulated, the paper suffers of its vague aim.
+The authors states that it "it examines the social and technical apparatus through which archaeologists control the creation and flow of information, and interrogates how digital workflows are operationalized by managerial systems to ensure that data are created and curated toward productive ends."
+I don't exactly disagree with the author but reading the text as a devil's advocate, it would not be entirely untrue to say that this has already been said in the earlier research, perhaps most explicitly by Dallas (2015) but also for example by Khazraee and colleagues and some others.
+At the same time, I see that the paper does provide a lot of new insights but they should be articulated clearer as the novelties this specific paper can offer.
+
+> This work explicitly builds upon Dallas' 2015 paper, which qas largely theoretical, and which called for more empirical research exploring the social and technological structures that scaffold archaeological data work.
+> As Dallas' doctoral student for seven years, I was directly involved in operationalizing his theoretical work through empirical observation and analysis, and this paper is one product of those efforts.
+> Moreover, Khazraee's emphasis was largely on information outcomes rather than issues concerning the practice itself (which I have written about elsewhere, in review and in press).
+> I amended the Background section to more clearly relate my work to these prior efforts.
+
+As three more specific comments:
+
+First, I suggest that the authors develops a more specific aim and perhaps even research questions for this study.
+
+> I updated the introduction to more clearly state a research objective.
+> I amended the rest of the paper to reflect this changes.
+
+Second I suggest that even if I very much like the richness of the empirical analysis, it would help if it would be focused more specifically to the issues that are the main points of this paper.
+Readers need help in understanding what are the key points of the analysis.
+
+> I added more conclusive remarks at the end of each subsection within the observations section to relate them to the overall objective.
+
+Third, it would help in the discussion if the references to the analysis would be more specific.
+Now the references back to how things were shown in the analysis remain difficult to understand as it is not clear how the author thinks they were shown.
+
+> I refined the discussion and conclusion to refer more explicitly to the conclusive statements now included in the observations (see the response directly above).
+
+Finally, the text contains traces of an activity theoretical framing of the study.
+If Activity Theory is used in this particular analysis, it would be reasonable to be explciit about it.
+If this paper uses another theoretical framing, it could also be spelled out more clearly and/or at least the activity theory should be cleaned off the text.
+
+> I did indeed rely on activity theory as part of a broader methodological framework, which draws together several other approaches, too.
+> I amended the methods section to better account for how I use activity theory, in combination with other methodological frameworks, in this project.
+
+### Reviewer 2
+#### General
+The subject of this study is interesting and relevant.
+We are far from fully understanding how digital methods are impacting archaeological knowledge creation processes.
+So this is a welcome study.
+
+> Reviewer 2 expressed dissatisfaction concerning the way I addressed different conceptions of data.
+> Specifically, they indicated (1) that I identify, without adequate citation, a perspective on data that conceives of them as raw, discrete and objective entities, (2) that I under-represent an alternative position that recognizes data's situated and subjective nature, and (3) that I present a power imbalance between these attitudes.
+> In fact, the subsections titled Collection and Capture and Data as Discursive Media already provide numerous sources that identify a position of data as objective and raw.
+> Moreover, these subsections are explicitly concerned with highlighting the alternative view that considers the situated and subjective nature of data which the reviewer suggests I add.
+> It is unclear to me how the reviewer could claim that I under-represented these perspectives, when they are clearly present throughout the background section.
+> Moreover, I never articulated that any dominant/submissive relationship exists between these stances, and in claiming that this was present in my work, the reviewer further misrepresented what I actually wrote.
+> However, I did modify the language slightly to more explicitly present these perspectives as alternatives on equal footing.
+
+However, there are some fundamental issues that need to be addressed before this study has reached its full potential.
+
+Some simplifications regarding the premises of the study could be more nuanced, the aim stated more clearly, the methods of the study more clearly operationalized in the analysis and the conclusions made clear whether they apply to archaeology in general or not.
+
+#### Aim
+What is the aim of this study?
+I think it should be spelled out why it is important to show "how the management of data and of labour are inherently intertwined, and how digital workflows are operationalized by managerial systems to ensure that data are created and curated toward productive ends." or how the study "examines the social and technical apparatus through which archaeologists control the creation and flow of information, and interrogates how digital workflows are operationalized by managerial systems to ensure that data are created and curated toward productive ends".
+
+I think it will be clearer to the reader if a one sentence aim is spelled out, especially as the title of the article points to some social implications.
+Also, the title gives the impression that digital workflows are the object of study here.
+But case 1 do include many manual and analogue methods.
+
+Moreover, do I understand it correctly that the author aims at making general conclusions "relevant to contemporary discourse on the nature of archaeological data and ongoing development of information infrastructures."
+So the aim is to contribute to the general discussion on archaeological knowledge production?
+
+#### Introduction/Background
+The introduction and Background give an overview of the subject and previous research.
+
+However, I get the impression the author believes that the dominant attitude towards archaeological "data" is that it is raw and objective.
+Is this really the case?
+Not everywhere. Not anymore.
+Please refer to some examples to back up your view, as this seems to be one of the premises of the study.
+
+And do all workflows "flatten the subjective experience of data capture"?
+Can't a workflow be built to enhance the subjective?
+I think it is not workflows per se that are the problem, but how they sometimes are organized and how the results are used.
+This is also one of the premises of the study and could be more nuanced.
+
+> I added additional sources to back up the claim about workflows being inherently concerned with flattening social and situated experiences of data capture.
+> Although Reviewer 2 suggested that perhaps workflows can be used to support the expression of situated experiences, this claim does not align with what I have experienced, observed and read in prior work relating to this subject.
+> If the reviewer could provide more concrete feedback or sources, I'd be happy to incorporate this perspective into my work.
+
+#### Material/Method
+The reasoning behind the choice of material needs to be clearer.
+Why are the two specific projects chosen?
+Are they particularly relevant for the research questions of this study?
+As they are of different character, they would form an interesting comparison between manual and digital recording methods.
+But this is perhaps not within the scope of the study.
+
+This is relevant pertaining to the aim of the study.
+Is the aim to draw general conclusions relevant for archaeology as a whole?
+As the author mentions, there are different traditions of archaeological practice.
+I believe this is crucial to a study like this.
+
+It is very important to be clear what traditions, or communities of practice, are studied.
+
+There are vast differences of practice between different types of archaeological excavations, e.g. projects within commercial archaeology, research projects and training projects. It should be clear what type of excavations are studied. (The projects should still be able to be anonymous.) Because results/conclusions from e.g. a research/training excavation will not automatically be valid for excavations taking place in the commercial sector, and vise versa.
+
+Moreover, there are substantial differences in traditions between North American and European traditions, as well as between North and South European traditions. In what traditions can the two case studies be placed? I get the impression they are research/training excavations. Correct or not?
+
+This is important as the observed and interviewed excavators and other field staff will work under different conditions and circumstances.
+
+> I made it more clear that I am not seeking to make generalizations about archaeology as a whole, but rather to articulate some significant factors that contribute to decisions and behaviours that archaeologists commonly make and enact.
+> I also state more explicitly my reasoning behind the selection of cases.
+> My revisions now more explicitly acknowledge areas of archaeology that this study does not cover, and refer the reader to additional work that grapples with similar topics in those contexts.
+
+And I would also say it is important to know their level of experience.
+Reading the transcriptions some of them seem inexperienced.
+Are some of them students?
+How do you value experience vs inexperience in the analysis?
+I believe it to be crucial to include the level of experience as well as the role of the persons in the analysis, as it impacts the results and make the conditions of the analysis clear to the reader.
+
+> I agree that more biographical information is warranted, though I'm limited by my commitment to protect participants' personal identities.
+> I provide a more detailed breakdown of the people mentioned throughout the study in the supplement, including references to their degree of experience.
+> I decided not to include this in the main text because the information that the reviewer deemed important to disclose (degree of experience, educational background) may potentially veer the paper away from its primary focus, into matters of pedagogy, for instance.
+> I've actually submitted a paper to a different journal specifically focusing on students' introduction to a community of practice, which is a topic that warrants its own focused analysis.
+
+Also include a description and reflection about the hierarchy of the projects.
+At least case A seem very hierarchic which would have impacted the agency of various staff which is relevant to the conclusions of the study. E.g. in example 2, case A, where it seems even easy tasks are performed by specialists, leaving the excavators without agency and overview of what they are doing.
+Without being a digital workflow.
+
+> The reviewer is making unwarranted assumptions about the projects that constitutes the cases.
+> Moreover, they are unclear about what they mean by hierarchy and how I should go about identifying a project as more or less hierarchical.
+> It would also be presumptuous to assume that degree of hierarchy is an independent and pre-existing factor, rather than being, at least in part, derived from the systems that enable the strict delegation of work directed toward productive ends, i.e. workflows.
+> The whole purpose of this paper is to interrogate this relationship between delegation of labour and information systems, rather than to presume that one takes precedence over the other.
+> Nevertheless, I amended the supplement to include additional information about the cases' organizational structures.
+
+#### Observations/Analysis
+I understand the Observations section as the analysis.
+But I miss an operationalization of the methods, at least in example 1 which is more descriptive.
+However, example 2 is more analytical.
+
+> Although both examples do actually involve analysis, I amended the language in the first example to make this more explicit.
+
+There are many interesting points made in example 2.
+One important is the contrast between the "fuzzy boundaries" and the preciseness of the record.
+This is what Gero (2007) discussed as the ambiguity of the archaeological record, that gets washed out by our recording.
+How do we keep the ambiguity in our record?
+Not an easy question to answer, but important.
+
+> I agree that these observations are very rich and afford many of lines of inquiry, and I actually have another paper in review at different journal dealing with the exact themes that the reviewer recognizes.
+> While these matters are certainly very interesting, they lie outside the scope of this paper.
+
+#### Structure
+There is an imbalance in the text.
+The parts seem a bit detached.
+
+The introduction and background give the impression the analysis will encompass more that it does, especially in example 1.
+
+The actual analysis is not clear.
+Instead, results are stated in a more general manner in the discussion, where they lose the connection to the actual examples in the studied material.
+So the conclusions become detached as well.
+Is this a result of how the text is written?
+
+I assume the PhD thesis has been divided into smaller articles, each bringing up a certain problem, pertaining to a part of the analysis.
+Or perhaps I am wrong.
+However, the intro and the conclusions seem "too large" for the analysis in this text.
+I believe this can be adjusted by stitching the parts together.
+
+> I revised the discussion to connect the broader concerns that this section is meant to identify with specific instances that occur throughout the observations.
+> This helps bridge the gap between observation and interpretation that the reviewer helpfully pointed out.
+
+#### Conclusions
+Some very broad statements about "many archaeologists" in the end of the discussion could be rephrased.
+I don't know of many archaeologists like this.
+If you are talking about many archaeologists in your two cases, this should be clear.
+If not, state your source.
+
+> I changed this to "many of my informants" to suit the original intended scope.
+
+The same is relevant in the Internalizing.. section.
+In the end acts of resistance throughout the discipline are mentioned. State the source.
+
+> Amended with several references to back this claim.
+
+Your last paragraph is interesting, pointing back to the issues of ambiguity of the archaeological material and how this can be acknowledged in our recording systems.
+It is interesting how you have seen the "infrastructural inversions" in your cases.
+How can we use this to make the documentation systems better?
+
+> I expanded on this in the conclusion.
+
+## Second Submission
+**Submitted:** 2024-08-22\
+**Decision:** 2025-02-25
+
+### Editorial Comments
+Dear Dr. Batist:
+
+I'm writing in regards to manuscript # CAJ-2024-0075 entitled "Locating creative agency in archaeological data work" which you submitted to the Cambridge Archaeological Journal.
+Apologies for the length of time it has taken to process it, we had non-delivering reviewers.
+
+I'm afraid that your manuscript is not suitable for publication in the Cambridge Archaeological Journal.
+As you will see, reviews are mixed, though they converge more than it may seem.
+One reviewer finds the ethnographic description well done, but seems uncertain what the overall significance is and notes that the conclusions could be taken further.
+The other reviewer, more critically, raises a number of points (for instance, about the selection of the case studies and the particular nature of workflow within them), but the core of their comments is pointing out that there has been significant research on how knowledge is made within fieldwork and while the manuscript provides clear ethnographic examples of such production, it is not clear how the manuscript takes this body of work further conceptually --- which echoes Reviewer 1's comments.
+As I read it, the main central argument is that workflows and formal structures for carrying out tasks such as recording are a managerial attempt to channel people's energy into obtaining a desired, standardised result; and when people actually carry them out, it involves a fair bit of departing from the script, improvisation, etc.
+On one hand, this seems straightforward and highly likely.
+On the other hand, it needs to specify how this is an advance on what has already been written, and what it adds to overall arguments about archaeological fieldwork as praxis.
+For example, how does it further arguments about semantic negotiation by Dallas and Lucas?
+It is hinted in several places that power dynamics enter into it (especially with common baggage of terms such as "managerial", "restricting agency" and so on); how, and what is the nature of the creative agency that is curtailed, and what are the effects in structuring power relations within the field situation?
+Similarly, there are remarks at the end about how this can all be best observed in cases of technological failure which disrupts the workflow.
+If so, why not give the reader some examples of this, rather than routine business as usual examples?
+Likewise, as Reviewer 2 notes, there is some discussion of how digital technologies and digitisation of the workflow changes the nature of archaeological knowledge formation (and power relations?) and this could provide a focus for discussing the significance of the work, but this is currently not followed through systematically.
+
+Thank you for considering the Cambridge Archaeological Journal for the publication of your research.
+I hope this critical feedback is useful in developing your work and the outcome of this specific submission will not discourage you from the submission of future manuscripts.
+
+Sincerely,
+
+Dr. John Robb\
+Editor, Cambridge Archaeological Journal
+
+### Author's Response
+Dear Dr. Robb,
+
+I appreciate your work managing this peer-review process, in spite of the months-long delay.
+Although I disagree with some aspects of the way the manuscript was read and its value represented (it extends upon Dallas' and Lucas' work, and on the work of other scholars of archaeological practice, by effectively "ground-truthing" their theories; I limited my explanations to those which could be justifiably associated with what I was able to actually observe, rather than freely speculate or stretch the observations to satisfy non-relevant theory; reviewer two misrepresented of my goals with regards to generalization of findings, despite me being quite explicit about this; reviewer two misread and misrepresented the number of cases I report on in this study), I accept the reviewers' decisions.
+Since this is my second failed attempt at publishing this paper and the pool of potential reviewers is likely quite limited at this point, I will not pursue it any further.
+
+I will consider submitting future work in the Cambridge Archaeological Journal in the future.
+
+With best regards,\
+Zack
+
+### Reviewer 1
+The description of observations sometimes loses a little touch with the outspoken aims and framing of the study.
+For example, while I like the wonderful description of the use of ordinary tools and how they are mended in field (and I think it for sure deserves to be published) its direct relevance and specific implications to workflows, managerial control and data generation is not entirely apparent in the current text.
+This is clearer with drawing and especially with photographs but even here a little more explicit signposting would not hurt.
+
+> I re-framed the first few paragraphs of the observations as a distinct section, and added a signpost that also orients the rest of the paper in relations to the observations made in that section.
+
+I am also wondering if the author could say something more specific about the mechanisms of the managerial control to bring more detailed understanding of them.
+Now the conclusions remain on the level that it matters providing empirical backing to earlier observations but I suspect there could be more to say --- understanding that this might be also a topic of future inquiry.
+
+Describing in a few additional sentences the theories that have informed the study to help readers not that well-versed in Activity Theory and Distributed Cognition to understand the premises and implications (and limitations) of the approaches.
+The significance of the theories for the analysis and discussion remains also rather unclear in the text.
+
+> I significantly re-worked this section to draw attention to the value that these frameworks bring to bear on my research, and how they complement each other and collectively constribute to the study's overall objective.
+> I also brought more information about the methodological approach up from the supplement, and editied this text for enhanced clarity.
+
+The term elicitation used in relation to (apparently) what study participants' said and/or did could be opened briefly for increased clarity.
+
+The reading of the notion of "infrastructural inversion" seems slightly mistaken.
+The original reference refers to it as a turn taken rather than a phenomenon.
+Somehow it looks like the author might be referring here to infrastructural breakdown instead.
+
+> I verified and corrected this error.
+
+### Reviewer 2
+The article aims to situate the identification, collection and interpretation of archaeological data within the workflow of archaeological practitioners, specifically fieldwork, with a view that creative agency is effectively dissipated or even silenced under top-down management design.
+
+The paper is clearly articulated and presented. The two photographs add little to the text.
+The supporting supplementary data is relevant to the text.
+
+The author draws from constructivist perspectives of social studies of science, specifically to 'demonstrate the social and situated aspects of archaeological data management' (p.16).
+There is certainly an emphasis on the situated component of this, but less so concerning the 'social'.
+
+> I removed this reference to the social aspects of archaeological data management.
+
+The author's focus on workflows as a means ("attempt") to "control" the collection and organization of data is problematic.
+Largely missing here is the vitality (and agency) at work within the power dynamic across knowledge production in archaeology, and the necessary focus in archaeology upon 'context' which in many ways sets it apart from other scientific discourses (this is touched upon on p.4, but is limited thereafter).
+
+> In drawing out a new section at the beginning of the Observations section, this tension becomes more apparent as a focus of this study
+> To be clear, the purpose of this paper is to demonstrate, through empirical observations, that workflows do indeed dictate archaeological practice, and to a greater degree that has been recognized until now.
+> I welcome additional evidence to the contrary, but this was not apparent in my analysis of the cases presented here.
+
+There are now many publications that consider knowledge production in archaeology.
+A number of these consider 'knowledge production' as situated, and look to the power dynamics by which data is recognised and through which 'knowledge' is legitimised.
+This article would ideally link with publications that consider the material/technological apparatuses integral to specific forms of data and knowledge production in archaeology.
+Management systems feature in a number of these.
+Some of this literature is reflected in the discussion and the bibliography; some important texts are not.
+
+For example, Michael Shanks (2007, and elsewhere) has discussed different views of design in archaeology, from expert-based to 'agile' design systems, and explores different ways by which these may be engaged in knowledge production workflows.
+Olsen et al. (2016, Chapter 4) also discuss 'Fieldwork as Collective Action', and 'Archaeological Management and Cultural Production', and offer themes on lines of alternative management models, which may be compared with experimental reflexive methodologies, a feature of discussion in particular during the 1990s and earlier 2000s (e.g. Ian Hodder, or John Barrett).
+
+In several of these published texts there is an understanding that data feeds back into (i.e. impacts) the archaeological workflow.
+Data is dynamic, and might be considered wth relation to 'creative agency'.
+Whereas the author here refers to archaeological data as 'documentary records' (page 3), Olsen et al, and others, consider data as 'memory devices' (pace Bowker) that captures the dynamic essence that these embody.
+
+The author recognises that there are 'different traditions of practice' within archaeology, with their 'own histories, memberships, sets of tools, methods, and social or political circumstances.'
+The author's study is therefore intended to be targeted within a specific 'experience' of archaeological fieldwork – an anonymous North American research project – that by which tools and practices common to archaeological work may be made more visible.
+This cross between a generalised view of archaeological practice in the introductory sections and a localised but apparently representative series of case studies is not really successful, and this may be owed in part to the nature of the case studies.
+As the author notes (page 6), commercial archaeology 'accounts for the vast majority of archaeological work conducted throughout North America and Europe' (and arguably also in Japan).
+Whilst the author acknowledges their lack of experience/knowledge of this sector, and also notes that these feature within other, similar studies, some comparative exploration with this sector (or others) would have greatly enhanced the value of the study by covering different scales of operation, a variety of priorities, stakes and data management streams.
+The case study actually comes across as somewhat restrictive, and seemingly drawn from a super-processual 'workflow' that might not actually be the experience of many practitioners outside of this particular project.
+What room is there for experimentation? (apparently not much, according to the author, but this is certainly not the experience of this reviewer).
+How does data feed back into the workflow? How might 'professional norms and expectations' (p.8) differ across sectors? Is research design integral to each of these , and how does this relate to creative agency?
+
+There is an emphasis within the case studies and in much of the preliminary sections, upon digital media/data.
+Perhaps a more in-depth consideration of the differences that mark design and management of digital data workflows compared with analogue media still employed within the fieldwork case studies would have strengthened the analysis.
+How do these operate together, and what discursive possibilities or limitations are an outcome of their intermeshed usage?
+Is this a juxtaposition, and are there spaces for greater or enhanced 'creative agency' within this nexus?
+
+Some forward looking may also have been a welcome addition; for example, with a view to alternative management structures, the impact of AI collaborations, the legacy and future of traditional media in data work (e.g. remediation).
+
+References:\
+Olsen, Bjørnar, Michael Shanks, Timothy Webmoor, and Christopher Witmore. 2012. Archaeology: The Discipline of Things. University of California Press.
+
+Shanks, Michael. 2007. "Digital Media, Agile Design, and the Politics of Archaeological Authorship." In Archaeology and the Media, edited by Timothy Clack and Marcus Brittain, 273–89. Routledge.

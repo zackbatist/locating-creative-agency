@@ -1,0 +1,131 @@
+# Methods and Materials
+This study documents the social and collaborative experiences involved in archaeological fieldwork practices, specifically focusing on the technologies and media that enable meaning to be translated across contexts.
+Here I describe the methodological approach, the sources of data and the methods I applied to analyze them.
+
+## Approach
+This work is motivated by my desire to articulate the frameworks, mindsets and sets of values that archaeologists adopt to carry out their research.
+I draw from Knorr Cetina's [-@knorrcetina1999] and Suchman's [-@suchman2007] work on situated practice to help me consider how actors obtain their objectives through effective action, how they select and use tools, and how environments condition, frame or influence their implementation of activities.
+I also focus on activity systems to consider how particular tasks fit into broader, segmented continua of practice, and how labour is distributed and synthesized among various individuals [cf. @leontev1974; @engestrom2000; @hutchins1995].
+Moreover, I emphasize the social worlds [cf. @strauss1978; @clarke2008; @huysman2006] in which distributed actions occur to help me understand how professional norms and expectations are established, how intuitions develop concerning what kinds of outputs might derive from particular kinds of activities, how professional styles, genres or props mediate identity within a research community, and the formation of value regimes based around situated work experiences.
+In other words, my approach renders knowledge production as a dynamic, constructive and situated process that involves the use of already established knowledge in the validation of newly formed ideas.
+By highlighting how pragmatic actions are conducted in relation to broader discursive frameworks, I consider scholarly practices in terms of potential, certainty and desire from the perspectives of practitioners themselves.
+This is made possible by considering data as discursive media that connects distributed actions experienced by people operating in disparate work environments, as I discussed in the prior section.
+
+To accomplish this, I draw from activity theory, distributed cognition and situated cognition frameworks to disentangle the social and practical experiences of archaeologists at work.
+Acvtivity theory frames activities as the relations between human subjects and the physical or conceptual tools or environments with or within which they act, and the motives or objectives that drive the system forward in a particular direction [@leontev1974].
+It was useful as a means of breaking down the activities I observed into systemic components, by articulating activities' overall objectives, distributions of labour, physical and conceptual tools, and specific tasks required to fulfill the objective.
+Activity theory frames human actions as series of practical tasks, motivated by specific outcomes.
+However, the outcomes that drive activities forward may be established by actors other than the practitioners themselves, and it is therefore necessary to situate specific activities as parts of broader systems.
+For this, I relied on the distributed cognition framework, which explores how a system's components converge through networks of relationships, dependencies or functional subsystems that enable collective work to succeed in unison [@hutchins1995].
+Distributed cognition enables me to identify how activities slot into broader systems of information control; that is, how archaeologists are rendered as components within a broader apparatus that structures their work.
+At the same time, I draw from the situated cognition framework, which highlights subjects' situated outlooks and examines how their prior experiences and participation in a community of practice informs their behaviour [@suchman2007].
+This enables me to determine how archaeologists identify their roles in the system of knowledge production and the sense of value they ascribe to their constributions to the overall knowledge base produced through collective efforts.
+
+Altogether, these frameworks enable me to examine how archaeologists participate as members of sociotechnical systems that direct collective action in ways that conform to the epistemic mandates of the scientific enterprise.
+
+## Cases
+I observed and interviewed archaeologists at work at two projects in southern Europe.
+Each case provided me with opportunities to explore distinct and overlapping aspects of archaeological practice.
+In case-study research, cases represent discrete instances of a phenomenon that inform the researcher about it, and their selection is based on their relevance to a central topic and their ability to contribute novel insights about it [@ragin1992].
+Cases usually share common reference to the overall research themes, but exhibit variations that enable a researcher to capture different outlooks or perspectives on the matter of communal interest.
+Drawing from multiple cases thus enables comprehensive coverage of a broad topic that no single case may cover on its own.
+
+However, I must emphasize that the cases are not the subjects of inquiry.
+Instead, they represent unique sets of circumstances that frame or contextualize sets of activities, which are actually my primary focus.
+This follows the approach advocated for by @maryl2020 [: 30], who suggest "zooming in to a granular study of particular research activities and operations and zooming out to considering broader socio-technical and cultural factors".
+This involves "magnifying or blowing up the details of practice, switching theoretical lenses, and selective re-positioning so that certain aspects are fore-grounded and others are temporarily sent to the background" [@nicolini2009: 1412].
+I was therefore able to tactfully switch between those lenses to understand the interplay between circumstances and practical implementations.
+
+Moreover, I recognize that decisions, actions and attitudes may vary according to different traditions of practice, and that archaeological projects have their own histories, memberships, sets of tools, methods, and social or political circumstances, which ascribe particular local flavours to the activities I trace.
+My goal is not to survey the whole archaeological discipline, but rather to make certain underappreciated social and collaborative commitments that underlie common tools and practices more visible, and to draw greater attention to certain sensibilities, attitudes and apprehensions that are relevant to contemporary discourse on the nature of archaeological data and ongoing development of information infrastructures.
+I am therefore not as concerned with generalizing my findings across the whole field as much as I am with articulating some significant factors that contribute to decisions and behaviours that archaeologists commonly make and enact.
+I was able to capture a variety of embodied experiences and outlooks corresponding with many roles and positions at both cases, which allowed me to ascertain how data management infrastructures are valued and used in a variety of contexts and by people working throughout the continuum of archaeological practice.
+As such, my conclusions are informed by the community whose views I sought to articulate, and by my own standpoint as a scholar of the culture and practice of science and of the media and infrastructures that support it.
+
+Both cases are research projects directed by professors affiliated with North American universities.
+Commercial archaeology is absent from this study's scope, despite the fact that this accounts for the vast majority of archaeological work conducted throughout North America and Europe.
+My own lack of experience with and knowledge about commercial archaeology contributed to my decision to exclude it from this study.
+However, see @zorzin2015 and @thorpe2012 for similar work pertaining to commercial archaeology, and @perry2018 and @gupta2023 for work that grapples with similar concerns in community-led and Indigenous-led initiatives.
+These studies identify similar tensions with regards to the control of information flows in those alternative modes of archaeology that were excluded from the scope of this project.
+
+My work at Case A constituted a longer-term and in-depth investigation of archaeological practice, which allowed me to develop an understanding of the intricate social relations that developed over time and enabled me to examine certain methods that are drawn out over the course of several field seasons.
+I actively contributed to Case A for several years, largely performing data management and maintenance work, which afforded me with a privileged outlook on how team members structure information, how they typically use data, and what circumstantial events or motivating factors frame such concerns.
+I documented how participants engage with this project's information system over the course of three years (from 2017 to 2019) which included visiting the project during its summer field seasons to observe archaeological practices and to interview selected participants, as well as holding interviews throughout the "off season" both remotely and in person.
+The project's director also made all of the project's documentation and records available to me for the purpose of this research.
+The data I collected largely pertains to fieldwork recording practices, processing and analysis of finds, records management, interdisciplinary collaboration, decisions regarding writing and publication of findings, and discussions of how data and findings are presented, evaluated and revised among broader research communities.
+
+My familiarity with the project that constitutes Case A and the ease of access that this afforded me in the initial stages of work certainly factored into my selection of this project as a viable case.
+As I refined my focus throughout my three years with Case A, I decided to introduce a second case to obtain overlapping and comparative observations.
+My work at Case B was more intensive, comprising a week of interviewing and observation while archaeologists were engaging in fieldwork.
+The project on which Case B is based has a reputation as an early adopter of digital technologies in fieldwork settings, and this presented me with a fresh alternative to what I observed in Case A, which follows more traditional procedures.
+More specifically, Case B innovates in the use of photogrammetry and advanced spatial recording systems and is firmly committed to publishing its data openly.
+My visit, which spanned ten days during its 2019 summer fieldwork season, largely focused on how participants interact with information systems, their perspectives on the challenges and opportunities that these tools afford, and how their work practices are influenced by digital media and protocols.
+
+My familiarity with background knowledge pertaining to the distinct regional, temporal and topical foci of each project, based on my prior work as an archaeologist, was an important factor in selecting cases.
+This familiarity enabled me to recognize which casual references to commonly held notions or to work done by others in the research community warranted further explanation.
+This helped save time during interviews to focus on what I needed to cover, and contributed to the degree of patience that participants exhibited when explaining their work to me as they worked.
+
+See Supplement A for further background information about the cases and the informants mentioned throughout the text.
+
+## Data Collection
+I collected various kinds of data using various methods, while maintaining a focus on accounting for how archaeologists' activities fit into broader sociotechnical systems of knowledge production.
+
+Observational data comprise records of participants' behaviours as they performed various archaeological activities, and take the form of video, audio and textual records.
+They allow me to document what participants actually do as opposed to what they think or say they do.
+Observational data also enable me to document _how_ practices are performed, in addition to the fact _that_ they are performed.
+For instance, participants sometimes recall order of operations out of sequence, or do not identify all the tools and processes that I recognize as relevant.
+Through observation, I am also able to situate activities in relation to broader systems even when participants are unaware that they were contributing to these systems.
+I can replay observational records out of chronological sequence, which enables me to consider how activities occurring at various times or in various contexts indirectly relate to, compare with or inform each other.
+Some of the primary foci of my observations were the processes that result in archaeological records; people's use of information objects or interfaces, which sometimes differ from expected behaviour established through their design; how subjects implemented unconventional solutions or "hacks" to work around problems; how the context of an activity affects its implementation; and how local or idiosyncratic terms, concepts and gestures become established in a research community.
+I observed 90 hours of work and recorded 154 hours of video^[Hours of recorded footage include redundant coverage of co-occurring phenomena recorded by multiple cameras.] across both cases, not including passive or background observations made while living at or working on these projects.
+
+Embedded interviews comprise conversational inquiries with participants in the context of their work.
+These data are meant to account for participants' perspectives regarding how and why they act as they do, given the immediate constraints of the situation at hand.
+Unlike observational records, embedded interviews provide insight into the practicalities of work in the moment, from the perspective of practitioners themselves [@flick1997; @flick2000; @witzel2000].
+However, they are also useful for comparing participants' responses with observational records to interrogate how and why participants' observed actions may differ from the rationales elucidated from embedded interviews.
+Some of the primary foci of my embedded interviews are to account for how participants identify problems or challenges in their work, and to determine ways to resolve them; how certain people gain recognition as domain experts or authorities with specialized knowledge; how specialists relate their contributions to the contributions of others; and how specialists relate their situated perspectives to centralized knowledge repositories.
+Embedded interviews were sometimes captured on video, but also comprised casual conversations which I then wrote down in extreme detail.
+
+Retrospective interviews comprise longer interviews outside of work settings with select participants to contextualize data collected by other means and to determine participants' views on more general or relatively unobservable aspects of archaeological research (such as planning, publishing, collaboration, etc).
+Retrospective interviews also helped me gain insight into how participants situate themselves as members of and in relation to research communities, which may be characterized by different regimes of value and by different methodological protocols or argumentation strategies.
+Some of the primary foci of my retrospective interviews are to highlight participants' perspectives on the value of various kinds of research outputs, what they value in their work and the work of others, the major constraints and challenges that they and their communities face, and how they might resolve them.
+I held 19 retrospective interviews spanning half an hour to three hours with 13 participants across both cases.
+Some interviews included more than one participant, and some participants sat for more than one interview.
+
+I examined documents and media (such as forms, photographs, labels, databases, datasets and reports) to gain insight into institutional norms or expectations.
+My analysis emphasized how people interacted with these objects, so that I could assess how they valued them and the conditions under which they deemed them useful or meaningful.
+I also examined documents and media as means for encapsulating and communicating meanings among users across space and over time.
+This helped me to understand the vectors through which participants either tacitly form collective experiences or directly collaborate among themselves [@huvila2011; @huvila2016; @yarrow2008].
+Some of my primary foci are understanding how document design and media capture protocols anticipate certain methods; how various activities refer to recorded information, especially archived information; the reasons why team members ignore certain equipment and forms of documentation despite their availability; how record-keeping is controlled through explicit or implicit imposition of limitations or constraints; why certain records play more a more central role than others; and how different archaeologists record the same objects in different ways.
+
+My field notes comprise reflexive journal entries that I wrote between observational sessions or interviews.
+They also include moments from observational sessions or interviews that I deemed particularly important.
+Some entries also include descriptive accounts of unrecorded activities or conversations that I have since deemed useful data in their own right.
+
+## Data Analysis
+I draw from what @charmaz2014 [: 14-15] calls the "constellation of methods" associated with grounded theory that are helpful for making sense of qualitative data, namely coding and memoing, to articulate theories based on empirical evidence.
+These enabled me to interrogate the roles and affordances of various tools and documentation procedures and to highlight how they enable cooperative behaviour.
+
+Coding involves defining what data are about in terms (or codes) that are relevant to the theoretical frameworks that inform my research, and identifying instances of these concepts (codings) as they appear throughout the text [@charmaz2014: 43].
+Codes can exist at various levels of abstraction.
+For instance, I applied descriptive codes to characterize literal facets of an entity of interest within a text, such as specific tools, objectives, challenges or activities elicited by interviewees or present in observed behaviours.
+I also applied theoretical codes to represent more interpretive concepts corresponding with aspects of particular theoretical frameworks, such as delineations of different kinds of agency or roles within a sociotechnical system.
+I usually created codes on the fly as "open codes" when prompted by encounters with demonstrative instances in the text.
+This involved synthesizing concepts that speak to my understanding of the phenomena of interest, while remaining receptive to limits imposed by what is actually contained in the text.
+I then re-arranged and queried codes to formulate themes and theories following a grounded theory approach.
+In practical terms, I applied a precise language to segments of video, audio and text to bridge the gap between the archaeological practices I observed and the theoretical frameworks I applied to explore them as epistemic activities and interfaces (see @charmaz2014 and @saldana2011 [: 95-98]).
+
+Memoing entails more open-ended exploration and reflection upon latent ideas in order to crystallize them into new avenues to pursue [@charmaz2014: 72].
+Constructing memos is a relatively flexible way of engaging with data and serves as fertile ground for honing new ideas.
+Memoing is especially crucial while articulating sensitizing concepts, or the "points of departure from which to study the data" that inform the development of my code structure [@charmaz2003: 259].
+Memoing allowed me to take initial notions that lack specification of well-defined attributes, and gradually refine them into more cohesive, definitive concepts [@blumer1954: 7; @bowen2006].
+Memoing encouraged me to explore the main features, relationships or arrangements that underlie a superficial view of a sensitizing concept, and helped me to identify what kinds of things I needed to locate in the data in order to gain a full understanding of the phenomena of interest.
+Memoing is also very important in the process of drawing out more coherent meaning from coded data [cf. @charmaz2014: 181, 290-293].
+By creating memos pertaining to the intersections of various codes and drawing comparisons across similarly coded instances, I was able to form more robust and generalizable arguments about the phenomena of interest and relate them to alternative perspectives expressed by others.
+
+I refer to specific elicitations throughout the rest of the text using references that resemble sequential endnotes, grouped according to the cases that they pertain to. For example: The quick brown fox jumped over the lazy dog.<sup>A1 B2</sup> All elicitations referenced in this paper are indexed in Supplement B.
+
+I obtained informed consent from all individuals included in this study in compliance with the University of Toronto's Social Sciences, Humanities, and Education Research Ethics Board, Protocol 34526.
+In order to ensure that participants could speak freely about their personal and professional relationships while minimizing risk to their personal and professional reputations, I committed to refrain from publishing any personally identifying information.
+I refer to all participants, affiliated organizations, and mentioned individuals or organizations using pseudonyms.
+I also edited visual media to obscure participants' faces and other information that might reveal their identities, and took care to edit or avoid using direct quotations that were cited in other published work that follows a more permissive protocol regarding the dissemination of participants' identifying information.

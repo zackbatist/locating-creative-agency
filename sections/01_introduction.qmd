@@ -1,0 +1,9 @@
+# Introduction
+A general tension exists between the need to operationalize archaeological data as stable and concrete records about the past, and a prevalent intuitive understanding of their constructed and situated nature [@wylie2017: 55-57; @lucas2019: 274-278; @huggett2022a].
+While data serve as the evidential basis upon which analysis and interpretation are based, they are also the products of targeted scientific intervention and are limited by practical and methodological constraints [@dallas2015].
+Archaeologists have developed workflows as ways of limiting archaeologists' behaviours while collecting and working with data in order to emphasize the data's concreteness.
+While these workflows are meant to systematize data work by de-personalizing the archaeological encounter, close analysis of these protocols actually reinforces the notion that data are the products of human decisions and actions, and that data are constructed in relation to human needs, desires and values [@knorrcetina1999; @knorrcetina2001].
+
+This paper responds to recent calls to interrogate the apparatus of archaeological knowledge production by examining the social and technical mechanisms through which archaeologists control the creation and flow of information [@huggett2022a; @dallas2015].
+Through empirical observation and analysis of archaeological work practices and of the media and organizational structures that scaffold them, I articulate how the managerial imperative to model behaviour according to formal processes effectively relocates creative agency away from those who do the work and toward those who direct labour and design information management protocols.
+This prompts further reflection on the roles of information objects, infrastructures and professional relationships in the valuation, validation and legitimization of archaeological knowledge.
