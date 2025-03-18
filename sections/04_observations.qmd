@@ -75,22 +75,18 @@ After plotting a series of points in this manner, the illustrator connected them
 She then erased any arbitrary control lines and reference points, traced the pencil-drawn lines with ink to enhance visual contrast and clarity, and applied patterned in-filling to the shapes between the plotted lines to represent different kinds of objects.
 The illustrator also demarcated the precise location where a sample specimen was taken by plotting icons at the appropriate grid coordinate, and annotated the image with the elevations of significant points.<sup>[A13](#sec-A13), [A14](#sec-A14)</sup>
 
----
-
 The illustrator then identifies significant spatial points that correspond with meaningful material intersections, for instance the corners of large boulders or points along a stratigraphic interface, and expresses the points' positions in terms that specify the number of centimetres distance between a point and the string and between a point and the position of the intersecting baulk, with reference to the measuring tapes.
 The illustrator then places a dot on the page at a position that represents an equivalent intersection, but at a smaller scale.
-Plotting more points makes it easier to draw a more precise line, but experienced illustrators are relatively adept at matching the observed interfaces on the page.\textsuperscript{\ref{A147} \ref{B37}}
+Plotting more points makes it easier to draw a more precise line, but experienced illustrators are relatively adept at matching the observed interfaces on the page.<sup>[A13](#sec-A13), [B2](#sec-B2)</sup>
 
 After all the significant lines are drawn, the illustrator erases any arbitrary control lines and reference points, and traces the pencil-drawn lines with ink to enhance visual contrast and clarity.
 They then apply patterned in-filling to the shapes between the plotted lines to represent different kinds of objects.
 For instance, the illustrator may represent clay soils with diagonal lines, and fill the outlines of boulders with fine, speckled dots.
-The illustrator may also demarcate the precise location where a sample specimen was taken by plotting an icon at the appropriate grid coordinate, or may annotate the image with the elevations of significant points as determined with reference to fixed spatial points that the spatial data specialist recorded.\textsuperscript{\ref{A147}}
+The illustrator may also demarcate the precise location where a sample specimen was taken by plotting an icon at the appropriate grid coordinate, or may annotate the image with the elevations of significant points as determined with reference to fixed spatial points that the spatial data specialist recorded.<sup>[A13](#sec-A13)</sup>
 
 Although I have not observed artefact illustration for the purposes of this study, it involves a very similar process (see @adkins1989 and @griffiths2007 for more detailed overviews of artefact illustration procedures).
 However there is greater emphasis on applying visual cues through use of common conventions, which convey specific information about the objects they represent [@banning2020: 351-361].
 For instance, the top and bottom points are more explicitly articulated to facilitate comparing drawings of the same artefact from different spatial perspectives (i.e. dorsal, ventral and edge perspectives), and line widths and dotting convey specific meanings regarding the artefact's physical properties, such as to account for weathering processes or whether a broken edge is ancient or a product of modern intervention.
-
----
 
 Illustration in fieldwork settings was sometimes performed independently but it is very common for two people to collaborate on this task.
 In such cases, they communicated using language that reflects the mindset that this process calls for.
@@ -153,15 +149,11 @@ Archaeological fieldworkers can thus be made to capture objects visually accordi
 It is not necessary to waste time training photographers to understand how a camera works and how to set up their equipment in a manner that yields good results, when it is more efficient to delegate these creative acts to experts who design systems and document the operational specifications in excavation manuals that fieldworkers are expected to follow blindly.
 Fieldworkers are rarely taught how a piece of equipment works; instead, they are taught how to operate it.
 
----
-
 That being said, @morgan2018 also drew attention to the ways in which archaeological photography, including acts of image manipulation, can enhance archaeological understanding if performed in ways that are reminiscent of the intimate engagements necessary to generate informative illustrations of entities encountered during fieldwork, such as archaeological illustration, which remains a relatively specialized activity.
 As a document about the archaeological encounter, a photo must be created by someone who knows what they have recovered and why it is significant.
 For this reason, archaeological illustration also remains a constituent of archaeological fieldwork, and has not become simply an extension of the data-management domain.
 However, there have been attempts to do precisely this, particularly through digital annotation of archaeological photographs and certain applications of photogrammetry [@morgan2018].
 But these attempts have met resistance through the same mechanism that makes archaeological illustration unique, namely an effort to situate these practices as activities that primarily deal with archaeological encounters rather than as creating simulacra of archaeological objects.
-
----
 
 The case of photogrammetry, also known as structure-from-motion imaging, warrants further consideration.
 Photogrammetry operates by inferring three-dimensional geometry from a series of two-dimensional images of an object taken from multiple overlapping perspectives.
@@ -213,23 +205,23 @@ Each trench is therefore located near a point with fixed spatial coordinates, an
 These derived locations, whose positions are now known, can then be used to infer an extended network of known points by measuring and calculating the differences between the distances from target points to known points.
 In other words, fieldworkers leverage the web of inferred points to determine and record the positions of their interventions and of the things that they recover.
 
-In the cases I observed, fieldworkers initially recorded the positions of their finds in relational terms, i.e. as distances in relation to the fixed points from which they measure (see @fig-spatial-relational and @fig-spatial-recording).\textsuperscript{\ref{A12} \ref{B8}}
-When finalizing their paperwork, they sometimes took on the task of calculating fixed positions from the relational distances they initially measured and recorded, but this was not really deemed as an essential task within their purview.\textsuperscript{\ref{A15}}
-Instead, this work of converting measured distances into coordinates on the site grid themselves was often delegated to specialists who work with geospatial data.\textsuperscript{\ref{B8}}
+In the cases I observed, fieldworkers initially recorded the positions of their finds in relational terms, i.e. as distances in relation to the fixed points from which they measure (see @fig-spatial-relational and @fig-spatial-recording).<sup>[A12](#sec-A12), [B8](#sec-B8)</sup>
+When finalizing their paperwork, they sometimes took on the task of calculating fixed positions from the relational distances they initially measured and recorded, but this was not really deemed as an essential task within their purview.<sup>[A15](#sec-A15)</sup>
+Instead, this work of converting measured distances into coordinates on the site grid themselves was often delegated to specialists who work with geospatial data.<sup>[B8](#sec-B8)</sup>
 This contributed to a general distinction between the domain of fieldwork, which was responsible for initial data-recording procedures, and the domain of data management, which was responsible for conversioning, formatting and cleaning data for analytical and interpretive purposes.
 
 ![Recording spatial information in relational terms.](figures/spatial-relational.png){#fig-spatial-relational}
 
-![Recording spatial information in the field. \textbf{[A]} depicts a system that measures distance in relation to trench entities. \textbf{[B]} depicts a geospatial specialist and a fieldworker determining an object's position using a digital theodolite.](figures/spatial-recording.png){#fig-spatial-recording}
+![Recording spatial information in the field. **A** depicts a system that measures distance in relation to trench entities. **B** depicts a geospatial specialist and a fieldworker determining an object's position using a digital theodolite.](figures/spatial-recording.png){#fig-spatial-recording}
 
-However this enactment of institutional boundaries did not necessarily reflect fieldworkers' lack of interest in relating their efforts as part of broader geospatial networks.\textsuperscript{\ref{A17} \ref{A18}}
+However this enactment of institutional boundaries did not necessarily reflect fieldworkers' lack of interest in relating their efforts as part of broader geospatial networks<sup>[A17](#sec-A17), [A18](#sec-A18)</sup>
 Rather, it conveyed fieldworkers' extreme sense of focus on the trenches or grids under their direct purview.
 The grids established by geospatial specialists effectively enabled field supervisors to relate their own engagements within their respective trenches and transects to the broader grid, in a way that required less mental overhead on their part.
 
 Moreover, the indirect relationships that fieldworkers had with the formal site grid served as a way of maintaining fieldworkers' unique perspectives on the things they encountered.
 A trench was somewhat detached from the rest of the world in the sense that a supervisor and her assistants developed their own understanding of it and its features.
-They referred to specific boulders by given names, attributed personalities to certain corners, and were able to communicate about specific entities even while using the vaguest of terms (i.e., "that rock," "over there," "behind you").\textsuperscript{\ref{A14} \ref{A16} \ref{A19}}
-Fieldworkers felt _obliged_ to record formal distances between entities and were bemused by the stock that data managers and analysts put into these formal values.\textsuperscript{\ref{A20}}
+They referred to specific boulders by given names, attributed personalities to certain corners, and were able to communicate about specific entities even while using the vaguest of terms (i.e., "that rock," "over there," "behind you").<sup>[A14](#sec-A14), [A16](#sec-A16), [A19](#sec-A19)</sup>
+Fieldworkers felt _obliged_ to record formal distances between entities and were bemused by the stock that data managers and analysts put into these formal values.<sup>[A20](#sec-A20)</sup>
 They dealt with the fuzzy boundaries between strata and the loose distinctions between natural and cultural material on a day-to-day basis, and recognized that relational associations, rather than formal recording techniques, were better suited for capturing these aspects of the archaeological record.
 
 Working with string, measuring tapes and plumbobs allowed fieldworkers to operate in this relational manner and communicate using the local lexicon of their trench.
