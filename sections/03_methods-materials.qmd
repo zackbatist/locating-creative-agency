@@ -113,7 +113,7 @@ I also applied theoretical codes to represent more interpretive concepts corresp
 I usually created codes on the fly as "open codes" when prompted by encounters with demonstrative instances in the text.
 This involved synthesizing concepts that speak to my understanding of the phenomena of interest, while remaining receptive to limits imposed by what is actually contained in the text.
 I then re-arranged and queried codes to formulate themes and theories following a grounded theory approach.
-In practical terms, I applied a precise language to segments of video, audio and text to bridge the gap between the archaeological practices I observed and the theoretical frameworks I applied to explore them as epistemic activities and interfaces (see @charmaz2014 and @saldana2011 [: 95-98]).
+In practical terms, I applied a precise language to segments of video, audio and text to bridge the gap between the archaeological practices I observed and the theoretical frameworks I applied to explore them as epistemic activities and interfaces [see @charmaz2014; @saldana2011: 95-98].
 
 Memoing entails more open-ended exploration and reflection upon latent ideas in order to crystallize them into new avenues to pursue [@charmaz2014: 72].
 Constructing memos is a relatively flexible way of engaging with data and serves as fertile ground for honing new ideas.
