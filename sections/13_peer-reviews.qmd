@@ -60,7 +60,7 @@ I hope this critical feedback is useful in developing your work and the outcome 
 
 Sincerely,
 
-Dr. John Robb\
+[Redacted]\
 Editor, Cambridge Archaeological Journal
 
 ### Reviewer 1
@@ -273,11 +273,11 @@ I hope this critical feedback is useful in developing your work and the outcome 
 
 Sincerely,
 
-Dr. John Robb\
+[Redacted]\
 Editor, Cambridge Archaeological Journal
 
 ### Author's Response
-Dear Dr. Robb,
+Dear [Editor],
 
 I appreciate your work managing this peer-review process, in spite of the months-long delay.
 Although I disagree with some aspects of the way the manuscript was read and its value represented (it extends upon Dallas' and Lucas' work, and on the work of other scholars of archaeological practice, by effectively "ground-truthing" their theories; I limited my explanations to those which could be justifiably associated with what I was able to actually observe, rather than freely speculate or stretch the observations to satisfy non-relevant theory; reviewer two misrepresented of my goals with regards to generalization of findings, despite me being quite explicit about this; reviewer two misread and misrepresented the number of cases I report on in this study), I accept the reviewers' decisions.
@@ -352,10 +352,11 @@ This cross between a generalised view of archaeological practice in the introduc
 As the author notes (page 6), commercial archaeology 'accounts for the vast majority of archaeological work conducted throughout North America and Europe' (and arguably also in Japan).
 Whilst the author acknowledges their lack of experience/knowledge of this sector, and also notes that these feature within other, similar studies, some comparative exploration with this sector (or others) would have greatly enhanced the value of the study by covering different scales of operation, a variety of priorities, stakes and data management streams.
 
-> The projects that constitute the cases (there were two, not only one --- which implies that the reviewer misread the work) actually comprised archaeologists with varying degrees of experiences and with different experiential backgrounds.
-> Neither were field schools, but both did rely on undergraduate and graduate students' participation, and as such involved some degree of training.
+> The projects that constitute the cases (there were two, not only one --- which implies that the reviewer misread the work) actually comprised archaeologists exhibiting varying levels of experiences and coming from diverse professional backgrounds.
+> For instance, neither project was a field school, but both did rely on undergraduate and graduate students' labour; as such they both involved some degree of training.
 > Moreover, some of the participants did have extensive experience in commercial archaeology, and were working on these projects on the side.
-> This being said, the projects were driven by their academic character, and I was limited to what I was able to observe.
+> This being said, the focus of the study was on the projects and the structures that scaffold the work, rather than the individual archaeologists themselves.
+> Since the cases constituted academic projects, that was the extent of what I was able to report on.
 > However, I did refer to other studies that do examine similar phenomena in alternative research contexts, and I revised the section presenting those prior works to more explicitly relate them to this paper.
 
 The case study actually comes across as somewhat restrictive, and seemingly drawn from a super-processual 'workflow' that might not actually be the experience of many practitioners outside of this particular project.
@@ -371,7 +372,7 @@ How do these operate together, and what discursive possibilities or limitations 
 Is this a juxtaposition, and are there spaces for greater or enhanced 'creative agency' within this nexus?
 
 > This juxtaposition is contrived by the reviewer.
-> I never articulated it because it was not my intent to draw it forward.
+> I never articulated a distinction between digital and analog processes because it was not my intent to draw such a distinction in the first place.
 > It is a false and superficial dichotomy, and misses the overall target of observation: the systems of control that individual actions are made to fit in to, which involve both digital and non-digital technological mechanisms, as well as organizational structures.
 
 Some forward looking may also have been a welcome addition; for example, with a view to alternative management structures, the impact of AI collaborations, the legacy and future of traditional media in data work (e.g. remediation).
