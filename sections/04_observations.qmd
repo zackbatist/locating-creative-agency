@@ -4,20 +4,20 @@ I observed various instances of archaeologists conducting fieldwork and framed t
 I focused my attention on how the community of practice was supported and upheld by combined organizational and technical infrastructures, which effectively governed how knowledge was produced, evaluated and legitimized.
 
 ## Fieldwork as Practical, Independent and Improvised Experience
-In the cases I observed, fieldwork was considered the primary domain under which archaeological evidence is constituted, and was generally considered as a root from which subsequent work depends and originates.<sup>[A1](#sec-A1), [A2](#sec-A2), [A3](#sec-A3)</sup>
+In the cases I observed, fieldwork was considered the primary domain under which archaeological evidence is constituted, and was generally considered as a root from which subsequent work depends and originates.^[A1](#sec-A1),[A2](#sec-A2),[A3](#sec-A3)^
 Moreover, the field sites were settings where a methodologically diverse group of people came together with some sense of common purpose, where experimental methods were attempted, and where unprintable stories and gossip originated and were retold.
 The richly textured social experiences and the cooperative spirit that emerged from performing collective labour in relatively rough environments, and which  called for a practical, hands-on work ethic, directly informed the constitution of archaeological knowledge at and beyond the site.
 
 The sites where my observations were based were located in outdoor and remote settings,^[While urban fieldwork is common, it was not practiced in any of the cases I examined.] and archaeologists had to modify these rough physical environments so that they could more easily support scientific intervention.
-For instance, archaeologists cleared weeds and broke boulders that inhibited excavation.<sup>[A3](#sec-A3), [A4](#sec-A4), [A5](#sec-A5), [A6](#sec-A6)</sup>
+For instance, archaeologists cleared weeds and broke boulders that inhibited excavation.^[A3](#sec-A3),[A4](#sec-A4),[A5](#sec-A5),[A6](#sec-A6)^
 
-Although fieldwork could be slow and meticulous compared to the range of possible ways forward (i.e. removing sediment by hand with a trowel or mattock, rather than using heavy equipment), there was also a strong impetus to work quickly.<sup>[A7](#sec-A7)</sup>
+Although fieldwork could be slow and meticulous compared to the range of possible ways forward (i.e. removing sediment by hand with a trowel or mattock, rather than using heavy equipment), there was also a strong impetus to work quickly.^[A7](#sec-A7)^
 Experienced excavators were able to recognize when it was necessary to change gears, and were able to balance care with speed.
-Fieldworkers typically focused on getting the job done cheaply by working with the tools and resources that are on hand and within budget.<sup>[A4](#sec-A4), [A5](#sec-A8), [A6](#sec-A9), [B1](#sec-B1)</sup>
-In this vein, the practices I observed tended to rely on flexible tools that participants could wield in various ways or could modify for use in various circumstances.<sup>[B1](#sec-B1)</sup>
-These tools typically derived from non-archaeological occupations, such as the construction or forestry industries, and were easy and inexpensive to purchase (and replace) from hardware stores.<sup>[A10](#sec-A10)</sup>
-For instance, at Case A, where the soil is quite rocky and dry, fieldworkers preferred to use a hand tool designed for stripping wallpaper instead of the more typical mason's trowel.<sup>[A11](#sec-A11)</sup>
-They generally preferred to use tools that were relatively easy to repair or modify for optimal use; trowels could be sharpened, the worn-out grip on a sledgehammer could be replaced with scrap rubber, and buckets could be patched with duct tape [@batist2021: 1742].<sup>[A12](#sec-A12)</sup>
+Fieldworkers typically focused on getting the job done cheaply by working with the tools and resources that are on hand and within budget.^[A4](#sec-A4),[A5](#sec-A8),[A6](#sec-A9),[B1](#sec-B1)^
+In this vein, the practices I observed tended to rely on flexible tools that participants could wield in various ways or could modify for use in various circumstances.^[B1](#sec-B1)^
+These tools typically derived from non-archaeological occupations, such as the construction or forestry industries, and were easy and inexpensive to purchase (and replace) from hardware stores.^[A10](#sec-A10)^
+For instance, at Case A, where the soil is quite rocky and dry, fieldworkers preferred to use a hand tool designed for stripping wallpaper instead of the more typical mason's trowel.^[A11](#sec-A11)^
+They generally preferred to use tools that were relatively easy to repair or modify for optimal use; trowels could be sharpened, the worn-out grip on a sledgehammer could be replaced with scrap rubber, and buckets could be patched with duct tape [@batist2021: 1742].^[A12](#sec-A12)^
 Simple tools and materials were often recombined on the fly to serve practical and often one-off functions [cf. @delaet2000].
 
 A great example of the practical, independent and improvised nature of fieldwork is how Theo, a very experienced trench supervisor who would also eventually become Case A's field director, found a way to extend a rod so that he could take accurate measurements.
@@ -34,7 +34,7 @@ He attached the long nail to the rebar, adding 4-5 inches to its length. He then
 I needed to find the right kind of rock, which was not too big, but still dense.
 It needed to be not too rough, but with sharp angular corners.
 This was never made explicit; after two failed attempts, first with a large rugged rock, and then with a smaller, less rugged rock, he picked up one and gave it to me, saying  "something like this".
-I wound the string around it, leaving some slack, and then positioned the rock in a way that would render the line taut, by rotating it or securing it around others.<sup>[A12](#sec-A12)</sup>
+I wound the string around it, leaving some slack, and then positioned the rock in a way that would render the line taut, by rotating it or securing it around others.^[A12](#sec-A12)^
 
 A transcript of the author's field notes recalling how Theo, a very experienced trench supervisor at Case A, improvised a solution to a practical problem using tools and resources on hand and through an indirect style of communication.
 :::
@@ -67,22 +67,22 @@ Specifically, archaeologists established physical reference points using taut, l
 Tape measures were aligned along the string and the vertical span of the trench.
 A nail placed in the corner of the trench was also established as a known spatial point, whose precise location was determined by spatial data specialists using theodolites, GPS, total stations or other means at their disposal.
 The height of the string and the positions of the trench corners were determined in relation to this fixed point.
-A similar grid was established on a page of graph paper, and congruent reference lines were drawn in relation to a fixed point marked on the page.<sup>[A13](#sec-A13), [A14](#sec-A14), [A15](#sec-A15), [A16](#sec-A16)</sup>
+A similar grid was established on a page of graph paper, and congruent reference lines were drawn in relation to a fixed point marked on the page.^[A13](#sec-A13),[A14](#sec-A14),[A15](#sec-A15),[A16](#sec-A16)^
 
 After establishing a congruent grid on the page, the illustrator identified significant spatial points along the baulk and determined their parallel positions on the page in relation to the reference lines.
 For example, the illustrator identified the position of a boulder's corner by counting the number of centimetres below the reference string and the number of centimetres from the edge of the trench, and marked a dot on the page at congruent distances from the reference points that demarcate the edges of the grid.
-After plotting a series of points in this manner, the illustrator connected them with curves or line segments, attempting to match their perception of the boundaries between materials.<sup>[A13](#sec-A13), [A14](#sec-A14), [A15](#sec-A15), [B2](#sec-B2)</sup>
+After plotting a series of points in this manner, the illustrator connected them with curves or line segments, attempting to match their perception of the boundaries between materials.^[A13](#sec-A13),[A14](#sec-A14),[A15](#sec-A15),[B2](#sec-B2)^
 She then erased any arbitrary control lines and reference points, traced the pencil-drawn lines with ink to enhance visual contrast and clarity, and applied patterned in-filling to the shapes between the plotted lines to represent different kinds of objects.
-The illustrator also demarcated the precise location where a sample specimen was taken by plotting icons at the appropriate grid coordinate, and annotated the image with the elevations of significant points.<sup>[A13](#sec-A13), [A14](#sec-A14)</sup>
+The illustrator also demarcated the precise location where a sample specimen was taken by plotting icons at the appropriate grid coordinate, and annotated the image with the elevations of significant points.^[A13](#sec-A13),[A14](#sec-A14)^
 
 The illustrator then identifies significant spatial points that correspond with meaningful material intersections, for instance the corners of large boulders or points along a stratigraphic interface, and expresses the points' positions in terms that specify the number of centimetres distance between a point and the string and between a point and the position of the intersecting baulk, with reference to the measuring tapes.
 The illustrator then places a dot on the page at a position that represents an equivalent intersection, but at a smaller scale.
-Plotting more points makes it easier to draw a more precise line, but experienced illustrators are relatively adept at matching the observed interfaces on the page.<sup>[A13](#sec-A13), [B2](#sec-B2)</sup>
+Plotting more points makes it easier to draw a more precise line, but experienced illustrators are relatively adept at matching the observed interfaces on the page.^[A13](#sec-A13),[B2](#sec-B2)^
 
 After all the significant lines are drawn, the illustrator erases any arbitrary control lines and reference points, and traces the pencil-drawn lines with ink to enhance visual contrast and clarity.
 They then apply patterned in-filling to the shapes between the plotted lines to represent different kinds of objects.
 For instance, the illustrator may represent clay soils with diagonal lines, and fill the outlines of boulders with fine, speckled dots.
-The illustrator may also demarcate the precise location where a sample specimen was taken by plotting an icon at the appropriate grid coordinate, or may annotate the image with the elevations of significant points as determined with reference to fixed spatial points that the spatial data specialist recorded.<sup>[A13](#sec-A13)</sup>
+The illustrator may also demarcate the precise location where a sample specimen was taken by plotting an icon at the appropriate grid coordinate, or may annotate the image with the elevations of significant points as determined with reference to fixed spatial points that the spatial data specialist recorded.^[A13](#sec-A13)^
 
 Although I have not observed artefact illustration for the purposes of this study, it involves a very similar process (see @adkins1989 and @griffiths2007 for more detailed overviews of artefact illustration procedures).
 However there is greater emphasis on applying visual cues through use of common conventions, which convey specific information about the objects they represent [@banning2020: 351-361].
@@ -90,14 +90,14 @@ For instance, the top and bottom points are more explicitly articulated to facil
 
 Illustration in fieldwork settings was sometimes performed independently but it is very common for two people to collaborate on this task.
 In such cases, they communicated using language that reflects the mindset that this process calls for.
-For example, I observed Jane --- a promising student and trench assistant --- standing at the edge of the trench saying something like "at x on the horizon, it's y down", and Theo who was holding the drawing pad would reply either with an acknowledgement that he understood the coordinate and had finished plotting the point, or by asking her to repeat it in case he did not hear her properly.<sup>[A14](#sec-A14), [A15](#sec-15), [A16](#sec-A16)</sup>
+For example, I observed Jane --- a promising student and trench assistant --- standing at the edge of the trench saying something like "at x on the horizon, it's y down", and Theo who was holding the drawing pad would reply either with an acknowledgement that he understood the coordinate and had finished plotting the point, or by asking her to repeat it in case he did not hear her properly.^[A14](#sec-A14),[A15](#sec-15),[A16](#sec-A16)^
 They established a comfortable rhythm, and adjusted the volume and tone of their voices to account for any initial miscommunication or difficulty hearing the sound of the others' voice over loud gusts of wind.
-The terms they used were ones they adopted on the fly, and they needed only a basic understanding of the principles behind the technique to formulate a script that included the identification of vertical and horizontal variables, their mutable values, a connective term to draw an association between them, and an exclamation to indicate that a coordinate had been successfully recorded and that they should continue on to the next point.<sup>[A14](#sec-A14)</sup>
+The terms they used were ones they adopted on the fly, and they needed only a basic understanding of the principles behind the technique to formulate a script that included the identification of vertical and horizontal variables, their mutable values, a connective term to draw an association between them, and an exclamation to indicate that a coordinate had been successfully recorded and that they should continue on to the next point.^[A14](#sec-A14)^
 This is the framework for language that allows mutual comprehension and translation of physical spatial configurations onto the page.
 Their speech was flexible and adaptable to local conditions and circumstances, while also being driven by a need to produce a stable information output.
 Attempts are made to strip the information object of the processes through which it was produced and to make it seem more definitive, but it is clearly a hand-drawn document.
 
-It is also notable that archaeological illustrators found it necessary to work with material with which they were familiar, or alongside people who already had such familiarity.<sup>[A14](#sec-A14), [A16](#sec-A16)</sup>
+It is also notable that archaeological illustrators found it necessary to work with material with which they were familiar, or alongside people who already had such familiarity.^[A14](#sec-A14),[A16](#sec-A16)^
 For instance, a trench supervisor had to be present to help identify where a stratigraphic interface should be delineated, or to identify which boulders or other materials jutting out from the baulk were worth recording.
 This supports the notion that section drawings serve as schematic documents that convey archaeological encounters, rather than as a literal representations of objects of interest.
 
@@ -114,7 +114,7 @@ In the excerpt presented in @fig-photolog-convo from an interview with Chris (on
 **Zack:** Yeah, it's just basically a photo log.\
 **Chris:** Yeah, just a photo log, just making little notes, and then I transfer it to a, like a spreadsheet.\
 **Zack:** You keep track of the photo number? Like the file name?\
-**Chris:** Yeah, so everything, so what I do is I copy like a reference to the image file name in that spreadsheet, and every photo, and each photo is labelled like [redacted identifier] _P1, _P2, like for each, each, each umm stratigraphic unit.<sup>[B3](#sec-B3)</sup>
+**Chris:** Yeah, so everything, so what I do is I copy like a reference to the image file name in that spreadsheet, and every photo, and each photo is labelled like [redacted identifier] _P1, _P2, like for each, each, each umm stratigraphic unit.^[B3](#sec-B3)^
 
 Conversation with the person in charge of photography on site at Case B, who explains the process of recording a photo log.
 :::
@@ -168,23 +168,23 @@ Once he completed the circuit around the object, he took a step back and repeate
 Afterward, he went right up to the object and took a few more detailed photos up close and from perspectives whose angles intersect at more acute angles.
 As he moved, Rufus was wary to not cast shadows on the object of interest.
 Once he captures all the photos, Chris came in with the DGPS rover and recorded the locations of the spatial targets.
-These were subsequently used to calibrate the spatial measurements and rectify the model against local and global geographic coordinate systems.<sup>[B4](#sec-B4)</sup>
+These were subsequently used to calibrate the spatial measurements and rectify the model against local and global geographic coordinate systems.^[B4](#sec-B4)^
 
 After returning to the dig house, Rufus transferred the photos to his computer and sorted through them.
 He imported them into Agisoft PhotoScan, a software suite that facilitates "stitching together" a 3D model from multiple constituent photographs.
 He visually examined each image and discarded those that he believed would disrupt the model based on his prior experience, which enabled him to anticipate which input images would produce poor-quality 3D renders.
 The software then identified points that various photos have in common and inferred three-dimensional geometry based on the shifting perspectives among them.
 Rufus then inspected the 3D model to determine whether there were any smudged or imprecise areas and re-calibrated the software parameters to account for any imperfections.
-He drew from his years of practical experience, as well as deliberate and controlled tests that applied different parameters on relatively simple toy datasets, to guide his decisions in calibrating the software.<sup>[B4](#sec-B4)</sup>
+He drew from his years of practical experience, as well as deliberate and controlled tests that applied different parameters on relatively simple toy datasets, to guide his decisions in calibrating the software.^[B4](#sec-B4)^
 
 In other words, photogrammetry involved a very precise and intentional set of actions that Rufus coordinated in a manner which foresaw potential issues in subsequent stages of work.
 He performed his work with particular outcomes in mind, specifically the ability to obtain a precise and georeferenced model against which object distributions can be mapped.
-For Rufus, his knowledge of how the mechanism works and his ability to assemble his own creation from basic components and principles are what sets his work apart as a specialist in this matter.<sup>[B5](#sec-B5)</sup>
+For Rufus, his knowledge of how the mechanism works and his ability to assemble his own creation from basic components and principles are what sets his work apart as a specialist in this matter.^[B5](#sec-B5)^
 There exist more general-purpose tools (i.e. smartphone apps like 123D Catch) that enable creation of similar-looking outputs by following a simplified set of instructions in the app (presumably written by the app's developers), but Rufus did not consider the people who use those tools to be photogrammetry experts due to their lack of creative agency in the overall process.
 
 Interestingly, in an unrecorded conversation Rufus expressed his belief that photogrammetry is a fieldwork practice, rather than something that "digital archaeologists" with little fieldwork experience should perform.
 It is a drawn-out activity that necessitates direct engagement and familiarity with the object of interest.
-In thinking about how each stage of the photogrammetry workflow will affect the next and eventually culminate in a compiled image, Rufus and Liz (a very experienced trench supervisor at Case B) recognized the impacts that their decisions made at various stages in the process had on the final product, for example, when clearing debris or when discarding blurry photographs.<sup>[B6](#sec-B6), [B7](#sec-B7)</sup>
+In thinking about how each stage of the photogrammetry workflow will affect the next and eventually culminate in a compiled image, Rufus and Liz (a very experienced trench supervisor at Case B) recognized the impacts that their decisions made at various stages in the process had on the final product, for example, when clearing debris or when discarding blurry photographs.^[B6](#sec-B6),[B7](#sec-B7)^
 Rufus values awareness of the context of creation and holding an involved connection with the process through which the dataset is developed.
 
 In all of this, a clear tension is evident with regards to the treatment of visual media either as products that stand in as relatively stable representations of objects of interest, or as manifestations of cumulative archaeological engagements.
@@ -205,23 +205,23 @@ Each trench is therefore located near a point with fixed spatial coordinates, an
 These derived locations, whose positions are now known, can then be used to infer an extended network of known points by measuring and calculating the differences between the distances from target points to known points.
 In other words, fieldworkers leverage the web of inferred points to determine and record the positions of their interventions and of the things that they recover.
 
-In the cases I observed, fieldworkers initially recorded the positions of their finds in relational terms, i.e. as distances in relation to the fixed points from which they measure (see @fig-spatial-relational and @fig-spatial-recording).<sup>[A12](#sec-A12), [B8](#sec-B8)</sup>
-When finalizing their paperwork, they sometimes took on the task of calculating fixed positions from the relational distances they initially measured and recorded, but this was not really deemed as an essential task within their purview.<sup>[A15](#sec-A15)</sup>
-Instead, this work of converting measured distances into coordinates on the site grid themselves was often delegated to specialists who work with geospatial data.<sup>[B8](#sec-B8)</sup>
+In the cases I observed, fieldworkers initially recorded the positions of their finds in relational terms, i.e. as distances in relation to the fixed points from which they measure (see @fig-spatial-relational and @fig-spatial-recording).^[A12](#sec-A12),[B8](#sec-B8)^
+When finalizing their paperwork, they sometimes took on the task of calculating fixed positions from the relational distances they initially measured and recorded, but this was not really deemed as an essential task within their purview.^[A15](#sec-A15)^
+Instead, this work of converting measured distances into coordinates on the site grid themselves was often delegated to specialists who work with geospatial data.^[B8](#sec-B8)^
 This contributed to a general distinction between the domain of fieldwork, which was responsible for initial data-recording procedures, and the domain of data management, which was responsible for conversioning, formatting and cleaning data for analytical and interpretive purposes.
 
 ![Recording spatial information in relational terms.](figures/spatial-relational.png){#fig-spatial-relational}
 
 ![Recording spatial information in the field. **A** depicts a system that measures distance in relation to trench entities. **B** depicts a geospatial specialist and a fieldworker determining an object's position using a digital theodolite.](figures/spatial-recording.png){#fig-spatial-recording}
 
-However this enactment of institutional boundaries did not necessarily reflect fieldworkers' lack of interest in relating their efforts as part of broader geospatial networks<sup>[A17](#sec-A17), [A18](#sec-A18)</sup>
+However this enactment of institutional boundaries did not necessarily reflect fieldworkers' lack of interest in relating their efforts as part of broader geospatial networks.^[A17](#sec-A17),[A18](#sec-A18)^
 Rather, it conveyed fieldworkers' extreme sense of focus on the trenches or grids under their direct purview.
 The grids established by geospatial specialists effectively enabled field supervisors to relate their own engagements within their respective trenches and transects to the broader grid, in a way that required less mental overhead on their part.
 
 Moreover, the indirect relationships that fieldworkers had with the formal site grid served as a way of maintaining fieldworkers' unique perspectives on the things they encountered.
 A trench was somewhat detached from the rest of the world in the sense that a supervisor and her assistants developed their own understanding of it and its features.
-They referred to specific boulders by given names, attributed personalities to certain corners, and were able to communicate about specific entities even while using the vaguest of terms (i.e., "that rock," "over there," "behind you").<sup>[A14](#sec-A14), [A16](#sec-A16), [A19](#sec-A19)</sup>
-Fieldworkers felt _obliged_ to record formal distances between entities and were bemused by the stock that data managers and analysts put into these formal values.<sup>[A20](#sec-A20)</sup>
+They referred to specific boulders by given names, attributed personalities to certain corners, and were able to communicate about specific entities even while using the vaguest of terms (i.e., "that rock," "over there," "behind you").^[A14](#sec-A14),[A16](#sec-A16),[A19](#sec-A19)^
+Fieldworkers felt _obliged_ to record formal distances between entities and were bemused by the stock that data managers and analysts put into these formal values.^[A20](#sec-A20)^
 They dealt with the fuzzy boundaries between strata and the loose distinctions between natural and cultural material on a day-to-day basis, and recognized that relational associations, rather than formal recording techniques, were better suited for capturing these aspects of the archaeological record.
 
 Working with string, measuring tapes and plumbobs allowed fieldworkers to operate in this relational manner and communicate using the local lexicon of their trench.
@@ -231,9 +231,9 @@ However, the gradual uptick in the use of precise DGPS systems may be altering t
 DGPS systems, such as the one used in Case B, enable fieldworkers to determine an object's fixed position without having to convert between as many relational measurements.
 While it is true that DGPS positions are inferred, using a rover in relation to a more sensitive GPS unit situated in a fixed location, the people who use this system need only to measure a single point to determine the object's position. Software handles the conversions for them.
 Moreover, these off-the-shelf tools express each position according to global coordinate systems, rather than the project-specific grid system.
-Chris, who operated the DGPS for Case B, really valued this, since it enabled him to instantly visualize the points on maps downloaded from the web, which feature additional data and aspects of the surrounded built landscape that he did not have to add in himself.<sup>[B9](#sec-B9)</sup>
+Chris, who operated the DGPS for Case B, really valued this, since it enabled him to instantly visualize the points on maps downloaded from the web, which feature additional data and aspects of the surrounded built landscape that he did not have to add in himself.^[B9](#sec-B9)^
 The reduced mental overhead and the enhanced ease of use encouraged the team to record immense amounts of spatial data, and essentially all their photographs and photogrammetric models are georeferenced as a result.
 
-Fieldworkers were therefore made to think of the data they collect strictly in terms of contributing to a dataset and as feeding into a subsequent stage of work.<sup>[B8](#sec-B8), [B9](#sec-B9), [B10](#sec-B10)</sup>
+Fieldworkers were therefore made to think of the data they collect strictly in terms of contributing to a dataset and as feeding into a subsequent stage of work.^[B8](#sec-B8),[B9](#sec-B9),[B10](#sec-B10)^
 As such, fieldworkers' labour was framed as part of a larger workflow, which prioritizes an output in which they have no direct stake.
 Fieldworkers were brought into, and fieldwork was performed in service of, the domain of data management, rather than performing work that granted them more creative agency.

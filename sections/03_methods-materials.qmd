@@ -123,7 +123,7 @@ Memoing encouraged me to explore the main features, relationships or arrangement
 Memoing is also very important in the process of drawing out more coherent meaning from coded data [cf. @charmaz2014: 181, 290-293].
 By creating memos pertaining to the intersections of various codes and drawing comparisons across similarly coded instances, I was able to form more robust and generalizable arguments about the phenomena of interest and relate them to alternative perspectives expressed by others.
 
-I refer to specific elicitations throughout the rest of the text using references that resemble sequential endnotes, grouped according to the cases that they pertain to. For example: The quick brown fox jumped over the lazy dog.<sup>A1 B2</sup> All elicitations referenced in this paper are indexed in Supplement B.
+I refer to specific elicitations throughout the rest of the text using references that resemble sequential endnotes, grouped according to the cases that they pertain to. For example: The quick brown fox jumped over the lazy dog.^A1,B2^ All elicitations referenced in this paper are indexed in Supplement B.
 
 I obtained informed consent from all individuals included in this study in compliance with the University of Toronto's Social Sciences, Humanities, and Education Research Ethics Board, Protocol 34526.
 In order to ensure that participants could speak freely about their personal and professional relationships while minimizing risk to their personal and professional reputations, I committed to refrain from publishing any personally identifying information.
