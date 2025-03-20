@@ -10,7 +10,8 @@ author:
       - name: McGill University
         department: Epidemiology, Biostatistics and Occupational Health
         city: Montreal
-        region: Quebec
+        region: Québec
+        country: Canada
     orcid: 0000-0003-0435-508X
 date: today
 abstract: |
@@ -25,7 +26,7 @@ keywords:
 license: CC BY
 citation:
   title: Locating Creative Agency in Archaeological Data Work
-  url: https://zackbatist.info/locating-creative-agency.html
+  url: https://zackbatist.info/locating-creative-agency
 bibliography: locating-creative-agency.bib
 csl: chicago-author-date.csl
 toc: true
@@ -37,15 +38,23 @@ format:
     page-layout: article
     number-sections: false
     grid:
-      body-width: 1500px
+      body-width: 850px
   pdf:
-    keep-tex: true
+    documentclass: article
+    keep-tex: false
     geometry:
       - top = 1in
       - bottom = 1in
       - left = 1in
       - right = 1in
     colorlinks: true
+    toc-depth: 1
+    include-in-header:
+      text: |
+        \usepackage{orcidlink}
+        \usepackage{marvosym}
+    template-partials: 
+      - title.tex
 ---
 
 {{< include sections/01_introduction.qmd >}}
@@ -53,32 +62,8 @@ format:
 {{< include sections/03_methods-materials.qmd >}}
 {{< include sections/04_observations.qmd >}}
 {{< include sections/05_discussion-conclusion.qmd >}}
-{{< include sections/11_supplement-a.qmd >}}
-{{< include sections/12_supplement-b.qmd >}}
-{{< include sections/13_peer-reviews.qmd >}}
-
-# Acknowledgments {.appendix}
-I extend warm thanks to Costis Dallas, Matt Ratto, Ted Banning, Jeremy Huggett and Ed Swenson for supervising my work and providing critical feedback as I conducted my doctoral research, which this paper is based upon.
-I am also very grateful to the anonymous reviewers for their constructive evaluation.
-Of course, this work would not have been possible without the anonymous research participants who allowed me to observe and interview them as they worked, and to articulate their actions and outlooks.
-
-# Funding {.appendix}
-This work is derived from the author's doctoral dissertation, _Archaeological data work as continuous and collaborative practice_ [@batist2023a], which was supported by the Canadian Social Sciences and Humanities Research Council Doctoral Fellowship (Award ID: 752-2019-2233).
-
-# Competing Interests {.appendix}
-The author states no conflicts of interest.
-
-# Author Contribution {.appendix}
-Zachary Batist is the sole author of this work.
-He defined the scope of the study and identified suitable cases for inclusion, collected and processed all data, performed analysis, interpreted the findings, created all the figures, and wrote the paper.
-
-# Informed Consent {.appendix}
-Informed consent has been obtained from all individuals included in this study, in compliance with the University of Toronto's Social Sciences, Humanities, and Education Research Ethics Board, Protocol 34526.
-
-# Data Availability Statement {.appendix}
-The data generated and analyzed during the current study are included in this published article's supplementary files.
-
-# Author Bio {.appendix}
-Zachary Batist obtained his PhD from the University of Toronto's Faculty of Information.
-His research explores the collaborative commitments inherent throughout archaeological practice, especially relating to data management and the constitution of information commons.
-He currently works as a Postdoctoral Researcher at the Department of Epidemiology, Biostatistics and Occupational Health in the School of Public and Global Health at McGill University, where he investigates the collaborative, technical and administrative structures that scaffold data harmonization in epidemiological research.
+{{< include sections/10_references.qmd >}}
+{{< include sections/11_back-matter.qmd >}}
+{{< include sections/12_supplement-a.qmd >}}
+{{< include sections/13_supplement-b.qmd >}}
+<!-- {{< include sections/14_peer-reviews.qmd >}} -->
