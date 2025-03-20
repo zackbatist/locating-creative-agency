@@ -48,7 +48,7 @@ format:
       - left = 1in
       - right = 1in
     colorlinks: true
-    toc-depth: 1
+    toc: false
     include-in-header:
       text: |
         \usepackage{orcidlink}
@@ -56,6 +56,11 @@ format:
     template-partials: 
       - title.tex
 ---
+
+::: {.callout-note}
+This is a preprint of a paper submitted for open peer-review through [Peer Community in Archaeology](https://archaeo.peercommunityin.org/).
+It is identical to the version archived at [Knowledge Commons](https://hcommons.org/) (DOI: XXXX).
+:::
 
 {{< include sections/01_introduction.qmd >}}
 {{< include sections/02_background.qmd >}}
