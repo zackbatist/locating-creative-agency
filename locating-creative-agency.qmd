@@ -27,6 +27,7 @@ license: CC BY
 citation:
   title: Locating Creative Agency in Archaeological Data Work
   url: https://zackbatist.info/locating-creative-agency
+  doi: 10.17613/8eqy4-n1m82
 bibliography: locating-creative-agency.bib
 csl: chicago-author-date.csl
 toc: true
@@ -59,7 +60,7 @@ format:
 
 ::: {.callout-note}
 This is a preprint of a paper submitted for open peer-review through [Peer Community in Archaeology](https://archaeo.peercommunityin.org/).
-It is identical to the version archived at [Knowledge Commons](https://hcommons.org/) (DOI: XXXX).
+It is identical to the version archived at [Knowledge Commons](https://hcommons.org/) (DOI: [10.17613/8eqy4-n1m82](https://doi.org/10.17613/8eqy4-n1m82)).
 :::
 
 {{< include sections/01_introduction.qmd >}}
