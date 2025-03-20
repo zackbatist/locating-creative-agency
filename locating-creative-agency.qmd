@@ -35,13 +35,10 @@ number-sections: false
 format:
   html:
     page-layout: article
-    toc: true
     number-sections: false
-    embed-resources: true
     grid:
       body-width: 1500px
   pdf:
-    documentclass: article
     keep-tex: true
     geometry:
       - top = 1in
@@ -49,8 +46,6 @@ format:
       - left = 1in
       - right = 1in
     colorlinks: true
-    toc: true
-    lof: false
 ---
 
 {{< include sections/01_introduction.qmd >}}
