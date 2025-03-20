@@ -59,7 +59,5 @@ Thumbs.db
 .hugo_build.lock
 /.luarc.json
 _site/
-
-private/
 _extensions/
-qc
+locating-creative-agency_files/
