@@ -8,7 +8,7 @@ I can not say for certain whether my responses were accounted for at all during 
 The second evaluation took six months due to reviewers having agreed to review and then not submitting their feedback.
 My decision to not proceed with a third submission is in direct response to the limited pool of potential reviewers that this signifies.
 
-## First Submission
+## First Submission (CAJ)
 **Submitted:** 2024-02-26\
 **Decision:** 2024-05-23
 
@@ -245,7 +245,7 @@ How can we use this to make the documentation systems better?
 
 > I expanded on this in the conclusion.
 
-## Second Submission
+## Second Submission (CAJ)
 **Submitted:** 2024-08-22\
 **Decision:** 2025-02-25
 
@@ -384,3 +384,116 @@ References:\
 Olsen, Bjørnar, Michael Shanks, Timothy Webmoor, and Christopher Witmore. 2012. Archaeology: The Discipline of Things. University of California Press.
 
 Shanks, Michael. 2007. "Digital Media, Agile Design, and the Politics of Archaeological Authorship." In Archaeology and the Media, edited by Timothy Clack and Marcus Brittain, 273–89. Routledge.
+
+## Third Submission (PCI)
+**Submitted:** 2025-03-20\
+**Decision:** 2025-06-XX
+
+### Editorial Comments
+Despite its interest and the high quality of its content and demonstration, this document would merit some modifications on the following points:
+
+- A better balance between the summary and the empirical/analytical aspects (for example, a shorter introductory section would be preferable).
+- Clarification of the target audience: who can benefit? archaeologists? specialists in science and technology studies who have no particular knowledge of archaeology?
+
+### Reviewer 1
+My main suggestions regard two points:
+
+1. The intended audience of the paper, and
+2. he balance between abstract and empirical/analytical aspects
+
+#### Intended audience
+In the introduction, the intended audience of this study should be clarified. Who might benefit 
+from it?
+
+- Archaeologists? (how and why? given that some detailed descriptions might appear as obvious to archaeologists)
+- STS specialists with no particular knowledge about archaeology? (how and why? considering that this manuscript is submitted to an archaeology publishing space, i.e. PCI-archeo)
+
+Clarifying this point would help, I hope, highlighting the specific contributions of this paper to the understanding of archaeological research processes.
+Consequently, I suggest the abstract should be revised to make this specific points more clear.
+
+#### Balance
+The paper is divided into the following sections:
+
+- Introduction (including material and methods): 41,000 characters
+- Observation: 35,000 characters
+- Discussion: 5600 characters
+- References and supp. material: 69,000 characters
+
+An unbalance between the different parts of the paper clearly appears here: the introductory section is longer than the sections where empirical data are actually examined and analysed.
+In  other words, the paper presents a very detailed account about what should be done (providing  numerous references to previous work in various fields, STS and archaeology in particular), how it should be done and has been done (cf. the "Methods and Materials" sub-section) which are carefully crafted.
+However, when it comes to get something from the carefully collected data (or "capta" as stated), the paper offers much less and might disappoint the readership.
+The three sub-sections gathered in the "Observations" section present interesting observations but, given the ambitious "theoretical" introduction and research objectives, we might expect... more... from this section (and from the subsequent "Discussion" section as well).
+
+The material collected during field observation is obviously rich (including the non-reported material (video recording, notes, etc.)) and the material included in this paper (interviews quotes); however, it appears as under-exploited in the paper as it is, and that might potentially be considered as frustrating and a pity by some readers.
+Consequently, I suggest the author to:
+
+- Lighten the introductory sections, and the "Approach" sub-section in particular: many literature references from other fields are cited, but without detailed account about how it will be used or applied to this particular study.
+- Expand the "Observations" sections, get more benefit from the collected material.
+
+#### Additional notes
+##### Introduction
+P. 5 > acvtivity
+p. 6 > constributions
+
+> Corrected these typographic errors.
+
+##### Observation
+p. 11 > Capturing visual media
+
+This section interestingly reveals sociotechnical changes and tensions.
+Its contents might be more highlighted, for example by reflecting the main argument get from the comparison between photography and photogrammetry in the title (instead of a simple and purely thematic title "Capturing visual media").
+
+##### Suggested references
+The author might be interested in considering the following references (in particular those previous work having investigating archaeological field practices in a similar perspective; see 
+Torterat 2020, in particular, about the use of video recording):
+
+- Star, Susan Leigh, and James R. Griesemer. "Institutional ecology,translations' and boundary objects: Amateurs and professionals in Berkeley's Museum of Vertebrate Zoology, 1907-39." Social studies of science 19, no. 3 (1989): 387-420. <https://doi.org/10.1177/030631289019003001>.
+- Goodwin, Charles. "Practices of Seeing Visual Analysis: an Ethnomethodological Approach." In The Handbook of Visual Analysis,  edited by Van Leeuwen, Theo, and Carey Jewitt, 157-82. London: SAGE Publications Ltd, 2004. <https://doi.org/10.4135/9780857020062.n8>.
+- Rousseleau, Raphaël. 2015. "Lire La Terre, Truelle En Main. Une Ethnographie de La Fouille Archéologique Amateure." Ethnographiques. Org 31. <https://www.ethnographiques.org/2015/Rousseleau>.
+- Torterat, Gwendoline. 2020. "Être Attentif En Archéologie: Modalités de Transmission d'un « savoir Voir » Entre Experts et Novices Sur Un Site Paléolithique." Revue d'anthropologie Des Connaissances 14 (3). <https://doi.org/10.4000/rac.10867>.
+
+
+### Reviewer 2
+I think the manuscript's main strength lies in its ethnographic depth and conceptual clarity. That said, a few areas would benefit from attention:
+
+The manuscript is very lengthy (over 18,000 words), and some sections (particularly the Background and early Methodological discussions) introduce conceptual terms that are not consistently re-integrated in the Observations and Discussion.
+A modest reduction in conceptual redundancy, or a stronger through-line for certain key terms (e.g., "data as capta," "collaborative commitments," "discursive media," "value regimes," and "social worlds") would improve readability and strengthen coherence.
+Clarifying which of these are central analytic tools and ensuring they are revisited in the empirical analysis would help maintain conceptual focus throughout.
+
+Related to this, terms like creative agency and collaborative commitment are central but could benefit from slightly more precise or operational definitions early in the paper.
+While their meaning becomes clearer through use, more concise framing in the Introduction would help guide readers unfamiliar with the conceptual background.
+
+In line with my observation above, the analysis occasionally risks presenting a binary between constrained fieldworkers and authoritative managers or system designers.
+But there are moments where the text gestures toward more nuanced interpretations (e.g., the reflexivity of photogrammetric experts like Rufus), and expanding on these cases would further strengthen the discussion by highlighting variation in how agency is exercised across roles and contexts.
+
+One last small thing: the paper explicitly excludes commercial and community-led archaeology from its scope, and this is acknowledged (p. 6).
+While this is reasonable, a short paragraph in the Discussion reflecting on how the findings might (or might not) apply to these other sectors would broaden the relevance of the work without overextending its claims.
+
+### Author's response
+Thank you to xxxx.
+I appreciate the constructive comments and I have revised the manuscript accordingly.
+Here I describe the changes and rationale for my revisions.
+
+Both reviewers highlighted the imbalance in the text, which places significant emphasis on introductory materials, including background and methods.
+This directly relates to Reviewer 1's concern about the intended audience; I had submitted earlier versions of this manuscript to an archaeological journal, and four anonymous peer-reviewers have requested significant clarification of methodological and background details, which expanded these sections.
+I agree with both reviewers' suggestion to reduce the size of the methods section, however rather than removing this text entirely, I relocated most of it to a new section in the supplementary materials.
+I think that this decision supports my intention to direct this work to an audience comprising the burgeoning community of archaeologists who develop systematic and critical analysis of archaeological practice and infrastructures, while also making this accessible to archaeologists with less direct experience doing this kind of (qualitative) meta-research.
+
+I took greater care to define key theoretical concepts like "creative agency" and "collaborative commitments" earlier in the text, and to ensure that other key concepts are made relevant in the later discussion.
+In my opinion (and I hope you agree), these changes re-balance the paper and help provide a better "payoff" in the end.
+Specific changes include:
+[Specific references to terms and concepts followed through, revised or removed, including the page numbers where these revisions occur.]{.mark}
+
+In response to Reviewer 2's comment regarding a false dichotomy between managers and fieldworkers, this was never my intent, however I could see how some of the language (especially in the discussion) may present the findings in this way.
+I revised the discussion to make it more clear that my findings are intended to highlight systemic issues, which restrict behaviours of all involved parties.
+Moreover, I clarify that the identities of managers and fieldworkers are not fixed, but are instead associated with the contexts in which they are situated (i.e., the same person can take on the role of a fieldworker when they enter the trench, and a manager when they are made to design abstract protocols in the dig house).
+
+I added an additional line to the discussion relating this work to findings made by others in contexts of commercial archaeology.
+[Specific references needed here.]{.mark}
+
+Thank you to Reviewer 1 for suggesting these additional references.
+I included them in the text, specifically on pages XX, YY and ZZ.
+
+In response to Reviewer 1's suggestion, I revised the section title "Capturing visual media" to "xxxx".
+I also revised the few typographic errors he pointed out.
+

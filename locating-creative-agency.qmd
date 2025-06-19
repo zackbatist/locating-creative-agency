@@ -72,4 +72,4 @@ It is identical to the version archived at [Knowledge Commons](https://hcommons.
 {{< include sections/11_back-matter.qmd >}}
 {{< include sections/12_supplement-a.qmd >}}
 {{< include sections/13_supplement-b.qmd >}}
-<!-- {{< include sections/14_peer-reviews.qmd >}} -->
+{{< include sections/14_peer-reviews.qmd >}}

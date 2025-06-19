@@ -12,14 +12,14 @@ By highlighting how pragmatic actions are conducted in relation to broader discu
 This is made possible by considering data as discursive media that connects distributed actions experienced by people operating in disparate work environments, as I discussed in the prior section.
 
 To accomplish this, I draw from activity theory, distributed cognition and situated cognition frameworks to disentangle the social and practical experiences of archaeologists at work.
-Acvtivity theory frames activities as the relations between human subjects and the physical or conceptual tools or environments with or within which they act, and the motives or objectives that drive the system forward in a particular direction [@leontev1974].
+Activity theory frames activities as the relations between human subjects and the physical or conceptual tools or environments with or within which they act, and the motives or objectives that drive the system forward in a particular direction [@leontev1974].
 It was useful as a means of breaking down the activities I observed into systemic components, by articulating activities' overall objectives, distributions of labour, physical and conceptual tools, and specific tasks required to fulfill the objective.
 Activity theory frames human actions as series of practical tasks, motivated by specific outcomes.
 However, the outcomes that drive activities forward may be established by actors other than the practitioners themselves, and it is therefore necessary to situate specific activities as parts of broader systems.
 For this, I relied on the distributed cognition framework, which explores how a system's components converge through networks of relationships, dependencies or functional subsystems that enable collective work to succeed in unison [@hutchins1995].
 Distributed cognition enables me to identify how activities slot into broader systems of information control; that is, how archaeologists are rendered as components within a broader apparatus that structures their work.
 At the same time, I draw from the situated cognition framework, which highlights subjects' situated outlooks and examines how their prior experiences and participation in a community of practice informs their behaviour [@suchman2007].
-This enables me to determine how archaeologists identify their roles in the system of knowledge production and the sense of value they ascribe to their constributions to the overall knowledge base produced through collective efforts.
+This enables me to determine how archaeologists identify their roles in the system of knowledge production and the sense of value they ascribe to their contributions to the overall knowledge base produced through collective efforts.
 
 Altogether, these frameworks enable me to examine how archaeologists participate as members of sociotechnical systems that direct collective action in ways that conform to the epistemic mandates of the scientific enterprise.
 
@@ -32,7 +32,7 @@ Drawing from multiple cases thus enables comprehensive coverage of a broad topic
 
 However, I must emphasize that the cases are not the subjects of inquiry.
 Instead, they represent unique sets of circumstances that frame or contextualize sets of activities, which are actually my primary focus.
-This follows the approach advocated for by @maryl2020 [: 30], who suggest "zooming in to a granular study of particular research activities and operations and zooming out to considering broader socio-technical and cultural factors".
+This follows the approach advocated for by @maryl2020 [: 30], who suggest "zooming in to a granular study of particular research activities and operations and zooming out to considering broader sociotechnical and cultural factors".
 This involves "magnifying or blowing up the details of practice, switching theoretical lenses, and selective re-positioning so that certain aspects are fore-grounded and others are temporarily sent to the background" [@nicolini2009: 1412].
 I was therefore able to tactfully switch between those lenses to understand the interplay between circumstances and practical implementations.
 
