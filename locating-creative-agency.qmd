@@ -19,6 +19,7 @@ abstract: |
   More specifically, they re-distribute creative agency to promote specific kinds of outcomes based on discrete data models.
   This paper draws attention to the mechanisms through which data are created and curated, focusing on the social and technical apparatus through which archaeologists control the creation and flow of information.
   Based on observations of and elicitations about archaeological data work in fieldwork settings at two cases, I articulate how the management of data and of labour are inherently intertwined, and how workflows are operationalized by managerial systems to ensure that data are created and curated toward productive ends.
+  This paper therefore contributes to ongoing theory-building and prompts further reflection on the roles of information objects, infrastructures and professional relationships that mediate the valuation, validation and legitimization of archaeological knowledge.
 keywords:
   - data work
   - information infrastructures
@@ -39,7 +40,8 @@ format:
     page-layout: article
     number-sections: false
     grid:
-      body-width: 850px
+      body-width: 1000px
+      margin-width: 350px
   pdf:
     documentclass: article
     keep-tex: false

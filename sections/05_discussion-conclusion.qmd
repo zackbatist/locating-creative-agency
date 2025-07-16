@@ -13,12 +13,23 @@ For instance, I observed that in archaeological photography, fieldwork was broug
 Data management systems and the formal data structures that they enforce therefore served as vehicles through which project directors centralized their control over work being done throughout the project, and allowed them to take ownership over, exploit, and redistribute the products of collective effort.
 Archaeological data management should therefore be understood as management in a more general sense due to its reliance on managerial principles that enable strategic re-arrangement of agency from a distance.
 These observations corroborate reflections by other researchers, including @caraher2019 and @thorpe2012, who argued that workflows transfer interpretive agency away from fieldworkers --- who must decide what to record and how to record it --- to the system's designers --- who implement the rulesets in consultation with project management.
+The findings also correspond with similar observations in commercial [@zorzin2015] and community-led [@perry2018; @mickel2021] archaeology, which advocate for more substantial redistribution of creative agency throughout the archaeological process.
 They also support observations by @haciguzeller2021, who noted that structured data such as those that emerge from workflows constitute non-neutral and power-laden representations --- and as such, are the outcomes of decisions to satisfy particular sets of warrants, needs and desires.
 
-At the same time, roughly textured fieldwork environments, which are where most archaeological data first emerge, are where virtually all archaeologists learn about the norms and expectations that govern how to work and how to capture data.
-More specifically, experiencing fieldwork imbues an understanding that the information that archaeologists work with is generally rough, tentative, fluid, and flexible.
-The common cause and culture that archaeology has maintained, which is predominantly instilled through formative fieldwork experiences, is held as a shared intuitive understanding of the bounds of epistemic behaviour [as per @knorrcetina1999].
-This encourages a well-rounded and critical assessment of how individual tasks fit within broader systems of knowledge creation and drives resistance against attempts to atomize and workflow the archaeological process.
+It must also be noted that the imbalanced distribution of agency is a systemic phenomenon, and does not necessarily connote a dichotomous and oppressive relationships between managers and fieldworkers.
+For instance, in order to obtain consistent data that generate outcomes which are valued by scientific enterprise, managers must devise systems that control how fieldwork is operationalized.
+As such, all decisions and actions are borne from common systemic concerns.
+
+Moreover, the roles of "manager" and "fieldworker" are not fixed identities.
+Rather, they refer to the actors whose work is directed and bounded by specific kinds of objectives and by collaborative commitments that dictate their normative relationships within the project collective.
+Their commonalities and shared interests are reflected in mutually-held beliefs and value regimes deriving from common formative experiences;
+specifically, their work in roughly textured fieldwork environments, which are where most archaeological data first emerge, are where virtually all archaeologists learn about the norms and expectations that govern how to work and how to capture data.
+Experiencing fieldwork imbues a prevalent understanding that the information that archaeologists work with is generally rough, tentative, fluid, and flexible.
+
+The systemic drive to produce concrete and decisive data clashes with this intuitive understanding of data as improvised outcome of messy experiences, and gives rise to an epistemic anxiety concerning the nature of data [@huggett2022].
+Archaeologists respond to this anxiety by developing coping mechanisms, which range from efforts to tighten control over data production, performing all data analysis "in house" by those who already understand the nuances of the data's creation, and parsing subtext of data documentation in contexts of reuse beyond the scope of the project from which the data derived [@batist2024b; @batist2024a].
+
+In other words, the common cause and culture that archaeology has maintained encourages a well-rounded and critical assessment of how individual tasks fit within broader systems of knowledge creation and drives resistance against attempts to atomize and workflow the archaeological process.
 As such, while it may seem, in an abstract sense, that projects impose order on all the work that falls under their purview, archaeologists with plenty of fieldwork experience know intrinsically that, in practice, this should be more accurately described as an _attempt_ at order which is never fully achieved.
 Similar undocumented acts and attitudes of resistance are prevalent throughout the discipline, and are more acutely visible once the myth of a frictionless and technologically-mediated archaeology is understood to be a _proposition_ for one possible future, rather than an inevitable next stage in the evolution of our discipline [cf. @huggett2018a; @batist2021; @opitz2021; @caraher2022; @huggett2023a].
 

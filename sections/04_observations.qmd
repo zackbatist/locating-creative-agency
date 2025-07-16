@@ -47,11 +47,12 @@ In other words, he established a controlled environment that suited his specific
 
 Archaeological fieldwork would not be possible without this kind of improvised problem-solving behaviour, initiated and operationalized by fieldworkers themselves.
 In situations like that which I articulated in @fig-nail, the fieldworker constitutes a creative agent who assembles an apparatus through which they may collect meaningful information.
-He operates within a space that he is intimately familiar with, and which constitues a domain under his control, using materials available at arms reach and whose properties and affordances he is intuitively aware of.
+He operates within a space that he is intimately familiar with, and which constitutes a domain under his control, using materials available at arms reach and whose properties and affordances he is intuitively aware of.
 However, he does not work in isolation, and is in fact driven by an impetus to record specific bits of information to feed into a database, so as to enable further analysis that he plays no part in.
+In other words, Theo is bound by a collaborative commitment that relates his own experiences to the experiences of others; he is obligated to feed the outcomes of his work to the database apparatus in order to fulfill his obligation to the project collective, thereby fulfilling his role as a fieldworker.
 In what follows, I draw more focused attention toward the emerging sociotechnical tensions between these localized systems of data capture and their integration within broader sociotechnical systems that direct the flow of information.
 
-## Capturing visual media
+## Locating Agency in Illustration, Photography and Photogrammetry
 Visual media have long been an integral component of archaeological practice.
 Their main purpose is to create a representation of an object in a way that portrays its physical proportions and spatial configuration.
 Archaeologists accomplish this using systems that transpose spatial configurations onto mutable and mobile media.
@@ -75,15 +76,6 @@ After plotting a series of points in this manner, the illustrator connected them
 She then erased any arbitrary control lines and reference points, traced the pencil-drawn lines with ink to enhance visual contrast and clarity, and applied patterned in-filling to the shapes between the plotted lines to represent different kinds of objects.
 The illustrator also demarcated the precise location where a sample specimen was taken by plotting icons at the appropriate grid coordinate, and annotated the image with the elevations of significant points.^[A13](#sec-A13),[A14](#sec-A14)^
 
-The illustrator then identifies significant spatial points that correspond with meaningful material intersections, for instance the corners of large boulders or points along a stratigraphic interface, and expresses the points' positions in terms that specify the number of centimetres distance between a point and the string and between a point and the position of the intersecting baulk, with reference to the measuring tapes.
-The illustrator then places a dot on the page at a position that represents an equivalent intersection, but at a smaller scale.
-Plotting more points makes it easier to draw a more precise line, but experienced illustrators are relatively adept at matching the observed interfaces on the page.^[A13](#sec-A13),[B2](#sec-B2)^
-
-After all the significant lines are drawn, the illustrator erases any arbitrary control lines and reference points, and traces the pencil-drawn lines with ink to enhance visual contrast and clarity.
-They then apply patterned in-filling to the shapes between the plotted lines to represent different kinds of objects.
-For instance, the illustrator may represent clay soils with diagonal lines, and fill the outlines of boulders with fine, speckled dots.
-The illustrator may also demarcate the precise location where a sample specimen was taken by plotting an icon at the appropriate grid coordinate, or may annotate the image with the elevations of significant points as determined with reference to fixed spatial points that the spatial data specialist recorded.^[A13](#sec-A13)^
-
 Although I have not observed artefact illustration for the purposes of this study, it involves a very similar process (see @adkins1989 and @griffiths2007 for more detailed overviews of artefact illustration procedures).
 However there is greater emphasis on applying visual cues through use of common conventions, which convey specific information about the objects they represent [@banning2020: 351-361].
 For instance, the top and bottom points are more explicitly articulated to facilitate comparing drawings of the same artefact from different spatial perspectives (i.e. dorsal, ventral and edge perspectives), and line widths and dotting convey specific meanings regarding the artefact's physical properties, such as to account for weathering processes or whether a broken edge is ancient or a product of modern intervention.
@@ -106,7 +98,7 @@ Photography differs from illustration in that it captures an object's likeness a
 Photography does involve active decision-making, like deciding what is worth recording, or deciding how to adjust the environment and how to configure the camera to account for the photographer's understanding of how their camera will respond in a specific set of conditions.
 But, by-and-large, archaeological photography is more concerned with obtaining a record of an object rather than a representation of objects in relation to other forms of archaeological information.
 This is evident through the fact that, in the cases I investigated, much of a photograph's significance stemmed from its associations with records made about it.
-In the excerpt presented in @fig-photolog-convo from an interview with Chris (one of Case B's co-directors and the person in charge of photography on site), he explains how each photo was recorded in a ``photo log'' or a spreadsheet that identifies the objects photographed and documents the circumstances under which the photos were taken.
+In the excerpt presented in @fig-photolog-convo from an interview with Chris (one of Case B's co-directors and the person in charge of photography on site), he explains how each photo was recorded in a "photo log" or a spreadsheet that identifies the objects photographed and documents the circumstances under which the photos were taken.
 
 ::: {#fig-photolog-convo layout-ncol=1}
 **Zack:** Can I get a brief shot of the page, what you're writing there?\
@@ -148,6 +140,7 @@ Now fieldworkers may be quickly trained on the job or be made to follow standard
 Archaeological fieldworkers can thus be made to capture objects visually according to predefined protocols, stimulated by certain triggering conditions, and using the cheapest approach available.
 It is not necessary to waste time training photographers to understand how a camera works and how to set up their equipment in a manner that yields good results, when it is more efficient to delegate these creative acts to experts who design systems and document the operational specifications in excavation manuals that fieldworkers are expected to follow blindly.
 Fieldworkers are rarely taught how a piece of equipment works; instead, they are taught how to operate it.
+In other words, embedding fieldworkers as components of the technical apparatus, whose actions are dictated by workflows, reduces their creative agency.
 
 That being said, @morgan2018 also drew attention to the ways in which archaeological photography, including acts of image manipulation, can enhance archaeological understanding if performed in ways that are reminiscent of the intimate engagements necessary to generate informative illustrations of entities encountered during fieldwork, such as archaeological illustration, which remains a relatively specialized activity.
 As a document about the archaeological encounter, a photo must be created by someone who knows what they have recovered and why it is significant.
@@ -192,7 +185,7 @@ Attempts to systematize creation of visual media largely focused on the outcomes
 This is accomplished by elevating tools as actors that dominate human action, or by reducing people's actions as being akin to the use of tools.
 <!-- Resistances to these efforts tended to be most prominent in cases where the agency of the people who capture visual media was deemed more valuable than the information objects that derive from work processes. -->
 
-## Collecting and managing spatial data
+## Locating Agency in the Collection and Management of Spatial Data
 Archaeologists are very concerned with accounting for spatial distributions of the objects they recover.
 Every artefact, feature or interface an archaeologist encounters can be characterized in spatial terms.
 Here I will describe various techniques that archaeologists have developed to help systematize the collection and integration of spatial information, and relate these practices to emerging tensions pertaining to the coordination of labour and data.
