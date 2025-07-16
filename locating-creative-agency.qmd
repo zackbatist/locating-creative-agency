@@ -23,7 +23,7 @@ abstract: |
 keywords:
   - data work
   - information infrastructures
-  - digital fieldwork practices
+  - fieldwork practices
 license: CC BY
 citation:
   title: Locating Creative Agency in Archaeological Data Work
@@ -44,7 +44,7 @@ format:
       margin-width: 350px
   pdf:
     documentclass: article
-    keep-tex: false
+    keep-tex: true
     geometry:
       - top = 1in
       - bottom = 1in
@@ -74,4 +74,4 @@ It is identical to the version archived at [Knowledge Commons](https://hcommons.
 {{< include sections/11_back-matter.qmd >}}
 {{< include sections/12_supplement-a.qmd >}}
 {{< include sections/13_supplement-b.qmd >}}
-{{< include sections/14_peer-reviews.qmd >}}
+<!-- {{< include sections/14_peer-reviews.qmd >}} -->
