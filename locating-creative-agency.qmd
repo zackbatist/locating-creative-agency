@@ -35,6 +35,9 @@ toc: true
 toc-depth: 3
 toc-expand: 2
 number-sections: false
+filters:
+  - count-para.lua
+enclosing: "[]"
 format:
   html:
     page-layout: article
@@ -42,6 +45,13 @@ format:
     grid:
       body-width: 1000px
       margin-width: 350px
+    include-in-header:
+      - text: |
+          <style type="text/css">
+          h1.hide {
+            display: none;
+          }
+          </style>
   pdf:
     documentclass: article
     keep-tex: true
@@ -70,8 +80,8 @@ It is identical to the version archived at [Knowledge Commons](https://hcommons.
 {{< include sections/03_methods-materials.qmd >}}
 {{< include sections/04_observations.qmd >}}
 {{< include sections/05_discussion-conclusion.qmd >}}
-{{< include sections/10_references.qmd >}}
-{{< include sections/11_back-matter.qmd >}}
 {{< include sections/12_supplement-a.qmd >}}
 {{< include sections/13_supplement-b.qmd >}}
+{{< include sections/10_references.qmd >}}
+{{< include sections/11_back-matter.qmd >}}
 <!-- {{< include sections/14_peer-reviews.qmd >}} -->

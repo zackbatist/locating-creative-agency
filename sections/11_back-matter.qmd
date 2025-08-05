@@ -1,4 +1,4 @@
-::: {.content-hidden}
+:::{.content-visible when-format="html"}
 # Back Matter {.hide}
 :::
 

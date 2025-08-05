@@ -48,42 +48,28 @@ I also took care to edit or avoid using direct quotations that were cited in oth
 ## Research Participants
 Here is a list and brief description of individuals mentioned throughout the paper:
 
-**(A) Theo:** Commercial archaeologist, recommended to Basil by a mutual friend. An excavator by profession, his competence often serves as an example for the rest of the crew. He became field director after a few years working as a trench supervisor. He is very laid back and has a casual attitude.
-
-**(A) Jane:** One of Basil's top students, who joined the project for one season. As a very independent and competent worker, she took on supervisory responsibilities and stood out as an exemplary fieldworker.
-
-**(B) Chris:** Project co-director. He is a specialist in the archaeology of the region and a very experienced fieldworker. He uses the project as a base for a field school, where undergraduate students from his university learn basic fieldwork practices.
-
-**(B) Rufus:** Project co-director. As a former student of one of the previous co-directors and a leading participant in prior research at the site, Rufus was well suited to take the reigns when the former directors transitioned to other research interests. Rufus is an expert in the archaeology of the region, and an innovator in the application of digital recording practices in archaeological fieldwork.
-
-**(B) Liz:** Graduate student and trench supervisor who worked with the project the previous year. Her dissertation is in part based on data derived from this project.
-
----
+|   |  |   |
+| - | -- | --------------------------------------- |
+| **A** | **Theo**   | Commercial archaeologist, recommended to Basil by a mutual friend. An excavator by profession, his competence often serves as an example for the rest of the crew. He became field director after a few years working as a trench supervisor. He is very laid back and has a casual attitude. |
+| **A** | **Jane**   | One of Basil's top students, who joined the project for one season. As a very independent and competent worker, she took on supervisory responsibilities and stood out as an exemplary fieldworker. |
+| **B** | **Chris**   | Project co-director. He is a specialist in the archaeology of the region and a very experienced fieldworker. He uses the project as a base for a field school, where undergraduate students from his university learn basic fieldwork practices. |
+| **B** | **Rufus**   | Project co-director. As a former student of one of the previous co-directors and a leading participant in prior research at the site, Rufus was well suited to take the reigns when the former directors transitioned to other research interests. Rufus is an expert in the archaeology of the region, and an innovator in the application of digital recording practices in archaeological fieldwork. |
+| **B** | **Liz**   | Graduate student and trench supervisor who worked with the project the previous year. Her dissertation is in part based on data derived from this project. |
 
 Here is a list and brief description of individuals mentioned throughout Supplement B but who do not appear in the main section of the paper:
 
-**(A) Gabe:** Geoarchaeologist attached to the project. He initially served as field director, but his presence on this project became sparse after he took on additional work with other research projects elsewhere. He remained on board as a significant collaborator, but no longer as field director. He is known for his aptitude with statistical analysis and for being level-headed.
-
-**(A) Alfred:** Senior graduate student working at the project for his geoarchaeology dissertation at a North American university. He took on the role of field director while Gabe peeled back his commitments. He is confident, with a hands-on, get-things-done attitude.
-
-**(A) Dorothy:** Senior graduate student who oversees palaeobotanical analysis, including sample collection and processing protocols.
-
-**(A) Jolene:** Senior graduate student who oversees the analysis of chipped stone for the project. She met Basil while working at another project.
-
-**(A) Agatha:** Graduate student who serves as Jolene's assistant. Her specialty is ground-stone artefacts but in this project she largely performs logistical duties.
-
-**(A) Talia:** Junior faculty member who became involved with the project as a trench supervisor after a colleague recommended her to Basil.
-
-**(A) Lauren:** Graduate student who became involved with the project as a trench supervisor after a colleague recommended her to Basil.
-
-**(A) Lester:** Commercial archaeologist who became involved with the project as a trench supervisor after Theo recommended him to Basil.
-
-**(A) Olivia:** Commercial archaeologist who became involved with the project as a trench supervisor after Alfred recommended her to Basil.
-
-**(A) Ben:** One of Basil's top students, who joined as a trench assistant. He came back the following year as a trench supervisor.
-
-**(A) Isabelle:** Undergraduate student who joined as a trench assistant. She works as Basil's lab assistant during the off-season as well.
-
-**(B) Bernard:** Former co-director who has moved on to working at other projects elsewhere in the region. He still consults with the team currently working at Case B.
-
-**(B) Greg:** Rufus's old friend who serves as the project's database technician. He works as a database operator at a large commercial firm and is offering his expertise to rebuild the project's database to more technically and professionally sound standards.
+|   |  |   |
+| - | --- | --------------------------------------- |
+| **A** | **Gabe**   | Geoarchaeologist attached to the project. He initially served as field director, but his presence on this project became sparse after he took on additional work with other research projects elsewhere. He remained on board as a significant collaborator, but no longer as field director. He is known for his aptitude with statistical analysis and for being level-headed. |
+| **A** | **Alfred**   | Senior graduate student working at the project for his geoarchaeology dissertation at a North American university. He took on the role of field director while Gabe peeled back his commitments. He is confident, with a hands-on, get-things-done attitude. |
+| **A** | **Dorothy**   | Senior graduate student who oversees palaeobotanical analysis, including sample collection and processing protocols. |
+| **A** | **Jolene**   | Senior graduate student who oversees the analysis of chipped stone for the project. She met Basil while working at another project. |
+| **A** | **Agatha**   | Graduate student who serves as Jolene's assistant. Her specialty is ground-stone artefacts but in this project she largely performs logistical duties. |
+| **A** | **Talia**   | Junior faculty member who became involved with the project as a trench supervisor after a colleague recommended her to Basil. |
+| **A** | **Lauren**   | Graduate student who became involved with the project as a trench supervisor after a colleague recommended her to Basil. |
+| **A** | **Lester**   | Commercial archaeologist who became involved with the project as a trench supervisor after Theo recommended him to Basil. |
+| **A** | **Olivia**   | Commercial archaeologist who became involved with the project as a trench supervisor after Alfred recommended her to Basil. |
+| **A** | **Ben**   | One of Basil's top students, who joined as a trench assistant. He came back the following year as a trench supervisor. |
+| **A** | **Isabelle**   | Undergraduate student who joined as a trench assistant. She works as Basil's lab assistant during the off-season as well. |
+| **B** | **Bernard**   | Former co-director who has moved on to working at other projects elsewhere in the region. He still consults with the team currently working at Case B. |
+| **B** | **Greg**   | Rufus's old friend who serves as the project's database technician. He works as a database operator at a large commercial firm and is offering his expertise to rebuild the project's database to more technically and professionally sound standards. |
