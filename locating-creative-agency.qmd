@@ -71,8 +71,9 @@ format:
 ---
 
 ::: {.callout-note}
-This is a preprint of a paper submitted for open peer-review through [Peer Community in Archaeology](https://archaeo.peercommunityin.org/).
-It is identical to the version archived at [Knowledge Commons](https://hcommons.org/) (DOI: [10.17613/8eqy4-n1m82](https://doi.org/10.17613/8eqy4-n1m82)).
+This paper has been reviewed through [Peer Community in Archaeology](https://archaeo.peercommunityin.org/) ([10.24072/pci.archaeo.100608](https://doi.org/10.24072/pci.archaeo.100608)).
+[It is identical to the version archived at [Knowledge Commons](https://hcommons.org/) ([10.17613/8eqy4-n1m82](https://doi.org/10.17613/8eqy4-n1m82)).]{.content-visible when-format="html"}
+[It is identical to the versions archived at [Knowledge Commons](https://hcommons.org/) ([10.17613/8eqy4-n1m82](https://doi.org/10.17613/8eqy4-n1m82)) and available on the web at [zackbatist.info/locating-creative-agency](https://zackbatist.info/locating-creative-agency/).]{.content-visible when-format="pdf"}
 :::
 
 {{< include sections/01_introduction.qmd >}}
